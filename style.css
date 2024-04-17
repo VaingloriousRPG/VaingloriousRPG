@@ -1,0 +1,219 @@
+:root{
+    --clr-back: rgba(1, 13, 66, 0.719);
+    --clr-fighter: rgba(189, 186, 186);
+    --clr-rogue:  rgba( 204, 209, 204);
+    --clr-hunt:  rgba(115, 170, 142);
+    --clr-dokour: rgb(234, 84, 107);
+    --clr-eolas: rgba(237, 226, 192);
+    --clr-strumos: rgb(232, 247, 149);
+    --clr-sylvan: #05ee19;
+    --clr-orix: rgb(184, 128, 171);
+    --clr-tiro: rgba(196, 197, 148);
+    --clr-all: rgb(228, 241, 228);
+
+    --ff-base: "Milonga", serif;
+
+    --fw-regular: 300;
+    --fw-semi-bold: 400;
+    --fw-bold: 700; 
+}
+html{
+    color-scheme: light dark;
+}
+
+body{
+    font-family: var(--ff-base);
+    font-weight: var(--fw-regular);
+    line-height: 1.5;
+    font-style: normal;
+    background-color: var(--clr-back);
+}
+.title{
+    font-size: 6em;
+    text-align: center;
+}
+.navbar{
+    height: 5vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    background-color: rgba(2, 8, 37, 0.719);
+    align-items: center;
+}
+#navlist{
+    display: flex;
+    justify-content: space-around;
+    align-self: end;
+    list-style-type: none;
+}
+.main{
+    display: grid;
+    grid-template-columns: repeat(11, 9vw);
+    grid-auto-rows: 30vh;
+    
+}
+.intro{
+    grid-column: 2 / 11;
+    grid-row: 1 / 3;
+    max-height: 60vh;
+    max-width: 79vw;
+    overflow-y: auto;
+}
+.tiro{
+    grid-column: 2 / 7;
+    grid-row: 2;
+}
+.race{
+    grid-column: 2 / 6;
+    grid-row: 3;
+    width: 40vw;
+    height: 30vh;
+    position: relative;
+    margin: 0px auto;
+    
+}
+.rcard{
+    font-size: 4em;
+    
+    place-self: center;
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+    min-width: 30vw;
+    height: 25vh;
+    text-align: center;
+    background-color: black;
+}
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: var(--fw-bold);
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover{
+    background-color: rgba(0,0,0,0.8);
+}
+.dot {
+    text-align: center;
+    grid-column: 2 / 6;
+    grid-row: 4;
+}
+.rdot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+.active, .rdot:hover {
+    background-color: #717171;
+}
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+.profession{
+    grid-column: 6 / 12;
+    grid-row: 3;
+    max-width: 40vw;
+    max-height: 30vh;
+    position: relative;
+    margin: 0px auto;
+}
+.pcard{
+    font-size: 5em;
+    place-self: center;
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+    min-width: 35vw;
+    height: 25vh;
+    text-align: center;
+    background-color: black;
+}
+@media screen and (max-width: 800px) {
+    .rcard,.pcard {font-size: 6vw}
+}
+.pprev, .pnext {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: var(--fw-bold);
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+.pnext {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+.pprev:hover, .pnext:hover{
+    background-color: rgba(0,0,0,0.8);
+}
+.profdot {
+    text-align: center;
+    grid-column: 7 / 11;
+    grid-row: 4;
+}
+.pdot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+.pactive, .pdot:hover {
+    background-color: #717171;
+}
+.pfade {
+    animation-name: pfade;
+    animation-duration: 1.5s;
+}
+
+@keyframes pfade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+#race5, #race6, #race7 {
+    background-color:darkseagreen
+}
+#race4 {
+    background-color:rgb(33, 44, 33)
+}
+#class7 {
+    background-color: rgb(206, 4, 4);
+}
+.postClassRace{
+    grid-column: 4 / 9;
+    grid-row: 4;    
+    display: flex;
+    justify-content: center;
+    align-content: start;
+}
+.footer{
+    font-size:xx-small;
+    margin-left: 10vw;
+}

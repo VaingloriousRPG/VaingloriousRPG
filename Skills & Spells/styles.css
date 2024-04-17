@@ -1,0 +1,395 @@
+:root{
+  --clr-back: rgba(1, 13, 66, 0.719);
+  --clr-fighter: rgba(189, 186, 186);
+  --clr-rogue:  rgba( 204, 209, 204);
+  --clr-hunt:  rgba(115, 170, 142);
+  --clr-dokour: rgb(234, 84, 107);
+  --clr-eolas: rgba(237, 226, 192);
+  --clr-strumos: rgb(232, 247, 149);
+  --clr-sylvan: #05ee19;
+  --clr-orix: rgb(184, 128, 171);
+  --clr-tiro: rgba(196, 197, 148);
+  --clr-all: rgb(228, 241, 228);
+
+  --ff-base: "Milonga", serif;
+
+  --fw-regular: 300;
+  --fw-semi-bold: 400;
+  --fw-bold: 700; 
+}
+html{
+  color-scheme: light dark;
+}
+
+body{
+  font-family: var(--ff-base);
+  font-weight: var(--fw-regular);
+  line-height: 1.5;
+  font-style: normal;
+  background-color: var(--clr-back);
+}
+.title{
+  font-size: 3em;
+  text-align: center;
+}
+.content {margin: 5px; width: 100%; }
+
+.navbar{
+      height: 5vh;
+      margin-left: 5vw;
+      margin-right: 5vw;
+      background-color: rgba(2, 8, 37, 0.719);
+      align-items: center;
+  }
+  #navlist{
+    font-size: .8em;
+      display: flex;
+      justify-content: space-around;
+      align-self: end;
+      list-style-type: none;
+  }
+
+.btnCurtain {
+  position: absolute; /* Position them relative to the browser window */
+  writing-mode: vertical-rl;
+  left: -4px; /* Position them outside of the screen */
+  bottom: 30vh; 
+  transition: 0.3s; /* Add transition on hover */
+  padding: 0px; /* xxpx padding */
+  width: 40px; /* Set a specific width */
+  height: 280px;
+  text-decoration: none; /* Remove underline */
+  font-size: 20px; /* Increase font size */
+  color: white; /* White text color */
+  border-radius: 0 25px 25px 0; /* Rounded corners on the top right and bottom right side */
+  background-color: rgb(13, 14, 13); border-color: cyan; border-width: 3px;
+  cursor: pointer;
+}
+.btnCurtain:hover {
+  left: 0px; /* On mouse-over, make the elements appear as they should */
+}
+
+.hunt {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
+              background-image: url("images/HunPics.png"); background-repeat: no-repeat; 
+              background-size: cover; background-position: 50% 60%;}
+
+      .btnH {color:black; font-size: 1em; width: max-content; overflow: hidden;
+              background-color: rgb(115, 170, 142); float: left; cursor: pointer;
+              text-align: left; margin-left: 1vw;}
+
+      .btnH2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(124, 184, 153, 0.432);
+              width: max-content; float: center; cursor: pointer; overflow: hidden;
+              text-align: left;}
+
+.fig {color:rgb(248, 244, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center; 
+              background-image: url("images/FigPics.png"); background-repeat: no-repeat; background-size: cover;
+              background-position: 50% 60%;}
+
+     .btnF {color:rgb(61, 61, 61); font-size: 1em; width: max-content; float: left; overflow: hidden;
+              background-color:rgb(189, 186, 186); cursor: pointer; text-align: left; margin-left: 1vw;}
+          
+     .btnF2 {color: black; font-size: .8em; background-color: rgba(167, 166, 166, 0.726);
+              float: center; width: max-content; cursor: pointer; overflow: hidden;
+              text-align: left;}
+
+.rog {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
+              background-image: url("images/RogPics.png"); background-repeat: no-repeat; background-size: cover;
+              background-position: 50% 60%;}
+                    
+     .btnR {color:black; font-size: 1em; width: max-content; float: left; cursor: pointer; overflow: hidden;
+              text-align: left; background-image: url("images/RogBack.png"); margin-left: 1vw;}
+                    
+     .btnR2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(204, 209, 204, 0.514);
+               width: max-content; float: center; cursor: pointer; overflow: hidden;
+               text-align: left;}
+
+.dok {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
+            background-image: url("images/DokPics.png"); background-repeat: no-repeat; background-size: cover;
+            background-position: 50% 60%;}
+                         
+     .btnD {color: rgba(48, 10, 10); font-size: 1em; width: max-content; float: left; cursor: pointer;  
+            overflow: hidden; background-color:rgb(234, 84, 107); text-align: left; margin-left: 1vw;}
+                         
+     .btnD2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(237, 106, 128, 0.5);
+               width: max-content; float: center; cursor: pointer; overflow: hidden;
+               text-align: left;}
+
+.eol {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
+        background-image: url("images/EolPics.png"); background-repeat: no-repeat; background-size: cover;
+        background-position: 60% 70%;}
+                              
+     .btnE {color:rgb(72, 77, 14); font-size: 1em; width: max-content; float: left; cursor: pointer; overflow: hidden;
+                background-color: rgba(237, 226, 192); text-align: left; margin-left: 1vw;}
+                              
+     .btnE2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(237, 226, 192, 0.705);
+               width: max-content; float: center; cursor: pointer; overflow: hidden;
+               text-align: left;}
+
+.str {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
+        background-image: url("images/StrPics.png"); background-repeat: no-repeat; background-size: cover;
+        background-position: 50% 60%;}
+                              
+     .btnS {color:rgb(39, 43, 11); font-size: 1em; width: max-content; float: left; cursor: pointer; overflow: hidden;
+              background-color:rgb(232, 247, 149); text-align: left; margin-left: 1vw;}
+                              
+     .btnS2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(231, 250, 123, 0.664);
+               width: max-content; float: center; cursor: pointer; overflow: hidden;
+               text-align: left;}
+
+.syl {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
+        background-image: url("images/SylPics.png"); background-repeat: no-repeat; background-size: cover;
+        background-position: 50% 60%;}
+                                        
+     .btnSy {color:rgb(21, 37, 21); font-size: 1em; width: max-content; float: left; cursor: pointer; overflow: hidden;
+              background-color:#05ee19; text-align: left; margin-left: 1vw;}
+                                        
+     .btnSy2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(15, 255, 27, 0.507);
+               width: max-content; float: center; cursor: pointer; overflow: hidden;
+               text-align: left;}
+
+.ori {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
+        background-image: url("images/OriPics.png"); background-repeat: no-repeat; background-size: cover;
+        background-position: 50% 60%;}
+                                        
+     .btnO {color:rgb(244, 247, 244); font-size: 1em; width: max-content; float: left; cursor: pointer; overflow: hidden;
+              background-color: rgb(184, 128, 171); text-align: left; margin-left: 1vw;}
+                                        
+     .btnO2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(143, 6, 109, 0.452);
+               width: max-content; float: center; cursor: pointer; overflow: hidden;
+               text-align: left;}
+
+.tir {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
+        background-image: url("images/TirPics.png"); background-repeat: no-repeat; background-size: cover;
+        background-position: 50% 60%;}
+                         
+     .btnT {color:rgb(10, 10, 10); font-size: 1em; width: max-content; float: center; cursor: pointer; overflow: hidden;
+               background-image: url("images/TiroBack.png"); text-align: left; margin-left: 1vw;}
+                         
+     .btnT2 {color: rgb(19, 19, 17); font-size: .8em; background-color: rgba(196, 197, 148, 0.61);
+               width: max-content; float: center; cursor: pointer; overflow: hidden;
+               text-align: left;}
+     
+.all {color:rgb(238, 233, 237); font-size: clamp(.5rem, 1.5rem, 4rem); margin-top: 5px; padding: 10px; text-align: center;
+        background-image: url("images/AllCard.png"); background-repeat: no-repeat; background-size: cover;
+        background-position: 60% 72%;}
+                         
+     .btnA {color:rgba(88, 45, 81); font-size: 1em; width: max-content; float: center; cursor: pointer; overflow: hidden;
+               background-color: rgb(228, 241, 228); text-align: left; margin-left: 1vw; }
+                         
+     .btnA2 {color: rgba(88, 45, 81, 0.911); font-size: .8em; background-color: rgba(228, 241, 228, 0.582);
+               width: max-content; float: center; cursor: pointer; overflow: hidden;
+               text-align: left;}
+     
+.banner {color:rgb(238, 233, 237); font-size: 2em; margin-top: 2vh; text-align: center;
+        background-image: url("images/AllCard.png"); background-repeat: no-repeat; background-size: cover;
+        background-position: 60% 72%;}
+
+ /* Curtain Overlay (background) */
+ .overlay {
+    /* Height & width depends on how you want to reveal the overlay (see JS below) */   
+    height: 100%;
+    width: 0;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    background-color: rgb(0,0,0); /* Black fallback color */
+    background-color: rgba(0,0,0, 0.8); /* Black w/opacity */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 1.2s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+  }
+  
+  /* Position the content inside the overlay */
+  .overlay-content {
+    position: relative;
+    top: 12%; /* 5% from the top */
+    width: 100%; /* 100% width */
+    text-align: center; /* Centered text/links */
+    margin-top: 0px; 
+  }
+  #skillgrid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 32vh;
+    padding: 1vw;
+  }
+  #one{
+    grid-column:1;
+    grid-row: 1;
+    background-image: url("images/HunterCard.png");
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+  }
+  #two{
+    grid-column:1;
+    grid-row: 2;
+    background-image: url("images/FighterCard.png");
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+  }
+  #three{
+    grid-column:1;
+    grid-row: 3;
+    background-image: url("images/RogueCard.png");
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+  }
+  #four{
+    grid-column:2;
+    grid-row: 1;
+    background-image: url("images/SylvanCard.png");
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+  }
+  #five{
+    grid-column:2;
+    grid-row: 2;
+    background-image: url("images/StrumosCard.png");
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+  }
+  #six{
+    grid-column:2;
+    grid-row: 3;
+    background-image: url("images/DokourCard.png");
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+  }
+  #seven{
+    grid-column:3;
+    grid-row: 1;
+    background-image: url("images/EolasCard.png");
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+  }
+  #eight{
+    grid-column:3;
+    grid-row: 2;
+    background-image: url("images/TiroCard.png");
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+  }
+  #nine{
+    grid-column:3;
+    grid-row: 3;
+    background-image: url("images/OrixCard.png");
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+  }
+  #ten{
+    grid-column:4;
+    grid-row: 1;
+    background-image: url("images/AllCard.png");
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+  }
+  
+  /* The navigation links inside the overlay */
+  .overlay button {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #81818133;
+    display: block; /* Display block instead of inline */
+    transition: 0.3s; /* Transition effects on hover (color) */
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .overlay button:hover, .overlay button:focus {
+    color: #351d1d; 
+  }
+  #ten:hover, #ten:focus{color: #f7ed83; text-shadow:#000000 1px 0 15px;}
+  
+  /* Position the close button (top right corner) */
+  .overlay .closebtn {
+    position: absolute;
+    top: 2px;
+    right: 25px;
+    font-size: 4em;
+  }
+  
+  /* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+  @media screen and (max-width: 800px) {
+    .overlay button {font-size: 20px}
+    .overlay .closebtn {
+      font-size: 40px;
+      top: 15px;
+      right: 35px;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    .overlay-content #skillgrid {
+      display: grid;
+      grid-template-columns: 1fr;
+      overflow: hidden;
+      grid-auto-rows: 18vh;
+      padding: 1vw;
+    }
+    .btnCurtain { 
+      width: 20px;
+      writing-mode: unset;
+      word-wrap: break-word;
+      white-space: pre-wrap;
+      overflow: hidden;
+      bottom: 20vh;
+    }
+    #one{
+      grid-column:1;
+      grid-row: 1;
+      background-position: 0% 5%;
+    }
+    #two{
+      grid-column:1;
+      grid-row: 2;
+      background-position: 0% 5%;
+    }
+    #three{
+      grid-column:1;
+      grid-row: 3;
+      background-position: 0% 5%;
+    }
+    #four{
+      grid-column:1;
+      grid-row: 4;
+      background-position: 0% 5%;
+    }
+    #five{
+      grid-column:1;
+      grid-row: 5;
+      background-position: 0% 5%;
+    }
+    #six{
+      grid-column:1;
+      grid-row: 6;
+      background-position: 0% 5%;
+    }
+    #seven{
+      grid-column:1;
+      grid-row: 7;
+      background-position: 0% 5%;
+    }
+    #eight{
+      grid-column:1;
+      grid-row: 8;
+      background-position: 0% 5%;
+    }
+    #nine{
+      grid-column:1;
+      grid-row: 9;
+      background-position: 0% 5%;
+    }
+    #ten{
+      grid-column:1;
+      grid-row: 10;
+      background-position: 0% 5%;
+    }
+  } 
+
+              
+              
+     
+                    
+                    
+          
+          

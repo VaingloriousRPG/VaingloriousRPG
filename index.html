@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vainglorious RPG</title>
+    <link rel="stylesheet" href="style.css"/> 
+    <script src="index.js" defer></script>
+<link rel="preconnect" href="https://api.fonts.coollabs.io" crossorigin>
+<link href="https://api.fonts.coollabs.io/css2?family=Milonga&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="title">VAINGLORIOUS RPG</div>
+    <div class="navbar">
+        <ul id="navlist">
+            <li>Home</li>
+            <li>Gameplay & Rules</li>
+            <li><a href='Skills & Spells/index.html'>Skills & Spells</a></li>
+            <li>Character Sheet</li>
+            <li>about</li>
+        </ul>
+    </div>
+    <div class="main">
+        <div class="intro"><p>Welcome to Vainglorious.</p>
+            <p>Vainglorious is an old-school role-playing game with an emphasis on player interaction.  
+                <br>Players volunteer to join a group with the goal of bringing a unique adventure to life.
+                <br>A Gamemaster organizes and creates the world through which players experience adventures with their characters and imagination.</p>  
+            <p>This system is designed to support a wide range of play styles, providing a framework of rules and methods for creating and 
+            interacting with a vibrant mythical world.
+                <br>Magic spells, combat, movement, concoctions, planar travel, and the passage of time are all 
+                defined and designed for ease of use and logical connection.</p>
+            <p>A wide variety of character classes allow players to experience adventures from a distinct 
+                perspective with widely varying spells, skills, and abilities.  
+                <br>Combining unique strengths and weaknesses, each class allows players to solve problems and complete quests through wit and guile.</p>
+            <p>The passage of time plays a significant role in all aspects of the game.  Concoctions go bad, spells wane, and the world moves along.  
+               <br>Tracking time both during and between adventures adds a sense of realism to what otherwise might seem like a static world.
+            <br>Gamemasters are encouraged to integrate the passage of time into adventures.</p>
+            <p>Movement on the world map has been simplified to a mark system.  
+                <br>Marks are a loosely defined distance that a humanoid can normally walk in one day.  
+                <br>That distance varies by terrain and roads, allowing for a more organic feel than grid systems.</p>
+            <p>We hope that you will find these rules as useful, exciting, and entertaining as we do.</p>
+            </div>
+        <div class="tiro"></div>
+        <div class="race" >
+            <div class="rcard fade" id="race1">Dwarf Fossoren</div>
+            <div class="rcard fade" id="race2">Dwarf Lanxen</div>
+            <div class="rcard fade" id="race3">Dwarf Murik</div>
+            <div class="rcard fade" id="race4">Elf Dark</div>
+            <div class="rcard fade" id="race5">Elf Fey</div>
+            <div class="rcard fade" id="race6">Elf High</div>
+            <div class="rcard fade" id="race7">Elf Tree</div>
+            <div class="rcard fade" id="race8">Human Graymore</div>
+            <div class="rcard fade" id="race9">Human Halfling</div>
+            <div class="rcard fade" id="race10">Human Mountaineer</div>
+            <div class="rcard fade" id="race11">Human Plains Kin</div>
+            <div class="rcard fade" id="race12">Minotar</div>
+            <div class="rcard fade" id="race13">Presma</div>
+            <div class="rcard fade" id="race14">Sprite</div>
+            <div class="rcard fade" id="race15">Vocqua</div>
+            <div class="rcard fade" id="race16">Voldyar</div>
+        <a class="prev" onclick="plusRace(-1)">❮</a>
+        <a class="next" onclick="plusRace(1)">❯</a>
+    </div>
+        <br>
+        <div class=dot>
+            <span class="rdot" onclick="currentRace(1)"></span>
+            <span class="rdot" onclick="currentRace(2)"></span>
+            <span class="rdot" onclick="currentRace(3)"></span>
+            <span class="rdot" onclick="currentRace(4)"></span>
+            <span class="rdot" onclick="currentRace(5)"></span>
+            <span class="rdot" onclick="currentRace(6)"></span>
+            <span class="rdot" onclick="currentRace(7)"></span>
+            <span class="rdot" onclick="currentRace(8)"></span>
+            <span class="rdot" onclick="currentRace(9)"></span>
+            <span class="rdot" onclick="currentRace(10)"></span>
+            <span class="rdot" onclick="currentRace(11)"></span>
+            <span class="rdot" onclick="currentRace(12)"></span>
+            <span class="rdot" onclick="currentRace(13)"></span>
+            <span class="rdot" onclick="currentRace(14)"></span>
+            <span class="rdot" onclick="currentRace(15)"></span>
+            <span class="rdot" onclick="currentRace(16)"></span>
+        </div>
+        
+        
+        <div class="profession">
+            <div class="pcard pfade" id="class1">Fighter</div>
+            <div class="pcard pfade" id="class2">Rogue</div>
+            <div class="pcard pfade" id="class3">Hunter</div>
+            <div class="pcard pfade" id="class4">Eolas</div>
+            <div class="pcard pfade" id="class5">Strumos</div>
+            <div class="pcard pfade" id="class6">Sylvan</div>
+            <div class="pcard pfade" id="class7">Dokour</div>
+            <div class="pcard pfade" id="class8">Orix</div>
+            <div class="pcard pfade" id="class9">Dey-Rachio</div>
+            <div class="pcard pfade" id="class10">Devoted</div>
+            <div class="pcard pfade" id="class11">Archer</div>
+            <a class="pprev" onclick="plusProf(-1)">❮</a>
+            <a class="pnext" onclick="plusProf(1)">❯</a>
+        </div>
+            <br>
+            <div class="profdot">
+                <span class="pdot" onclick="currentProf(1)"></span>
+                <span class="pdot" onclick="currentProf(2)"></span>
+                <span class="pdot" onclick="currentProf(3)"></span>
+                <span class="pdot" onclick="currentProf(4)"></span>
+                <span class="pdot" onclick="currentProf(5)"></span>
+                <span class="pdot" onclick="currentProf(6)"></span>
+                <span class="pdot" onclick="currentProf(7)"></span>
+                <span class="pdot" onclick="currentProf(8)"></span>
+                <span class="pdot" onclick="currentProf(9)"></span>
+                <span class="pdot" onclick="currentProf(10)"></span>
+                <span class="pdot" onclick="currentProf(11)"></span>
+            </div>
+        
+        <div class="postClassRace">
+            <div style="align-self: start;">
+                <br> <br>
+            Browse through the available races and classes above
+             to see descriptions and specific traits of each.</div>
+        </div>
+        <div class="spellsSkills">
+
+        </div>
+        <div class="player">
+
+        </div>
+        <div class="gamemaster">
+
+        </div>
+        
+    </div>
+    <div class=footer style:date>updated 2024-04-16</div>
+    
+</body>
+</html>
