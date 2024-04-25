@@ -1,14 +1,27 @@
 <!DOCTYPE html> 
-<html class='pdfs'> 
-  
-<head> 
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://api.fonts.coollabs.io" crossorigin>
+    <link href="https://api.fonts.coollabs.io/css2?family=Milonga&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Level 1-8 Dokour Skills</title>
     <link rel="stylesheet" href="../../styles.css"/>
     <script src="../../index.js"></script>
 </head> 
-<hr>  
+
 <body>
+    <div class="title">VAINGLORIOUS &nbsp;RPG</div>
+    <div class="navbar">
+        <ul id="navlist">
+            <li>Home</li>
+            <li>Gameplay & Rules</li>
+            <li><a id=a href='Skills & Spells/index.html' target='S&Pwindow'>Skills & Spells</a></li>
+            <li>Character Sheet</li>
+            <li>about</li>
+        </ul>
+    </div>
     <div id="myNav" class="overlay">
 
         <!-- Button to close the overlay navigation -->
@@ -16,7 +29,7 @@
   
         <!-- Overlay content -->
         <div class="overlay-content">
-            <p class="all">Skill Pages</p>
+            <p class="all" id="classbanners">Skill Pages</p>
             <span id="skillgrid">
             
                 <button id="one" onclick="document.location='../Hunter/HunterColumn.html'">Hunter</button>
@@ -41,22 +54,22 @@
             </span>
         </div>
     </div>
-    <div class="dok">
+    <div class="dok" id="classbanners">
         <button class="btnCurtain" onclick="openNav()">Open Class Skills</button>
         Dokour Skills:
         <span> 
         
-            <button onclick="document.location='DokourCompact.html'" class="btnD2">Levels 1-4</button>
+            <button onclick="document.location='DokourCompact.html'" class="btnD2 button">Levels 1-4</button>
 
-            <button onclick="document.location='DokourCompact8.html'" class="btnD">Levels 1-8</button>
+            <button onclick="document.location='DokourCompact8.html'" class="btnD button">Levels 1-8</button>
     
-            <button onclick="document.location='DokourCompact12.html'" class="btnD2">Levels 1-12</button>
+            <button onclick="document.location='DokourCompact12.html'" class="btnD2 button">Levels 1-12</button>
        
-            <button onclick="document.location='DokourCompact16.html'" class="btnD2">Levels 1-16</button>
+            <button onclick="document.location='DokourCompact16.html'" class="btnD2 button">Levels 1-16</button>
         
-            <button onclick="document.location='DokourCompact20.html'" class="btnD2">Levels 1-20</button>
+            <button onclick="document.location='DokourCompact20.html'" class="btnD2 button">Levels 1-20</button>
        
-            <button onclick="document.location='DokourFullDescriptions.html'" class="btnD2">Full Descriptions</button>
+            <button onclick="document.location='DokourFullDescriptions.html'" class="btnD2 button">Full Descriptions</button>
         </span>
     </div>
     <div class="content">

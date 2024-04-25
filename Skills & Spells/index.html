@@ -1,22 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    <link rel="preconnect" href="https://api.fonts.coollabs.io" crossorigin>
+    <link href="https://api.fonts.coollabs.io/css2?family=Milonga&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Class Skills</title>
     <link rel="stylesheet" href="styles.css"/>
         <meta name="color-scheme" content="dark light">
         <script src="index.js" defer></script>
-        <link rel="preconnect" href="https://api.fonts.coollabs.io" crossorigin>
-        <link href="https://api.fonts.coollabs.io/css2?family=Milonga&display=swap" rel="stylesheet">
 </head>
-<body>    
-    <div class="title">VAINGLORIOUS RPG</div>
+
+<body>
+    <div class="title">VAINGLORIOUS &nbsp;RPG</div>
     <div class="navbar">
         <ul id="navlist">
             <li>Home</li>
             <li>Gameplay & Rules</li>
-            <li><a href='Skills & Spells/index.html'>Skills & Spells</a></li>
+            <li><a id=a href='Skills & Spells/index.html' target='S&Pwindow'>Skills & Spells</a></li>
             <li>Character Sheet</li>
             <li>about</li>
         </ul>
@@ -28,7 +30,7 @@
   
         <!-- Overlay content -->
         <div class="overlay-content">
-            <p class="banner">Select Skills by Class</p>
+            <p class="all" id="classbanners">Select Skills by Class</p>
             <span id="skillgrid">
             
                 <button id="one" onclick="document.location='skillPages/Hunter/HunterColumn.html'">Hunter</button>
@@ -54,17 +56,17 @@
         </div>
         
     </div>
-    <div class="all">
+    <div class="all" id="classbanners">
             <!-- Open document with curtain element in it-->
                 <button class="btnCurtain" ontouchstart, onclick="openNav()">Click*SKILLS BY CLASS</button>
         All Skills:
         <span > 
             
-            <button onclick="document.location='skillPages/AllSkills/AllCompact.html'" class="btnA2">Levels 1-20</button>
+            <button onclick="document.location='skillPages/AllSkills/AllCompact.html'" class="btnA2 button">Levels 1-20</button>
 
-            <button onclick="document.location='skillPages/AllSkills/All1Liners.html'" class="btnA2">One Line Descriptions</button>
+            <button onclick="document.location='skillPages/AllSkills/All1Liners.html'" class="btnA2 button">One Line Descriptions</button>
        
-            <button onclick="document.location='skillPages/AllSkills/AllFullDescriptions.html'" class="btnA2">Full Descriptions of All Skills</button>
+            <button onclick="document.location='skillPages/AllSkills/AllFullDescriptions.html'" class="btnA2 button">Full Descriptions of All Skills</button>
 
 
         </span>

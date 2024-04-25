@@ -1,53 +1,78 @@
+
 :root{
-  --clr-back: rgba(1, 13, 66, 0.719);
+  --clr-back: rgba(1, 13, 66);
+  --clr-drkBack: rgba(2, 8, 37);
   --clr-fighter: rgba(189, 186, 186);
+  --clr-fighterO: rgba(189, 186, 186, 0.705);
   --clr-rogue:  rgba( 204, 209, 204);
+  --clr-rogueO: rgba(204, 209, 204, 0.705);
   --clr-hunt:  rgba(115, 170, 142);
+  --clr-huntO: rgba(115, 170, 142, 0.705);
   --clr-dokour: rgb(234, 84, 107);
+  --clr-dokourO: rgba(234, 84, 107, 0.705);
   --clr-eolas: rgba(237, 226, 192);
+  --clr-eolasO: rgba(237, 226, 192, 0.705);
   --clr-strumos: rgb(232, 247, 149);
+  --clr-strumosO:rgba(232, 247, 149, 0.705);
   --clr-sylvan: #05ee19;
+  --clr-sylvanO: #05ee18c0;
   --clr-orix: rgb(184, 128, 171);
-  --clr-tiro: rgba(196, 197, 148);
+  --clr-orixO: rgb(184, 128, 171);
+  --clr-tiro: rgba(196, 197, 148, 0.705);
   --clr-all: rgb(228, 241, 228);
+  --clr-allO: rgba(228, 241, 228, 0.705);
+  --clr-nav: rgb(167, 127, 206);
+  --clr-wht: rgb(255, 255, 255);
 
   --ff-base: "Milonga", serif;
+  font-size: 1.4rem;
 
   --fw-regular: 300;
   --fw-semi-bold: 400;
   --fw-bold: 700; 
 }
-html{
-  color-scheme: light dark;
-}
 
 body{
   font-family: var(--ff-base);
   font-weight: var(--fw-regular);
-  line-height: 1.5;
   font-style: normal;
+  color: var(--clr-wht);
   background-color: var(--clr-back);
 }
+#a {
+  text-decoration: none;
+  color: inherit;
+}
 .title{
-  font-size: 3em;
   text-align: center;
+  font-size: 2em;
 }
 .content {margin: 5px; width: 100%; }
 
 .navbar{
-      height: 5vh;
-      margin-left: 5vw;
-      margin-right: 5vw;
-      background-color: rgba(2, 8, 37, 0.719);
-      align-items: center;
+    height: 1em;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    background-color: var(--clr-drkBack);
+    align-items: center;
+    width: 0; height: 0;/*hide navigation links until used in main site*/
+    overflow: hidden;
+    position: fixed; /* Stay in place */
   }
   #navlist{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
     font-size: .8em;
-      display: flex;
-      justify-content: space-around;
-      align-self: end;
-      list-style-type: none;
+    list-style-type: none;
+    color: var(--clr-nav);
+    width: 0; height: 0;/*hide navigation links until used in main site*/
+    overflow: hidden;
+    position: fixed; /* Stay in place */
   }
+
+.post {flex: 20%; padding: 10px; margin: 5px; 
+    background-color: #f3f3f3; inline-size: 100%;}
 
 .btnCurtain {
   position: absolute; /* Position them relative to the browser window */
@@ -68,125 +93,106 @@ body{
 .btnCurtain:hover {
   left: 0px; /* On mouse-over, make the elements appear as they should */
 }
-
-.hunt {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
-              background-image: url("images/HunPics.png"); background-repeat: no-repeat; 
-              background-size: cover; background-position: 50% 60%;}
-
-      .btnH {color:black; font-size: 1em; width: max-content; overflow: hidden;
-              background-color: rgb(115, 170, 142); float: left; cursor: pointer;
-              text-align: left; margin-left: 1vw;}
-
-      .btnH2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(124, 184, 153, 0.432);
-              width: max-content; float: center; cursor: pointer; overflow: hidden;
-              text-align: left;}
-
-.fig {color:rgb(248, 244, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center; 
-              background-image: url("images/FigPics.png"); background-repeat: no-repeat; background-size: cover;
-              background-position: 50% 60%;}
-
-     .btnF {color:rgb(61, 61, 61); font-size: 1em; width: max-content; float: left; overflow: hidden;
-              background-color:rgb(189, 186, 186); cursor: pointer; text-align: left; margin-left: 1vw;}
-          
-     .btnF2 {color: black; font-size: .8em; background-color: rgba(167, 166, 166, 0.726);
-              float: center; width: max-content; cursor: pointer; overflow: hidden;
-              text-align: left;}
-
-.rog {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
-              background-image: url("images/RogPics.png"); background-repeat: no-repeat; background-size: cover;
-              background-position: 50% 60%;}
-                    
-     .btnR {color:black; font-size: 1em; width: max-content; float: left; cursor: pointer; overflow: hidden;
-              text-align: left; background-image: url("images/RogBack.png"); margin-left: 1vw;}
-                    
-     .btnR2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(204, 209, 204, 0.514);
-               width: max-content; float: center; cursor: pointer; overflow: hidden;
-               text-align: left;}
-
-.dok {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
-            background-image: url("images/DokPics.png"); background-repeat: no-repeat; background-size: cover;
-            background-position: 50% 60%;}
+.button {
+  color: var(--clr-wht); width: max-content; cursor: pointer; overflow: hidden; font-size: .9em;
+}
+#classbanners{
+  color: var(--clr-wht); margin-top: 5px; padding: 10px; text-align: center; background-repeat: no-repeat; background-size: cover;
+}
+.hunt { 
+      background-image: url("images/HunPics.png"); background-position: 50% 60%;
+      }
+      .btnH {
+          color:black; background-color: var(--clr-hunt); float: left; margin-left: 1vw;
+            }
+      .btnH2 {
+          font-size: .8em; background-color: var(--clr-huntO);
+              }
+.fig {  
+      background-image: url("images/FigPics.png"); background-position: 50% 60%;
+     }
+     .btnF {
+          color:black; background-color:var(--clr-fighter); float: left; margin-left: 1vw;
+            }   
+     .btnF2 {
+          color: black; font-size: .8em; background-color: var(--clr-fighterO);
+            }
+.rog { 
+      background-image: url("images/RogPics.png"); background-position: 50% 60%;
+     }            
+     .btnR {
+          color:black; float: left; background-image: url("images/RogBack.png"); float: left; margin-left: 1vw;
+           }              
+     .btnR2 {
+          font-size: .8em; background-color: var(--clr-rogueO);
+            }
+.dok {
+      background-image: url("images/DokPics.png"); background-position: 50% 60%;
+     }                   
+     .btnD {
+        color: rgba(48, 10, 10); background-color: var(--clr-dokour); float: left; margin-left: 1vw;
+           }
                          
-     .btnD {color: rgba(48, 10, 10); font-size: 1em; width: max-content; float: left; cursor: pointer;  
-            overflow: hidden; background-color:rgb(234, 84, 107); text-align: left; margin-left: 1vw;}
-                         
-     .btnD2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(237, 106, 128, 0.5);
-               width: max-content; float: center; cursor: pointer; overflow: hidden;
-               text-align: left;}
-
-.eol {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
-        background-image: url("images/EolPics.png"); background-repeat: no-repeat; background-size: cover;
-        background-position: 60% 70%;}
+     .btnD2 {
+        font-size: .8em; background-color: var(--clr-dokourO);
+            }
+.eol { 
+      background-image: url("images/EolPics.png"); background-position: 60% 70%;
+      }
                               
-     .btnE {color:rgb(72, 77, 14); font-size: 1em; width: max-content; float: left; cursor: pointer; overflow: hidden;
-                background-color: rgba(237, 226, 192); text-align: left; margin-left: 1vw;}
-                              
-     .btnE2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(237, 226, 192, 0.705);
-               width: max-content; float: center; cursor: pointer; overflow: hidden;
-               text-align: left;}
-
-.str {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
-        background-image: url("images/StrPics.png"); background-repeat: no-repeat; background-size: cover;
-        background-position: 50% 60%;}
-                              
-     .btnS {color:rgb(39, 43, 11); font-size: 1em; width: max-content; float: left; cursor: pointer; overflow: hidden;
-              background-color:rgb(232, 247, 149); text-align: left; margin-left: 1vw;}
-                              
-     .btnS2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(231, 250, 123, 0.664);
-               width: max-content; float: center; cursor: pointer; overflow: hidden;
-               text-align: left;}
-
-.syl {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
-        background-image: url("images/SylPics.png"); background-repeat: no-repeat; background-size: cover;
-        background-position: 50% 60%;}
-                                        
-     .btnSy {color:rgb(21, 37, 21); font-size: 1em; width: max-content; float: left; cursor: pointer; overflow: hidden;
-              background-color:#05ee19; text-align: left; margin-left: 1vw;}
-                                        
-     .btnSy2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(15, 255, 27, 0.507);
-               width: max-content; float: center; cursor: pointer; overflow: hidden;
-               text-align: left;}
-
-.ori {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
-        background-image: url("images/OriPics.png"); background-repeat: no-repeat; background-size: cover;
-        background-position: 50% 60%;}
-                                        
-     .btnO {color:rgb(244, 247, 244); font-size: 1em; width: max-content; float: left; cursor: pointer; overflow: hidden;
-              background-color: rgb(184, 128, 171); text-align: left; margin-left: 1vw;}
-                                        
-     .btnO2 {color: rgba(231, 241, 225, 0.877); font-size: .8em; background-color: rgba(143, 6, 109, 0.452);
-               width: max-content; float: center; cursor: pointer; overflow: hidden;
-               text-align: left;}
-
-.tir {color:rgb(244, 247, 244); font-size: 22px; margin-top: 5px; padding: 10px; text-align: center;
-        background-image: url("images/TirPics.png"); background-repeat: no-repeat; background-size: cover;
-        background-position: 50% 60%;}
-                         
-     .btnT {color:rgb(10, 10, 10); font-size: 1em; width: max-content; float: center; cursor: pointer; overflow: hidden;
-               background-image: url("images/TiroBack.png"); text-align: left; margin-left: 1vw;}
-                         
-     .btnT2 {color: rgb(19, 19, 17); font-size: .8em; background-color: rgba(196, 197, 148, 0.61);
-               width: max-content; float: center; cursor: pointer; overflow: hidden;
-               text-align: left;}
-     
-.all {color:rgb(238, 233, 237); font-size: clamp(.5rem, 1.5rem, 4rem); margin-top: 5px; padding: 10px; text-align: center;
-        background-image: url("images/AllCard.png"); background-repeat: no-repeat; background-size: cover;
-        background-position: 60% 72%;}
-                         
-     .btnA {color:rgba(88, 45, 81); font-size: 1em; width: max-content; float: center; cursor: pointer; overflow: hidden;
-               background-color: rgb(228, 241, 228); text-align: left; margin-left: 1vw; }
-                         
-     .btnA2 {color: rgba(88, 45, 81, 0.911); font-size: .8em; background-color: rgba(228, 241, 228, 0.582);
-               width: max-content; float: center; cursor: pointer; overflow: hidden;
-               text-align: left;}
-     
-.banner {color:rgb(238, 233, 237); font-size: 2em; margin-top: 2vh; text-align: center;
-        background-image: url("images/AllCard.png"); background-repeat: no-repeat; background-size: cover;
-        background-position: 60% 72%;}
-
+     .btnE {
+        color:rgb(72, 77, 14); background-color: var(--clr-eolas); float: left; margin-left: 1vw;
+           }                     
+     .btnE2 {
+        font-size: .8em; background-color: var(--clr-eolasO);
+            }
+.str {
+      background-image: url("images/StrPics.png"); background-position: 50% 60%;
+      }                     
+     .btnS {
+        color:rgb(39, 43, 11); background-color: var(--clr-strumos); float: left; margin-left: 1vw;
+           }                  
+     .btnS2 {
+        font-size: .8em; background-color: rgba(231, 250, 123, 0.664);
+            }
+.syl {
+      background-image: url("images/SylPics.png"); background-position: 50% 60%;
+     }                                  
+     .btnSy {
+        color:rgb(21, 37, 21); background-color:var(--clr-sylvan);  float: left; margin-left: 1vw;
+      }                              
+     .btnSy2 {
+        font-size: .8em; background-color: var(--clr-sylvanO);
+             }
+.ori {
+      background-image: url("images/OriPics.png"); background-position: 50% 60%;
+      }                               
+     .btnO {
+        color:rgb(244, 247, 244); background-color: var(--clr-orix); float: left; margin-left: 1vw;
+      }                           
+     .btnO2 {
+        font-size: .8em; background-color: var(--clr-orixO);
+            }
+.tir { 
+      background-image: url("images/TirPics.png"); background-position: 50% 60%;
+      }              
+     .btnT {
+        color:rgb(10, 10, 10); background-image: url("images/TiroBack.png"); float: center; margin-left: 1vw;
+            }    
+     .btnT2 {
+        color: rgb(19, 19, 17); font-size: .8em; background-color: rgba(196, 197, 148, 0.61);
+            }
+.all { 
+      background-image: url("images/AllCard.png"); background-position: 60% 72%;
+      }                  
+     .btnA {
+        color:rgba(88, 45, 81); background-color: var(--clr-all); float: center; margin-left: 1vw;
+           }    
+     .btnA2 {
+        color: rgba(88, 45, 81, 0.911); font-size: .8em; background-color: var(--clr-allO);
+            }
  /* Curtain Overlay (background) */
- .overlay {
-    /* Height & width depends on how you want to reveal the overlay (see JS below) */   
+ .overlay { 
     height: 100%;
     width: 0;
     position: fixed; /* Stay in place */
@@ -196,7 +202,7 @@ body{
     background-color: rgb(0,0,0); /* Black fallback color */
     background-color: rgba(0,0,0, 0.8); /* Black w/opacity */
     overflow-x: hidden; /* Disable horizontal scroll */
-    transition: 1.2s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+    transition: 1.2s; /* transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
   }
   
   /* Position the content inside the overlay */
@@ -206,6 +212,7 @@ body{
     width: 100%; /* 100% width */
     text-align: center; /* Centered text/links */
     margin-top: 0px; 
+    font-size: 1.5em;
   }
   #skillgrid{
     display: grid;

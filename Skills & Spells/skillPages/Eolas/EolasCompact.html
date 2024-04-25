@@ -1,14 +1,27 @@
 <!DOCTYPE html> 
-<html class='pdfs'> 
-  
-<head> 
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://api.fonts.coollabs.io" crossorigin>
+    <link href="https://api.fonts.coollabs.io/css2?family=Milonga&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Level 1-4 Eolas Skills</title>
     <link rel="stylesheet" href="../../styles.css"/>
     <script src="../../index.js"></script>
 </head> 
-<hr>  
+
 <body>
+    <div class="title">VAINGLORIOUS &nbsp;RPG</div>
+    <div class="navbar">
+        <ul id="navlist">
+            <li>Home</li>
+            <li>Gameplay & Rules</li>
+            <li><a id=a href='Skills & Spells/index.html' target='S&Pwindow'>Skills & Spells</a></li>
+            <li>Character Sheet</li>
+            <li>about</li>
+        </ul>
+    </div>
     <div id="myNav" class="overlay">
 
         <!-- Button to close the overlay navigation -->
@@ -16,7 +29,7 @@
   
         <!-- Overlay content -->
         <div class="overlay-content">
-            <p class="all">Skill Pages</p>
+            <p class="all" id="classbanners">Skill Pages</p>
             <span id="skillgrid">
             
                 <button id="one" onclick="document.location='skillPages/Hunter/HunterColumn.html'">Hunter</button>
@@ -42,22 +55,22 @@
             </span>
         </div> 
     </div>
-    <div class="eol">
+    <div class="eol" id="classbanners">
         <button class="btnCurtain" onclick="openNav()">Open Class Skills</button>
         Eolas Skills:
         <span> 
         
-            <button onclick="document.location='EolasCompact.html'" class="btnE">Levels 1-4</button>
+            <button onclick="document.location='EolasCompact.html'" class="btnE button">Levels 1-4</button>
 
-            <button onclick="document.location='EolasCompact8.html'" class="btnE2">Levels 1-8</button>
+            <button onclick="document.location='EolasCompact8.html'" class="btnE2 button">Levels 1-8</button>
     
-            <button onclick="document.location='EolasCompact12.html'" class="btnE2">Levels 1-12</button>
+            <button onclick="document.location='EolasCompact12.html'" class="btnE2 button">Levels 1-12</button>
        
-            <button onclick="document.location='EolasCompact16.html'" class="btnE2">Levels 1-16</button>
+            <button onclick="document.location='EolasCompact16.html'" class="btnE2 button">Levels 1-16</button>
         
-            <button onclick="document.location='EolasCompact20.html'" class="btnE2">Levels 1-20</button>
+            <button onclick="document.location='EolasCompact20.html'" class="btnE2 button">Levels 1-20</button>
        
-            <button onclick="document.location='EolasFullDescriptions.html'" class="btnE2">Full Descriptions</button>
+            <button onclick="document.location='EolasFullDescriptions.html'" class="btnE2 button">Full Descriptions</button>
         </span>
     </div>
     <div class="content">

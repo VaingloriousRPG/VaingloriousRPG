@@ -1,14 +1,27 @@
 <!DOCTYPE html> 
-<html class='pdfs'> 
-  
-<head> 
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://api.fonts.coollabs.io" crossorigin>
+    <link href="https://api.fonts.coollabs.io/css2?family=Milonga&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Level 1-8 Hunter Skills</title>
     <link rel="stylesheet" href="../../styles.css"/>
     <script src="../../index.js"></script>
 </head> 
-<hr>  
+
 <body>
+    <div class="title">VAINGLORIOUS &nbsp;RPG</div>
+    <div class="navbar">
+        <ul id="navlist">
+            <li>Home</li>
+            <li>Gameplay & Rules</li>
+            <li><a id=a href='Skills & Spells/index.html' target='S&Pwindow'>Skills & Spells</a></li>
+            <li>Character Sheet</li>
+            <li>about</li>
+        </ul>
+    </div>
     <div id="myNav" class="overlay">
 
         <!-- Button to close the overlay navigation -->
@@ -16,7 +29,7 @@
   
         <!-- Overlay content -->
         <div class="overlay-content">
-            <p class="all">Skill Pages</p>
+            <p class="all" id="classbanners">Skill Pages</p>
             <span id="skillgrid">
             
                 <button id="one" onclick="document.location='HunterColumn.html'">Hunter</button>
@@ -42,23 +55,23 @@
         </div>
         
     </div>
-    <div class="hunt">
+    <div class="hunt" id="classbanners">
         <button class="btnCurtain" onclick="openNav()">Open Class Skills</button>
         Hunter Skills:
         <span> 
         
-            <button onclick="document.location='HunterCompact.html'" class="btnH2">Level 1-4</button>
+            <button onclick="document.location='HunterCompact.html'" class="btnH2 button">Level 1-4</button>
 
-            <button onclick="document.location='HunterCompact8.html'" class="btnH">Level 1-8</button>
+            <button onclick="document.location='HunterCompact8.html'" class="btnH button">Level 1-8</button>
     
-            <button onclick="document.location='HunterCompact12.html'" class="btnH2">Level 1-12</button>
+            <button onclick="document.location='HunterCompact12.html'" class="btnH2 button">Level 1-12</button>
        
-            <button onclick="document.location='HunterCompact16.html'" class="btnH2">Level 1-16</button>
+            <button onclick="document.location='HunterCompact16.html'" class="btnH2 button">Level 1-16</button>
         
-            <button onclick="document.location='HunterCompact20.html'" class="btnH2">Level 1-20</button>
+            <button onclick="document.location='HunterCompact20.html'" class="btnH2 button">Level 1-20</button>
 
             <button onclick="document.location='HunterFullDescriptions.html'" 
-                        class="btnH2">Full Descriptions</button>
+                        class="btnH2 button">Full Descriptions</button>
         </span>
     </div>
     <div class="content">
