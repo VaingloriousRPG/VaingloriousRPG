@@ -1,5 +1,6 @@
 :root{
-    --clr-back: rgba(1, 13, 66, 0.719);
+    --clr-back: rgba(1, 13, 66);
+    --clr-drkBack: rgba(2, 8, 37);
     --clr-fighter: rgba(189, 186, 186);
     --clr-rogue:  rgba( 204, 209, 204);
     --clr-hunt:  rgba(115, 170, 142);
@@ -10,6 +11,7 @@
     --clr-orix: rgb(184, 128, 171);
     --clr-tiro: rgba(196, 197, 148);
     --clr-all: rgb(228, 241, 228);
+    --clr-nav: rgb(167, 127, 206);
 
     --ff-base: "Milonga", serif;
 
@@ -28,22 +30,27 @@ body{
     font-style: normal;
     background-color: var(--clr-back);
 }
+
 .title{
     font-size: 6em;
     text-align: center;
+    background-repeat: no-repeat;
+    background-image: url(RealDragonSmall.png);
 }
 .navbar{
-    height: 5vh;
+    height: 3vh;
     margin-left: 5vw;
     margin-right: 5vw;
-    background-color: rgba(2, 8, 37, 0.719);
-    align-items: center;
+    
 }
 #navlist{
     display: flex;
     justify-content: space-around;
-    align-self: end;
-    list-style-type: none;
+    flex-wrap: nowrap;
+    height: 1em;
+    cursor: pointer;
+    color: var(--clr-nav);
+    background-color: var(--clr-drkBack);
 }
 .main{
     display: grid;
@@ -51,12 +58,17 @@ body{
     grid-auto-rows: 30vh;
     
 }
+a {
+    text-decoration: none;
+    color: inherit;
+}
 .intro{
     grid-column: 2 / 11;
     grid-row: 1 / 3;
     max-height: 60vh;
     max-width: 79vw;
     overflow-y: auto;
+    
 }
 .tiro{
     grid-column: 2 / 7;
@@ -73,14 +85,17 @@ body{
 }
 .rcard{
     font-size: 4em;
-    
     place-self: center;
     flex: 0 0 auto;
     scroll-snap-align: start;
     min-width: 30vw;
-    height: 25vh;
+    height: 27vh;
     text-align: center;
     background-color: black;
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
+    text-decoration: none;
+    color: unset;
 }
 
 .prev, .next {
@@ -143,9 +158,11 @@ body{
     flex: 0 0 auto;
     scroll-snap-align: start;
     min-width: 35vw;
-    height: 25vh;
+    height: 27vh;
     text-align: center;
     background-color: black;
+    background-repeat: no-repeat; background-size: cover;
+    cursor: pointer;
 }
 @media screen and (max-width: 800px) {
     .rcard,.pcard {font-size: 6vw}
@@ -197,12 +214,51 @@ body{
     from {opacity: .4}
     to {opacity: 1}
 }
-#race5, #race6, #race7 {
-    background-color:darkseagreen
+    #race1 {
+    background-image: url(07-Races/cards/Race1.png);
 }
-#race4 {
-    background-color:rgb(33, 44, 33)
+    #race2 {
+    background-image: url(07-Races/cards/Race2.png);
 }
+    #race3 {
+    background-image: url(07-Races/cards/Race3.png);
+}
+    #race4 {
+    background-image: url(07-Races/cards/Race4.png);
+}
+    #race5 {
+    background-image: url(07-Races/cards/Race5.png);
+}
+    #race6 {
+    background-image: url(07-Races/cards/Race6.png);
+}
+    #race7 {
+    background-image: url(07-Races/cards/Race7.png);
+    }
+    #race8 {
+        background-image: url(07-Races/cards/Race8.png);
+    }
+    #race9 {
+        background-image: url(07-Races/cards/Race9.png);
+    }
+    #race10 {
+        background-image: url(07-Races/cards/Race10.png);
+    }
+    #race11 {
+        background-image: url(07-Races/cards/Race11.png);
+    }
+    #race12 {
+        background-image: url(07-Races/cards/Race12.png);
+    }
+    #race13 {
+        background-image: url(07-Races/cards/Race13.png);
+    }
+    #race14 {
+        background-image: url(07-Races/cards/Race14.png);
+    }
+    #race15 {
+        background-image: url(07-Races/cards/Race15.png);
+    }
 #class7 {
     background-color: rgb(206, 4, 4);
 }
@@ -216,4 +272,7 @@ body{
 .footer{
     font-size:xx-small;
     margin-left: 10vw;
+}
+#class1 {
+    background-image: url(professions/cards/Class1.png);
 }

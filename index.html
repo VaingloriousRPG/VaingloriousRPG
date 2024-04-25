@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="style.css"/> 
+    <link rel="preconnect" href="https://api.fonts.coollabs.io" crossorigin>
+    <link href="https://api.fonts.coollabs.io/css2?family=Milonga&display=swap" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vainglorious RPG</title>
-    <link rel="stylesheet" href="style.css"/> 
     <script src="index.js" defer></script>
-<link rel="preconnect" href="https://api.fonts.coollabs.io" crossorigin>
-<link href="https://api.fonts.coollabs.io/css2?family=Milonga&display=swap" rel="stylesheet">
-
 </head>
 <body>
-    <div class="title">VAINGLORIOUS RPG</div>
+    <div class="emblem"></div>
+    <div class="title">VAINGLORIOUS &nbsp;RPG</div>
     <div class="navbar">
-        <ul id="navlist">
-            <li>Home</li>
-            <li>Gameplay & Rules</li>
-            <li><a href='Skills & Spells/index.html'>Skills & Spells</a></li>
-            <li>Character Sheet</li>
-            <li>about</li>
-        </ul>
+        <div id="navlist">
+            <div>Home</div>
+            <div>Gameplay & Rules</div>
+            <div><a href='Skills & Spells/index.html' target='S&Pwindow'>Skills & Spells</a></div>
+            <div>Character Sheet</div>
+            <div>about</div>
+        </div>
     </div>
     <div class="main">
         <div class="intro"><p>Welcome to Vainglorious.</p>
@@ -43,22 +43,52 @@
             </div>
         <div class="tiro"></div>
         <div class="race" >
-            <div class="rcard fade" id="race1">Dwarf Fossoren</div>
-            <div class="rcard fade" id="race2">Dwarf Lanxen</div>
-            <div class="rcard fade" id="race3">Dwarf Murik</div>
-            <div class="rcard fade" id="race4">Elf Dark</div>
-            <div class="rcard fade" id="race5">Elf Fey</div>
-            <div class="rcard fade" id="race6">Elf High</div>
-            <div class="rcard fade" id="race7">Elf Tree</div>
-            <div class="rcard fade" id="race8">Human Graymore</div>
-            <div class="rcard fade" id="race9">Human Halfling</div>
-            <div class="rcard fade" id="race10">Human Mountaineer</div>
-            <div class="rcard fade" id="race11">Human Plains Kin</div>
-            <div class="rcard fade" id="race12">Minotar</div>
-            <div class="rcard fade" id="race13">Presma</div>
-            <div class="rcard fade" id="race14">Sprite</div>
-            <div class="rcard fade" id="race15">Vocqua</div>
-            <div class="rcard fade" id="race16">Voldyar</div>
+
+            <a href="07-Races/pages/Race2.html" target="LaxenWindow">
+            <div class="rcard fade" id="race2">Dwarf Lanxen</div></a>
+
+            <a href="07-Races/pages/Race3.html" target="murickWindow">
+            <div class="rcard fade" id="race3"></div></a>
+
+            <a href="07-Races/pages/Race4.html" target="DarkElfWindow">
+            <div class="rcard fade" id="race4" >Dark Elf</div></a>
+
+            <a href="07-Races/pages/Race5.html" target="GroveElfWindow">
+            <div class="rcard fade" id="race5"></div></a>
+
+            <a href="07-Races/pages/Race6.html" target="HighElfWindow">
+            <div class="rcard fade" id="race6">High Elf</div></a>
+
+            <a href="07-Races/pages/Race7.html" target="GraymoreWindow">
+            <div class="rcard fade" id="race7">Graymore</div></a>
+
+            <a href="07-Races/pages/Race8.html" target="HalflingWindow">
+            <div class="rcard fade" id="race8">Halfling</div></a>
+
+            <a href="07-Races/pages/Race9.html" target="MountaineerWindow">
+            <div class="rcard fade" id="race9">Mountaineer</div></a>
+
+            <a href="07-Races/pages/Race10.html" target="LaxenWindow">
+            <div class="rcard fade" id="race10">Plains Kin</div></a>
+
+            <a href="07-Races/pages/Race11.html" target="MinotarWindow">
+            <div class="rcard fade" id="race11">Minotar</div></a>
+
+            <a href="07-Races/pages/Race12.html" target="PresmaWindow">
+            <div class="rcard fade" id="race12">Presma</div></a>
+
+            <a href="07-Races/pages/Race13.html" target="VoldyarWindow">
+            <div class="rcard fade" id="race13">Voldyar</div></a>
+
+            <a href="07-Races/pages/Race14.html" target="SpriteWindow">
+            <div class="rcard fade" id="race14">Sprite</div></a>
+
+            <a href="07-Races/pages/Race15.html" target="VocquaWindow">
+            <div class="rcard fade" id="race15">Vocqua</div></a>
+
+            <a href="07-Races/pages/Race16.html" target="PiscineWindow">
+            <div class="rcard fade" id="race16">Piscine</div></a>
+
         <a class="prev" onclick="plusRace(-1)">❮</a>
         <a class="next" onclick="plusRace(1)">❯</a>
     </div>
@@ -84,17 +114,40 @@
         
         
         <div class="profession">
-            <div class="pcard pfade" id="class1">Fighter</div>
-            <div class="pcard pfade" id="class2">Rogue</div>
-            <div class="pcard pfade" id="class3">Hunter</div>
-            <div class="pcard pfade" id="class4">Eolas</div>
-            <div class="pcard pfade" id="class5">Strumos</div>
-            <div class="pcard pfade" id="class6">Sylvan</div>
-            <div class="pcard pfade" id="class7">Dokour</div>
-            <div class="pcard pfade" id="class8">Orix</div>
-            <div class="pcard pfade" id="class9">Dey-Rachio</div>
-            <div class="pcard pfade" id="class10">Devoted</div>
-            <div class="pcard pfade" id="class11">Archer</div>
+
+            <a href="professions/pages/Class1.html", target="Fighter">
+            <div class="pcard pfade" id="class1"></div></a>
+
+            <a href="professions/pages/Class2.html", target="Rogue">
+            <div class="pcard pfade" id="class2">Rogue</div></a>
+
+            <a href="professions/pages/Class3.html", target="Hunter">
+            <div class="pcard pfade" id="class3">Hunter</div></a>
+
+            <a href="professions/pages/Class4.html", target="Eolas">
+            <div class="pcard pfade" id="class4">Eolas</div></a>
+
+            <a href="professions/pages/Class5.html", target="Strumos">
+            <div class="pcard pfade" id="class5">Strumos</div></a>
+
+            <a href="professions/pages/Class6.html", target="Sylvan">
+            <div class="pcard pfade" id="class6">Sylvan</div></a>
+
+            <a href="professions/pages/Class7.html", target="Dokour">
+            <div class="pcard pfade" id="class7">Dokour</div></a>
+
+            <a href="professions/pages/Class8.html", target="Orix">
+            <div class="pcard pfade" id="class8">Orix</div></a>
+
+            <a href="professions/pages/Class9.html", target="DeyRachio">
+            <div class="pcard pfade" id="class9">Dey-Rachio</div></a>
+
+            <a href="professions/pages/Class10.html", target="Devoted">
+            <div class="pcard pfade" id="class10">Devoted</div></a>
+
+            <a href="professions/pages/Class11.html", target="Archer">
+            <div class="pcard pfade" id="class11">Archer</div></a>
+
             <a class="pprev" onclick="plusProf(-1)">❮</a>
             <a class="pnext" onclick="plusProf(1)">❯</a>
         </div>

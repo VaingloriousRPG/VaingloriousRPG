@@ -1,0 +1,36 @@
+:root{
+    --clr-back: rgba(1, 13, 66, 0.719);
+    --clr-fighter: rgba(189, 186, 186);
+    --clr-rogue:  rgba( 204, 209, 204);
+    --clr-hunt:  rgba(115, 170, 142);
+    --clr-dokour: rgb(234, 84, 107);
+    --clr-eolas: rgba(237, 226, 192);
+    --clr-strumos: rgb(232, 247, 149);
+    --clr-sylvan: #05ee19;
+    --clr-orix: rgb(184, 128, 171);
+    --clr-tiro: rgba(196, 197, 148);
+    --clr-all: rgb(228, 241, 228);
+
+    --ff-base: "Milonga", serif;
+
+    --fw-regular: 300;
+    --fw-semi-bold: 400;
+    --fw-bold: 700; 
+}
+html{
+    color-scheme: light dark;
+}
+
+body{
+    font-family: var(--ff-base);
+    font-weight: var(--fw-regular);
+    line-height: 1.5;
+    font-style: normal;
+    background-color: var(--clr-back);
+}
+
+.title{
+    font-size: 6em;
+    text-align: center;
+    background-repeat: no-repeat;
+}
