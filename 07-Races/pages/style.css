@@ -24,13 +24,24 @@ html{
 body{
     font-family: var(--ff-base);
     font-weight: var(--fw-regular);
+    font-size: 3vw;
     line-height: 1.5;
     font-style: normal;
     background-color: var(--clr-back);
 }
 
-.title{
-    font-size: 6em;
-    text-align: center;
-    background-repeat: no-repeat;
+    .title{
+        font-size: 10vw;
+        text-align: center;
+        background-repeat: no-repeat;
+    }
+.txt1{
+        font-size: 2.5vw;
 }
+        .txt2{
+            font-weight: var(--fw-bold);
+        }
+    .names{
+        font-size: 2.5vw;
+        column-count: 2;
+    }

@@ -32,6 +32,9 @@
   --fw-bold: 700; 
 }
 
+html{
+  color-scheme: light dark;
+}
 body{
   font-family: var(--ff-base);
   font-weight: var(--fw-regular);

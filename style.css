@@ -14,6 +14,7 @@
     --clr-nav: rgb(167, 127, 206);
 
     --ff-base: "Milonga", serif;
+    font-size: 1rem;
 
     --fw-regular: 300;
     --fw-semi-bold: 400;
@@ -21,6 +22,7 @@
 }
 html{
     color-scheme: light dark;
+    scroll-behavior: smooth;
 }
 
 body{
@@ -30,27 +32,33 @@ body{
     font-style: normal;
     background-color: var(--clr-back);
 }
-
+.emblem{
+    width: 100%;
+    height:auto;
+}
 .title{
-    font-size: 6em;
+    font-size: 6vw;
     text-align: center;
     background-repeat: no-repeat;
     background-image: url(RealDragonSmall.png);
+    width: 100%;
+    height:auto;
+    overflow: auto;
 }
 .navbar{
-    height: 3vh;
+    height: 1.5em;
     margin-left: 5vw;
     margin-right: 5vw;
+    background-color: var(--clr-drkBack);
     
 }
 #navlist{
     display: flex;
     justify-content: space-around;
     flex-wrap: nowrap;
-    height: 1em;
-    cursor: pointer;
     color: var(--clr-nav);
-    background-color: var(--clr-drkBack);
+    font-size: 1.1em;
+    overflow: auto;
 }
 .main{
     display: grid;
@@ -67,37 +75,59 @@ a {
     grid-row: 1 / 3;
     max-height: 60vh;
     max-width: 79vw;
-    overflow-y: auto;
+    overflow-y: scroll;
     
 }
-.tiro{
-    grid-column: 2 / 7;
-    grid-row: 2;
-}
 .race{
-    grid-column: 2 / 6;
+    grid-column: 2 / 7;
     grid-row: 3;
     width: 40vw;
     height: 30vh;
+    align-self: start;
     position: relative;
-    margin: 0px auto;
-    
 }
 .rcard{
-    font-size: 4em;
-    place-self: center;
-    flex: 0 0 auto;
-    scroll-snap-align: start;
     min-width: 30vw;
     height: 27vh;
-    text-align: center;
     background-color: black;
     background-repeat: no-repeat; background-size: cover;
-    cursor: pointer;
+}
+.rcard:hover {
+    border-color: rgb(12, 2, 206);
+    border-width: .3vw;
+    border-style: ridge;
+}
+.rcardTitle{
+    margin-left: 35%;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    font-size: 2.5vw;
     text-decoration: none;
     color: unset;
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+.rcardText{
+    margin-top: 2%;
+    margin-left: 40%;
+    margin-right: 5%;
+    margin-bottom: 20%;
+    text-indent: 5%;
+    font-size: 1vw;
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#rClick{
 
+    margin-left: 20%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+}
+.rBonusImg{
+    cursor: default;
+    position: absolute;
+    top: 76%;
+    left: 56%;
+    width:auto;
+}
 .prev, .next {
     cursor: pointer;
     position: absolute;
@@ -118,6 +148,20 @@ a {
 .prev:hover, .next:hover{
     background-color: rgba(0,0,0,0.8);
 }
+.details{
+    font-size: .7vw;
+    cursor: pointer;
+    position: absolute;
+    top: 90%;
+    width: auto;
+    padding: 6px;
+    margin-top: -22px;
+    color: white;
+    font-weight: var(--fw-bold);
+    transition: 1.6s ease;
+    border-radius: 0 3px 3px 0;
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
 .dot {
     text-align: center;
     grid-column: 2 / 6;
@@ -125,8 +169,8 @@ a {
 }
 .rdot {
     cursor: pointer;
-    height: 15px;
-    width: 15px;
+    height: .7vw;
+    width: .8vw;
     margin: 0 2px;
     background-color: #bbb;
     border-radius: 50%;
@@ -145,27 +189,29 @@ a {
     to {opacity: 1}
 }
 .profession{
-    grid-column: 6 / 12;
+    grid-column: 7 / 12;
     grid-row: 3;
     max-width: 40vw;
     max-height: 30vh;
     position: relative;
-    margin: 0px auto;
 }
 .pcard{
-    font-size: 5em;
+    font-size: 2vw;
     place-self: center;
     flex: 0 0 auto;
     scroll-snap-align: start;
     min-width: 35vw;
     height: 27vh;
-    text-align: center;
+    text-indent: 35%;
     background-color: black;
     background-repeat: no-repeat; background-size: cover;
     cursor: pointer;
+    text-decoration: none;
+    color: unset;
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 @media screen and (max-width: 800px) {
-    .rcard,.pcard {font-size: 6vw}
+    .rcard,.pcard {font-size: 4vw}; .intro{font-size: 2vw;}
 }
 .pprev, .pnext {
     cursor: pointer;
@@ -194,8 +240,8 @@ a {
 }
 .pdot {
     cursor: pointer;
-    height: 15px;
-    width: 15px;
+    height: .7vw;
+    width: .8vw;
     margin: 0 2px;
     background-color: #bbb;
     border-radius: 50%;
@@ -263,16 +309,95 @@ a {
     background-color: rgb(206, 4, 4);
 }
 .postClassRace{
-    grid-column: 4 / 9;
-    grid-row: 4;    
+    grid-column: 3 / 9;
+    grid-row: 4;
+    font-size: 1.5vh;    
     display: flex;
     justify-content: center;
     align-content: start;
+}
+#rF{
+    grid-column: 1 / 6;
+    grid-row: 4 / 9;    
+    justify-content: center;
+    align-content: start;
+    margin-top: 15vh;
+    margin-left: 3vw;
+}
+.raceFrame, .classFrame{
+    font-size: 2vw;
+}
+#cF{
+    grid-column: 6 / 12;
+    grid-row: 4 / 9;    
+    justify-content: center;
+    align-content: start;
+    margin-top: 15vh;
+    margin-right: 2vw;
+    margin-left: 1vw;
+}
+[style*="--aspect-ratio"] > :first-child {
+    width: 100%;
+  }
+  [style*="--aspect-ratio"] > img {  
+    height: auto;
+  } 
+  @supports (--custom:property) {
+    [style*="--aspect-ratio"] {
+      position: relative;
+    }
+    [style*="--aspect-ratio"]::before {
+      content: "";
+      display: block;
+      padding-bottom: calc(100% / (var(--aspect-ratio)));
+    }  
+    [style*="--aspect-ratio"] > :first-child {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      overflow: auto;
+
+    }
 }
 .footer{
     font-size:xx-small;
     margin-left: 10vw;
 }
 #class1 {
-    background-image: url(professions/cards/Class1.png);
+    background-image: url(20-Classes/cards/Class1.png);
+}
+#class2 {
+    background-image: url(20-Classes/cards/Class2.png);
+}
+#class3 {
+    background-image: url(20-Classes/cards/Class3.png);
+}
+#class4 {
+    background-image: url(20-Classes/cards/Class4.png);
+}
+#class5 {
+    background-image: url(20-Classes/cards/Class5.png);
+}
+#class6 {
+    background-image: url(20-Classes/cards/Class6.png);
+}
+#class7 {
+    background-image: url(20-Classes/cards/Class7.png);
+}
+#class8 {
+    background-image: url(20-Classes/cards/Class8.png);
+}
+#class9 {
+    background-image: url(20-Classes/cards/Class9.png);
+}
+#class10 {
+    background-image: url(20-Classes/cards/Class10.png);
+}
+#class11 {
+    background-image: url(20-Classes/cards/Class11.png);
+}
+#class12 {
+    background-image: url(20-Classes/cards/Class12.png);
 }

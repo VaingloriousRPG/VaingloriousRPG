@@ -5,9 +5,9 @@ function plusRace(n) {
 function currentRace(n) {
     raceSlides(raceIndex = n);
 }
-
     function raceSlides(n) {
         let i;
+        /*let rlinks = document.getElementsByClassName("rlink");*/
         let rslides = document.getElementsByClassName("rcard");
         let dots = document.getElementsByClassName("rdot");
         if (n > rslides.length) {raceIndex = 1}
@@ -15,10 +15,15 @@ function currentRace(n) {
         for (i = 0; i < rslides.length; i++) {
             rslides[i].style.display = "none";
         }
+        /*for (i = 0; i < rlinks.length; i++) {
+            rlinks[i].style.display = "none";
+        }*/
         for (i = 0; i < dots.length; i++) {
             dots[i].className = dots[i].className.replace(" active","");
         }
         rslides[raceIndex-1].style.display = "block";
+        /*document.getElementById("rF").src = "rlinks[raceIndex-1]"*/
+        /*rlinks[raceIndex-1].style.display = "run-in";*/
         dots[raceIndex-1].className += " active";
     }
 
@@ -48,4 +53,3 @@ function currentProf(m) {
     }
     plusProf(0)
     plusRace(0)
-
