@@ -25,6 +25,7 @@ body{
     font-family: var(--ff-base);
     font-weight: var(--fw-regular);
     font-size: 3vw;
+    color: azure;
     line-height: 1.5;
     font-style: normal;
     background-color: var(--clr-back);
