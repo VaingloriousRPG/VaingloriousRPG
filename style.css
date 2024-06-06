@@ -88,7 +88,7 @@ a {
     position: relative;
 }
 .rcard{
-    min-width: 30vw;
+    min-width: 35vw;
     height: 27vh;
     background-color: black;
     background-repeat: no-repeat; background-size: cover;
@@ -98,7 +98,7 @@ a {
     border-width: .3vw;
     border-style: ridge;
 }
-.rcardTitle{
+.cardTitle{
     margin-left: 35%;
     margin-top: 0px;
     margin-bottom: 0%;
@@ -107,7 +107,7 @@ a {
     color: unset;
     text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
-.rcardText{
+.cardText{
     margin-top: 2%;
     margin-left: 40%;
     margin-right: 5%;
@@ -197,22 +197,18 @@ a {
     position: relative;
 }
 .pcard{
-    font-size: 2vw;
-    place-self: center;
-    flex: 0 0 auto;
-    scroll-snap-align: start;
     min-width: 35vw;
     height: 27vh;
-    text-indent: 35%;
     background-color: black;
     background-repeat: no-repeat; background-size: cover;
-    cursor: pointer;
-    text-decoration: none;
-    color: unset;
-    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.pcard:hover {
+    border-color: rgb(12, 2, 206);
+    border-width: .3vw;
+    border-style: ridge;
 }
 @media screen and (max-width: 800px) {
-    .rcard,.pcard {font-size: 4vw}; .intro{font-size: 2vw;}
+    .card {font-size: 4vw}; .intro{font-size: 2vw;}
 }
 .pprev, .pnext {
     cursor: pointer;
