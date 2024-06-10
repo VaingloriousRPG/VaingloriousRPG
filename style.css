@@ -80,15 +80,17 @@ a {
     
 }
 .race{
-    grid-column: 2 / 7;
+    grid-column: 1 / 7;
     grid-row: 3;
+    margin-left: 5vw;
     width: 40vw;
     height: 30vh;
     align-self: start;
     position: relative;
 }
 .rcard{
-    min-width: 35vw;
+    
+    min-width: 32vw;
     height: 27vh;
     background-color: black;
     background-repeat: no-repeat; background-size: cover;
@@ -197,7 +199,7 @@ a {
     position: relative;
 }
 .pcard{
-    min-width: 35vw;
+    min-width: 32vw;
     height: 27vh;
     background-color: black;
     background-repeat: no-repeat; background-size: cover;
@@ -314,7 +316,7 @@ a {
     align-content: start;
 }
 #rF{
-    grid-column: 1 / 6;
+    grid-column: 1 / 7;
     grid-row: 4 / 9;    
     justify-content: center;
     align-content: start;
@@ -325,7 +327,7 @@ a {
     font-size: 2vw;
 }
 #cF{
-    grid-column: 6 / 12;
+    grid-column: 7 / 12;
     grid-row: 4 / 9;    
     justify-content: center;
     align-content: start;
