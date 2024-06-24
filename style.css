@@ -94,6 +94,7 @@ a {
     height: 27vh;
     background-color: black;
     background-repeat: no-repeat; background-size: cover;
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .rcard:hover {
     border-color: rgb(12, 2, 206);
@@ -109,17 +110,18 @@ a {
     color: unset;
     text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+.genus{
+    font-size: 1.2vw;
+}
 .cardText{
-    margin-top: 2%;
+    margin-top: -2%;
     margin-left: 40%;
     margin-right: 5%;
-    margin-bottom: 20%;
     text-indent: 5%;
     font-size: 1vw;
     text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 #rClick{
-
     margin-left: 20%;
     margin-right: 2%;
     margin-bottom: 1%;
