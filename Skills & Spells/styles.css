@@ -42,7 +42,7 @@ body{
   color: var(--clr-wht);
   background-color: var(--clr-back);
 }
-#a {
+a {
   text-decoration: none;
   color: inherit;
 }

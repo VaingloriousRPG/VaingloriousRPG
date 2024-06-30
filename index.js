@@ -51,5 +51,28 @@ function currentProf(m) {
         pdots[profIndex-1].className += " pactive";
     
     }
-    plusProf(0)
-    plusRace(0)
+
+    class Navbar extends HTMLElement {
+        constructor() {
+          super();
+        }
+      
+        connectedCallback() {
+          this.innerHTML = `    
+  
+          <header>
+    <div class="navbar">
+        <ul id="navlist">
+            <li><a href='index.html'>Home</a></li>
+            <li>Gameplay & Rules</li>
+            <li><a id=a href='Skills & Spells/index.html' target='S&Pwindow'>Skills & Spells</a></li>
+            <li><a href='character.html' target='C&Cwindow'>Character Creation</a></li>
+            <li>about</li>
+        </ul>
+        </div>
+      </header>
+    `;
+  }
+}
+
+customElements.define('header-component', Navbar);
