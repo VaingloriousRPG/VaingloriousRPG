@@ -2,12 +2,9 @@ let raceIndex = 1;
 function plusRace(n) {
     raceSlides(raceIndex += n);
 }
-function currentRace(n) {
-    raceSlides(raceIndex = n);
-}
+
     function raceSlides(n) {
         let i;
-        /*let rlinks = document.getElementsByClassName("rlink");*/
         let rslides = document.getElementsByClassName("rcard");
         let dots = document.getElementsByClassName("rdot");
         if (n > rslides.length) {raceIndex = 1}
@@ -15,15 +12,10 @@ function currentRace(n) {
         for (i = 0; i < rslides.length; i++) {
             rslides[i].style.display = "none";
         }
-        /*for (i = 0; i < rlinks.length; i++) {
-            rlinks[i].style.display = "none";
-        }*/
         for (i = 0; i < dots.length; i++) {
             dots[i].className = dots[i].className.replace(" active","");
         }
         rslides[raceIndex-1].style.display = "block";
-        /*document.getElementById("rF").src = "rlinks[raceIndex-1]"*/
-        /*rlinks[raceIndex-1].style.display = "run-in";*/
         dots[raceIndex-1].className += " active";
     }
 
@@ -32,9 +24,7 @@ let profIndex = 1;
 function plusProf(m) {
     profSlides(profIndex += m);
 }
-function currentProf(m) {
-    profSlides(profIndex = m);
-}
+
     function profSlides(m) {
         let p;
         let pslides = document.getElementsByClassName("pcard");
@@ -63,11 +53,11 @@ function currentProf(m) {
           <header>
     <div class="navbar">
         <ul id="navlist">
-            <li><a href='index.html' target='HomeWindow'>Home</a></li>
+            <li><a href='index.html' target='Vainglorious RPG'>Home</a></li>
             <li>Gameplay & Rules</li>
             <li><a id=a href='Skills & Spells/index.html' target='S&Pwindow'>Skills & Spells</a></li>
             <li><a href='character.html' target='C&Cwindow'>Character Creation</a></li>
-            <li>about</li>
+            <li>About</li>
         </ul>
         </div>
       </header>
