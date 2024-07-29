@@ -19,6 +19,7 @@
 }
 html{
     color-scheme: light dark;
+    font-size: calc(.6rem + 1vw);
 }
 
 body{
@@ -28,13 +29,15 @@ body{
     line-height: 1.5;
     font-style: normal;
     background-color: var(--clr-back);
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
-
+p{ 
+    margin: 1vw;
+}
     .title{
-        font-size: 5em;
+        font-size: calc(1em + 9vw);
         text-align: center;
         background-repeat: no-repeat;
-        text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     }
     .dwarfCave{
         background-image: url("../cards/dwarfCavesBanner.png");
@@ -47,7 +50,7 @@ body{
             font-weight: var(--fw-bold);
         }
     .names{
-        font-size: .8em;
+        font-size: 80%;
         column-count: 3;
     }
     #attBonus{

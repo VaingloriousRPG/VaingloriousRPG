@@ -19,7 +19,7 @@ function openNav() {
       <header>
 <div class="navbar">
     <ul id="navlist">
-        <li><a href='../../../index.html' target='Vainglorious RPG'>Home</a></li>
+        <li><a href='../../../index.html' target='Vainglorious RPG'>Home &nbsp; &nbsp;</a></li>
         <li>Gameplay & Rules</li>
         <li><a href='../../index.html' target='S&Pwindow'>Skills & Spells</a></li>
         <li><a href='../../../character.html' target='C&Cwindow'>Character Creation</a></li>

@@ -14,7 +14,7 @@
     --clr-nav: rgb(167, 127, 206);
 
     --ff-base: "Milonga", serif;
-    font-size: 1rem;
+
 
     --fw-regular: 300;
     --fw-semi-bold: 400;
@@ -23,6 +23,7 @@
 html{
     color-scheme: light dark;
     scroll-behavior: smooth;
+    font-size: calc(.3rem + 1vw);
 }
 
 body{
@@ -32,6 +33,7 @@ body{
     line-height: 1.5;
     font-style: normal;
     background-color: var(--clr-back);
+    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .emblem{
     width: 100%;
@@ -57,14 +59,15 @@ body{
     justify-content: space-around;
     flex-wrap: nowrap;
     color: var(--clr-nav);
-    font-size: 2vh;
+    margin: 1vw;
+    font-size: .8em;
     list-style-type: none;
 }
 .main{
     display: grid;
     grid-template-columns: repeat(11, 9vw);
     grid-auto-rows: 30vh;
-      
+    font-size: .8em;
 }
 a {
     text-decoration: none;
@@ -74,10 +77,10 @@ a {
 .intro{
     grid-column: 3 / 12;
     grid-row: 1 / 4;
-    max-height: 60vh;
+    max-height: 61vh;
     max-width: 79vw;
     overflow-y: scroll;
-    margin-top: 2vh;
+
 }
 .race{
     grid-column: 1 / 7;
@@ -87,14 +90,13 @@ a {
     height: 30vh;
     align-self: start;
     position: relative;
+    overflow:clip;
 }
-.rcard{
-    
+.rcard{ 
     min-width: 32vw;
     height: 27vh;
     background-color: black;
     background-repeat: no-repeat; background-size: cover;
-    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .rcard:hover {
     border-color: rgb(12, 2, 206);
@@ -105,21 +107,16 @@ a {
     margin-left: 35%;
     margin-top: 0px;
     margin-bottom: 0%;
-    font-size: 2.5vw;
+    font-size: 2em;
     text-decoration: none;
     color: unset;
-    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-.genus{
-    font-size: 1.2vw;
 }
 .cardText{
     margin-top: -2%;
     margin-left: 40%;
     margin-right: 5%;
     text-indent: 5%;
-    font-size: 1vw;
-    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: .8em ;
 }
 #rClick{
     margin-left: 20%;
@@ -165,7 +162,6 @@ a {
     font-weight: var(--fw-bold);
     transition: 1.6s ease;
     border-radius: 0 3px 3px 0;
-    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .dot {
     text-align: center;
@@ -200,6 +196,7 @@ a {
     max-height: 30vh;
     align-self: start;
     position: relative;
+    overflow:clip;
 }
 .pcard{
     min-width: 32vw;
@@ -487,7 +484,7 @@ a {
       height: 10.39vw;
       transform-origin: center center; }
       .hex-item div::before, .hex-item div::after {
-        background-color: #1e2530;
+        background-color: #08090c;
         content: "";
         position: absolute;
         width: 100%;

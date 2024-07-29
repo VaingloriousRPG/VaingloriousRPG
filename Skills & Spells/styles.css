@@ -25,7 +25,6 @@
   --clr-wht: rgb(255, 255, 255);
 
   --ff-base: "Milonga", serif;
-  font-size: 1.4rem;
 
   --fw-regular: 300;
   --fw-semi-bold: 400;
@@ -34,6 +33,7 @@
 
 html{
   color-scheme: light dark;
+  font-size: calc(.6rem + 1vw);
 }
 body{
   font-family: var(--ff-base);
@@ -41,6 +41,7 @@ body{
   font-style: normal;
   color: var(--clr-wht);
   background-color: var(--clr-back);
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 a {
   text-decoration: none;
