@@ -29,7 +29,6 @@ html{
 body{
     font-family: var(--ff-base);
     font-weight: var(--fw-regular);
-    color: azure;
     line-height: 1.5;
     font-style: normal;
     background-color: var(--clr-back);
@@ -408,8 +407,7 @@ a {
 
     a:hover, .hexagon-item a:focus {
       color: #ababab;
-      text-decoration: none;
-      outline: 0 none; }
+}
   
   
   /*
