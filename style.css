@@ -482,7 +482,7 @@ a {
       height: 10.39vw;
       transform-origin: center center; }
       .hex-item div::before, .hex-item div::after {
-        background-color: #08090c;
+        background-color: rgb(47, 69, 79);
         content: "";
         position: absolute;
         width: 100%;
@@ -558,6 +558,10 @@ a {
         grid-column: 2;
         margin-left: 1.8vw;
       }
+      .fifth{
+        grid-column: 1;
+        margin-left: .65vw;
+      }
       .sixth{
         grid-column: 2;
         margin-left: 2.65vw;
@@ -595,4 +599,19 @@ a {
   .hexagon-item:hover .titleHex, .hexagon-item:hover .icon{
     color: #fff;
   }
+}
+/* Resource Pages */
+.moodTitle{
+    font-size: 3vw;
+}
+.moodHead{
+    font-size: 2vw;
+    columns: 2;
+    list-style-type: none;
+    background-color: rgb(34, 49, 56);
+}
+.mood{
+    columns: 2;
+    list-style-type: none;
+    background-color: rgb(47, 69, 79);
 }
