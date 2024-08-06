@@ -621,21 +621,13 @@ table {
     table-layout: auto;
     width: 80%;
     border-collapse: collapse;
-    border: 3px solid rgba(128, 0, 124, 0.89);
+    border: 3px solid rgba(0, 4, 128, 0.89);
   }
   
  th, td {
     padding: 1vw;
-
+    letter-spacing: .25vw;
   }
-  th {
-    letter-spacing: 1vw;
-  }
-  
-  td {
-    letter-spacing: .5vw;
-  }
-  
   tbody td {
     text-align: center;
   }
