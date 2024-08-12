@@ -315,24 +315,19 @@ a {
 #gm{
     grid-column: 2 / 10;
     grid-row: 3 / 9;    
-    justify-content: center;
-    align-content: start;
     margin-top: 2vh;
     margin-left: 8vw;
 }
+
 #rF{
     grid-column: 1 / 7;
-    grid-row: 4 / 9;    
-    justify-content: center;
-    align-content: start;
+    grid-row: 4 / 9;
     margin-top: 15vh;
     margin-left: 3vw;
 }
 #cF{
     grid-column: 7 / 12;
-    grid-row: 4 / 9;    
-    justify-content: center;
-    align-content: start;
+    grid-row: 4 / 9;
     margin-top: 15vh;
     margin-right: 2vw;
     margin-left: 1vw;
@@ -615,6 +610,7 @@ a {
 }
 .mood {
     background-color: rgb(47, 69, 79);
+    text-indent: 2vw;
 }
 table {
     margin-left: 5vw;
@@ -636,7 +632,6 @@ table {
   }
   
   tbody tr:nth-child(even) {
- 
     background-color: rgb(34, 49, 56);
   }
   

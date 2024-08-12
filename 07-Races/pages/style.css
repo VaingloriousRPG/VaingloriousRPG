@@ -39,13 +39,88 @@ p{
         text-align: center;
         background-repeat: no-repeat;
     }
-    .dwarfCave{
+    /*.race1Ban{
+        background-image: url("../cards/Lorem.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }*/
+    .race2Ban{
         background-image: url("../cards/dwarfCavesBanner.png");
         background-repeat: no-repeat;
         background-size: cover;
     }
-.txt1{
-}
+    .race3Ban{
+        background-image: url("../cards/murikBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race4Ban{
+        background-image: url("../cards/dElfBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race5Ban{
+        background-image: url("../cards/gElfBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race6Ban{
+        background-image: url("../cards/hElfBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race7Ban{
+        background-image: url("../cards/graymoreBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race8Ban{
+        background-image: url("../cards/halflingBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race9Ban{
+        background-image: url("../cards/mountaineerBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race10Ban{
+        background-image: url("../cards/lowlanderBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race11Ban{
+        background-image: url("../cards/minotaurBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race12Ban{
+        background-image: url("../cards/presmaBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    /*.race13Ban{
+        background-image: url("../cards/dwarfCavesBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }*/
+    .race14Ban{
+        background-image: url("../cards/spriteBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race15Ban{
+        background-image: url("../cards/VocquaBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .race16Ban{
+        background-image: url("../cards/piscineBanner.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    /*.txt1{
+    }*/
         .txt2{
             font-weight: var(--fw-bold);
         }
