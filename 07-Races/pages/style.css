@@ -38,6 +38,8 @@ p{
         font-size: calc(1em + 9vw);
         text-align: center;
         background-repeat: no-repeat;
+        background-repeat: no-repeat;
+        background-image: url(Vainglorious_logo.png);
     }
     /*.race1Ban{
         background-image: url("../cards/Lorem.png");

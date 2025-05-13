@@ -44,11 +44,19 @@ body{
 }
 
 .title{
-  text-align: center;
-  font-size: 2em;
+  height: 11vh;
+  color: var(--clr-back);
 }
-.content {margin: 5px; width: 100%; }
-
+.image{
+  background-image: url("../Vainglorious_logo.png"); background-position: 50% 60%;
+  height: 100%;
+  width: auto;
+  background-repeat: no-repeat;
+  box-align: center;
+  object-fit: scale-down;
+  margin-left: 9vw;
+  margin-right: 5vw;
+}
 .navbar{
     height: 1em;
     margin-left: 5vw;
