@@ -30,9 +30,10 @@ body{
     font-family: var(--ff-base);
     font-weight: var(--fw-regular);
     line-height: 1.5;
+    color: light-dark(var(--clr-drkBack), var(--clr-all));
     font-style: normal;
     background-color: var(--clr-back);
-    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .emblem{
     width: 100%;
