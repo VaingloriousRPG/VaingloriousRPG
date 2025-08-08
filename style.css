@@ -21,7 +21,6 @@
     --fw-bold: 700; 
 }
 html{
-    color-scheme: light dark;
     scroll-behavior: smooth;
     font-size: calc(.3rem + 1vw);
 }
@@ -30,7 +29,7 @@ body{
     font-family: var(--ff-base);
     font-weight: var(--fw-regular);
     line-height: 1.5;
-    color: light-dark(var(--clr-drkBack), var(--clr-all));
+    color: var(--clr-all);
     font-style: normal;
     background-color: var(--clr-back);
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
