@@ -22,6 +22,7 @@
 }
 html{
     color-scheme: light dark;
+    color: light-dark(var(--clr-all), var(--clr-all));
     scroll-behavior: smooth;
     font-size: calc(.3rem + 1vw);
 }
