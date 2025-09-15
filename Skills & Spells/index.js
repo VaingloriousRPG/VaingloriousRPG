@@ -27,6 +27,33 @@ function openNav() {
     </ul>
     </div>
   </header>
+  </overlay>
+          <div class="overlay-content">
+            <p class="all" id="classbanners">Skill Pages</p>
+            <span id="skillgrid">
+            
+                <button id="one" onclick="document.location='../Hunter/HunterColumn.html'">Hunter</button>
+            
+                <button id="two" onclick="document.location='../Fighter/FighterColumn.html'">Fighter</button>
+            
+                <button id="three" onclick="document.location='../Rogue/RogueColumn.html'">Rogue</button>
+            
+                <button id="four" onclick="document.location='../Sylvan/SylvanColumn.html'">Sylvan</button>
+            
+                <button id="five" onclick="document.location='../Strumos/StrumosColumn.html'">Strumos</button>
+            
+                <button id="six" onclick="document.location='../Dokour/DokourColumn.html'">Dokour</button>>
+            
+                <button id="seven" onclick="document.location='EolasColumn.html'">Eolas</button>
+            
+                <button id="eight" onclick="document.location='../Tiro/TiroColumn.html'">Tiro</button>
+            
+                <button id="nine" onclick="document.location='../Orix/OrixColumn.html'">Orix</button>
+            
+                <button id="ten" onclick="document.location='../../index.html'">All Skills</button>
+            </span>
+        </div> 
+      </overlay>
 `;
 }
 }
