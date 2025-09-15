@@ -44,7 +44,7 @@ function openNav() {
             
                 <button id="six" onclick="document.location='../Dokour/DokourColumn.html'">Dokour</button>>
             
-                <button id="seven" onclick="document.location='EolasColumn.html'">Eolas</button>
+                <button id="seven" onclick="document.location='EolasColumn.html'">Venerator</button>
             
                 <button id="eight" onclick="document.location='../Tiro/TiroColumn.html'">Tiro</button>
             
