@@ -28,6 +28,12 @@ function openNav() {
     </div>
   </header>
   </overlay>
+      <div id="myNav" class="overlay">
+
+        <!-- Button to close the overlay navigation -->
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  
+        <!-- Overlay content -->
           <div class="overlay-content">
             <p class="all" id="classbanners">Skill Pages</p>
             <span id="skillgrid">
