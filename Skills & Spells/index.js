@@ -50,7 +50,7 @@ function openNav() {
             
                 <button id="six" onclick="document.location='../Dokour/DokourColumn.html'">Dokour</button>>
             
-                <button id="seven" onclick="document.location='/skillPages/Venerator/VeneratorColumn.html'">Venerator</button>
+                <button id="seven" onclick="document.location='../Venerator/VeneratorColumn.html'">Venerator</button>
             
                 <button id="eight" onclick="document.location='../Tiro/TiroColumn.html'">Tiro</button>
             
