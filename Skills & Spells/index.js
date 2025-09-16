@@ -38,25 +38,25 @@ function openNav() {
             <p class="all" id="classbanners">Skill Pages</p>
             <span id="skillgrid">
             
-                <button id="one" onclick="document.location='/skillPages/Hunter/HunterColumn.html'">Hunter</button>
+                <button id="one" onclick="document.location='skillPages/Hunter/HunterColumn.html'">Hunter</button>
             
-                <button id="two" onclick="document.location='/skillPages/Fighter/FighterColumn.html'">Fighter</button>
+                <button id="two" onclick="document.location='skillPages/Fighter/FighterColumn.html'">Fighter</button>
             
-                <button id="three" onclick="document.location='/skillPages/Rogue/RogueColumn.html'">Rogue</button>
+                <button id="three" onclick="document.location='skillPages/Rogue/RogueColumn.html'">Rogue</button>
             
-                <button id="four" onclick="document.location='/skillPages/Sylvan/SylvanColumn.html'">Sylvan</button>
+                <button id="four" onclick="document.location='skillPages/Sylvan/SylvanColumn.html'">Sylvan</button>
             
-                <button id="five" onclick="document.location='/skillPages/Strumos/StrumosColumn.html'">Strumos</button>
+                <button id="five" onclick="document.location='skillPages/Strumos/StrumosColumn.html'">Strumos</button>
             
-                <button id="six" onclick="document.location='/skillPages/Dokour/DokourColumn.html'">Dokour</button>>
+                <button id="six" onclick="document.location='skillPages/Dokour/DokourColumn.html'">Dokour</button>>
             
-                <button id="seven" onclick="document.location='/skillPages/Venerator/VeneratorColumn.html'">Venerator</button>
+                <button id="seven" onclick="document.location='skillPages/Venerator/VeneratorColumn.html'">Venerator</button>
             
-                <button id="eight" onclick="document.location='/skillPages/Tiro/TiroColumn.html'">Tiro</button>
+                <button id="eight" onclick="document.location='skillPages/Tiro/TiroColumn.html'">Tiro</button>
 
                  <button id="nine" onclick="document.location='index.html'">All Skills</button>
             
-                <!-- button id="nine" onclick="document.location='/skillPages/Orix/OrixColumn.html'">Orix</button -->
+                <!-- button id="nine" onclick="document.location='skillPages/Orix/OrixColumn.html'">Orix</button -->
             
                
             </span>
