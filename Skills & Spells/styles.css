@@ -312,9 +312,9 @@ body{
   
   /* When you mouse over the navigation links, change their color */
   .overlay button:hover, .overlay button:focus {
-    color: #351d1d; text-shadow:#000000 2px 0 15px;
+    color: #351d1d; text-shadow:#000000 1px 0 15px;
   }
-  #ten:hover, #ten:focus{color: #f7ed83; text-shadow:#000000 2px 0 15px;}
+  #ten:hover, #ten:focus{color: #f7ed83; text-shadow:#000000 1px 0 15px;}
   
   /* Position the close button (top right corner) */
   .overlay .closebtn {
