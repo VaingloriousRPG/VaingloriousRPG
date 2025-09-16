@@ -53,10 +53,12 @@ function openNav() {
                 <button id="seven" onclick="document.location='../Venerator/VeneratorColumn.html'">Venerator</button>
             
                 <button id="eight" onclick="document.location='../Tiro/TiroColumn.html'">Tiro</button>
+
+                 <button id="ten" onclick="document.location='../../index.html'">All Skills</button>
             
                 <!-- button id="nine" onclick="document.location='../Orix/OrixColumn.html'">Orix</button -->
             
-                <button id="ten" onclick="document.location='../../index.html'">All Skills</button>
+               
             </span>
         </div> 
       </overlay>
