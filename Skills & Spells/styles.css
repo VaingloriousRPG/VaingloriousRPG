@@ -221,11 +221,11 @@ body{
     width: 100%; /* 100% width */
     text-align: center; /* Centered text/links */
     margin-top: 0px; 
-    font-size: 1.5em;
+    font-size: 2em;
   }
   #skillgrid{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-auto-rows: 32vh;
     padding: 1vw;
   }
@@ -288,14 +288,14 @@ body{
   #nine{
     grid-column:3;
     grid-row: 3;
-    background-image: url("images/OrixCard.png");
+    background-image: url("images/AllCard.png");
     background-repeat: no-repeat; background-size: cover;
     cursor: pointer;
   }
   #ten{
     grid-column:4;
     grid-row: 1;
-    background-image: url("images/AllCard.png");
+    background-image: url("images/OrixCard.png");
     background-repeat: no-repeat; background-size: cover;
     cursor: pointer;
   }
