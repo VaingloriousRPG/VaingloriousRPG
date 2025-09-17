@@ -18,6 +18,8 @@
   --clr-sylvanO: #05ee18c0;
   --clr-orix: rgb(184, 128, 171);
   --clr-orixO: rgb(184, 128, 171);
+  --clr-ven: rgb(199, 232, 247);
+  --clr-venO: rgb(199, 232, 247, 0.705);  
   --clr-tiro: rgba(196, 197, 148, 0.705);
   --clr-all: rgb(228, 241, 228);
   --clr-allO: rgba(228, 241, 228, 0.705);
@@ -181,6 +183,15 @@ body{
       }                           
      .btnO2 {
         font-size: .8em; background-color: var(--clr-orixO);
+            }
+.ven {
+      background-image: url("images/EolPics.png"); background-position: 50% 60%;
+      }                               
+     .btnV {
+        color:rgb(39, 43, 11); background-color: var(--clr-ven); float: left; margin-left: 1vw;
+      }                           
+     .btnV2 {
+        font-size: .8em; background-color: var(--clr-venO);
             }
 .tir { 
       background-image: url("images/TirPics.png"); background-position: 50% 60%;
