@@ -27,7 +27,7 @@ function openNav() {
     </ul>
     </div>
   </header>
-  </overlay>
+  <overlay>
       <div id="myNav" class="overlay">
 
         <!-- Button to close the overlay navigation -->
