@@ -4,8 +4,8 @@
   --clr-drkBack: rgba(2, 8, 37);
   --clr-fighter: rgba(189, 186, 186);
   --clr-fighterO: rgba(189, 186, 186, 0.705);
-  --clr-rogue:  rgba( 204, 209, 204);
-  --clr-rogueO: rgba(204, 209, 204, 0.705);
+  --clr-rogue:  #b97a57;
+  --clr-rogueO: #b97957b2;
   --clr-hunt:  rgba(115, 170, 142);
   --clr-huntO: rgba(115, 170, 142, 0.705);
   --clr-dokour: rgb(234, 84, 107);
