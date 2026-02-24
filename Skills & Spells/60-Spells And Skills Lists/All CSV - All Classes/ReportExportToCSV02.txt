@@ -1,0 +1,632 @@
+
+ ALL      Battle Offense                1 Subdual Hammer Strike  4 pts                          Blunt hammer attack.  Damage fades, after 30min reduce dmg from the hammer by 1/2.
+ ALL      Utility or Misc               1                        4 pts
+
+ ALL      Battle Actions/Prep           1 Thrown Wpn Expertise   4 pts                          Roll:1min, Dur:24hr or Battle, Stk:1.
+ ALL      Chants                        1 Chant:Protection       6 pts                          Roll:1minDur:10min, AoE:1 Trgt, Rng:12sq, Stk:3. AC+1 per Venerator Tier.
+ ALL      Healing and Rest              1 Basic Forced Healing   4 pts                          Touch, 1 living creature.  Random 1d6.
+
+ ALL      Partner Cooperations          1                        1 pt
+ ALL      Utility or Misc               1                        4 pts
+ ALL      z - Basic Skills To All       1                        4 pts
+
+ ALL      z - Basic Skills To All       1                        0 pts
+ ALL      z - Basic Skills To All       1                        0 pts
+ ALL      Communication                 1                        4 pts
+
+ ALL      Class Specialty               1                        4pts
+ ALL      Class Specialty               1 Rogue To Rogue Signals 4 pts                          Dur:30min, Rng:Sight, Stk:3, SKL Save,
+ ALL      Battle Actions/Prep           1 Melee Wpn Expertise    2 pts                          Roll:1min, Dur:24hr or Battle, Stk:1.
+
+ ALL      Utility or Misc               1                        4 pts
+ ALL      Find or Reveal                1 Find Entrance/Gate     4 pts                          Urban or Dungeon, Become aware of a landmark and N,NE,E,SE,S,SW,W,&/or NW.
+ ALL      Utility or Misc               1                        4 pts
+
+ ALL      Battle Defense                1 Heat Wave Wall         4 pts                          Dur:4rds, Self, Stk:1/Tier. Rsst Mgc 1/2.
+ ALL      Utility or Misc               1                        4 pts
+ ALL      Mechanicals                   1 Create Message Trap    20 pts                         Roll:20min, AoE:1sq, Kit helps.
+
+ ALL      Class Specialty               1 Climbing               4 pts                          Dur:5min, Climb=Walk, AGL Save,
+ ALL      Utility or Misc               1                        4 pts
+ ALL      Utility or Misc               1                        4 pts
+
+ ALL      Battle Defense                1 Shield Expertise       4 pts                          Dur:4rds, Sm/Med only.  Add Shield AC +2 to Front AC for duration.
+ ALL      Creations                     1 Create/Repair Arrows   6 pts                          Roll:4hr, 24 arrows created based on Tier.
+ ALL      Class Specialty               1 Create:Field Bandage   12 pts                         Roll:4hr, AoE:1d3, Kit & Campfire needed,
+
+ ALL      Class Specialty               1 Skinning A Hide        4 pts                          Roll:12hr, Kit & Campfire needed,
+ ALL      Natural Environment           1 Find North             4 pts                          Dur:1hr, Hunter reviews area and knows which direction is north.
+ ALL      Creations                     1 Create Signers Salve   12 pts                         Roll:4hrs, 1d3 Salves, DOT healing.
+
+ ALL      Utility or Misc               1                        4 pts
+ ALL      z - Basic Skills To All       1                        0 pts
+ ALL      Utility or Misc               1                        4 pts
+
+ ALL      Shrines                       1 Shrine Of Robustness   6 pts                          Roll:10min, Dur:10min, Rng:6sqs, AoE:2x2,
+ ALL      Battle Offense                1 Rose Thorns            4 pts                          Range:10sqs, AoE:1 Target.
+ ALL      Healing and Rest              1 Heal Fire Damage       4 pts                          Touch, 1 living target, Pain free,
+
+ ALL      Healing and Rest              1 Basic Force Heal       4 pts                          Rng:1sq, 1 Target, Random 1d4 per Tier,
+ ALL      Utility or Misc               1                        4 pts
+ ALL      Fragility                     1                        8 pts
+
+ ALL      Battle Offense                1 Blinding Flashes       4 pts                          Dur:1rd/Tier, Rng:10sqs, AoE:2x2, Stk:99.
+ ALL      Battle Offense                1 Force Pinch            4 pts                          Range:12sqs, 1 Target. Dmg:1d4+ACU.
+ ALL      Battle Offense                1                        4 pts
+
+ ALL      Battle Actions/Prep           1 Avoid Rngd/Thrown      4 pts                          Self.  Dur:1hr or Battle, Stk:1. +2 AC / Tier vs Ranged&Thrown attacks from front.
+ ALL      Fences and Shelters           1 Camp Shock Perimeter   4 pts                          Roll:2min, Dur:8hrs, AoE:3x3sq.
+ ALL      Battle Defense                1 Wind Wall              4 pts                          Dur:4rnds, +4 AC vs Ranged and Thrown. Moves with creature.
+
+ ALL      Healing and Rest              1 Basic Healing          4 pts                          Rng:8, 1 Target, Living only,
+ ALL      Food And Drink                1 Draw Up Ground Water   4 pts                          Roll:10min, Touch, Quantity on region,
+ ALL      Utility or Misc               1                        4 pts
+
+ ALL      Healing and Rest              1 TIRO:Healing Bolus     30% Max                        Touch, 1 Target, Bright and colorful,
+ ALL      Light-                        1                        4 pts
+ ALL      Planar                        1                        4 pts
+
+ ALL      Nae'Ems                       1                        4 pts
+ ALL      Utility or Misc               1                        4 pts
+ ALL      Illusions                     1 TIRO:Beauty Contestant 5% Max                         Roll:5min, Dur:12hr, Self.
+
+ ALL      Battle Offense                1 Flash Of Fire!         4 pts                          Range:12sqs, Dur:2rds, Pass the AGL Save to damage a create with 1d6+ACU in fire.
+ ALL      Utility or Misc               1 TIRO:Water From Plant  20% Max                        Dur:10min, AoE:1 plant, Stk:3, Flashy way to get 1/2 skin of water.
+ ALL      Utility or Misc               1                        4 pts
+
+ ALL      Shrines                       1 Shrine of Dead Light   4 pts                          Dur:4hr,   Candlelight=AoE:8sq rad,
+ ALL      Battle Defense                1 Set For Charge         4 pts                          EXTRA: AC+6 vs attacks within a charge. Defndr: Lngsword+ and may pivot to charge.
+ ALL      Traveling (PMP)               1 TIRO:Quick Jump        20% Max                        Rng:1d6sq, Self, Flashy mini personal teleport.
+
+ ALL      Shape Change                  1 Shape Of A Dog (20hp)  4 pts                          Roll:2min, Dur:8hr, Hearing&Smell. Move:18
+ ALL      Light and Darkness            1 Shadow Cover           4 pts                          Dur:1hr, Shaded area over caster.
+ ALL      Utility or Misc               1                        4 pts
+
+
+
+ ALL      Battle Offense                1 TIRO:Pie Fight!        20% Max                        Range:4sqs, Target AGL Save to avoid or Target blind for 1 round.  AC & HIT-4.
+ ALL      Utility or Misc               1                        4 pts
+
+ ALL      Utility or Misc               1                        4 pts
+ ALL      Traveling (PMP)               1 No Road Needed         4 pts                          Roll:10min, Dur:8hr, AoE:Traversable land,
+ ALL      Mechanicals                   1 Dis/Arm Locks or Traps 8 pts                          Roll:10min, Touch, Kit assists.
+
+ ALL      Light and Darkness            1 Red Light              4 pts                          Dur:6hrs, Red candle light above head.
+ ALL      Light and Darkness            1 Yellow Light           4 pts                          Dur:12hrs, Yellow candle light above self.
+ ALL      Light and Darkness            1 Swamp Lights           4 pts                          Dur:2hrs, Green hued candle lights.
+
+ ALL      Light and Darkness            1 Violet Light           4 pts                          Dur:4hrs, Violet candle light above head.
+ ALL      Utility or Misc               1                        4 pts
+ ALL      Commune                       1 Seek Ancestor Spirit   20 pts                         Roll:2-4 days, Focus Heirloom required.
+
+ ALL      Utility or Misc               1                        4 pts
+ ALL      Battle Actions/Prep           1 Ranged Wpn Expertise   4 pts                          Roll:1min, Dur:24hr or Battle, Stk:1.
+ ALL      Find or Reveal                1 Search For Item        4 pts                          Roll:1min, Touch, AoE:Person/Small area.
+
+ ALL      Shrines                       1 Shrine Of Healing      6 pts                          Roll:4rd, Dur:4hr, Rng:6sq, AoE:3x3sq Rad,
+ ALL      Nae'Ems                       1                        4 pts
+ ALL      Utility or Misc               1                        4 pts
+
+ ALL      Battle Actions/Prep           1 Avoid Rngd/Thrown      4 pts                          Self.  Dur:1hr or End of Battle, Stk:1
+ ALL      Fences and Shelters           2 Perimeter Safety       4 pts                          Roll:30min, Dur:8hrs, AoE:5x5sq,
+ ALL      Battle Offense                2 Melee Backstab         4 pts                          EXTRA: Range:1sq, AoE:1 Trgt, Flank only.
+
+ ALL      Battle Defense                2 Withdraw & No Attacks  4 pts                          Dur:2rds, Move:1/2, No AoO poss, Self.  AC+2/Tier and +1 AC per adjacent FTR.
+ ALL      Battle Offense                2 Fighters Charge        4 pts                          EXTRA: Attacks:2, AC:-4, ToHIT & Dmg +8. Move:x2 (Min 4sq, No pivot).
+ ALL      Class Specialty               2 Make Fire with Sticks  4 pts                          Roll:10min,  Dry kindling needed,
+
+ ALL      Natural Environment           2 Benigh Approach        4 pts                          Roll:5min, Dur:1hr, Rng:10sq. Hunter calms and move 'closer' than normal.
+ ALL      Healing and Rest              2 Feather Bed            4 pts                          Roll:2min, Dur:12hrs, w/blankets & Pillow,
+ ALL      Creations                     2 Create Sunrise Potion  12 pts                         Roll:4hrs, 1d3 Ptns, @sunrise aids HP gain
+
+ ALL      Healing and Rest              2 Light Nap (Sleep)      4 pts                          Roll:1min, Dur:1d6hrs, Rng:8sqs, 1 Target
+ ALL      Healing and Rest              2 Enter Spirit Realm     4 pts                          Dur:5min/Tier, Caster & Guest, Remains as 'Ghosts' in PMP.  Can be exorcised.
+ ALL      Find or Reveal                2 Whispers Of A Name     4 pts                          Rng:20sq, AoE:1 Target, Learn local name.
+
+ ALL      Partner Cooperations          2 Right Place & Time     4 pts                          Dur:10hr, Rng:10sq, AoE:Rogue.  Spiritual pushes/murmur to aid Rogue.
+ ALL      Planar                        2                        4 pts
+ ALL      Battle Reaction               2 AoO On Enter Or Exit   1 pts                          EXTRA: Rng:1sq,
+
+ ALL      Healing and Rest              2 Spirited Wound Repair  6 pts                          Touch, 1 Recipient, roll 2d4, SKL Save.
+ ALL      Illusions                     2 TIRO:Random Friendship 40% Max                        Dur:2rds, Rng:10sq, AoE:random creature.
+ ALL      Battle Offense                2 TIRO:Fire Crack!       20% Max                        Range:6sqs, AoE:1 Target, ToHIT for 1d3 fire dmg.  AGL Save to not loose 1 attk.
+
+ ALL      Fences and Shelters           2 TIRO:Garish Pup Tent   20% Max                        Roll:1min, Dur:8hrs, Rng:8sq, AoE:1x2sq,
+ ALL      Utility or Misc               2 TIRO:Amplify Speech    20% Max                        Dur:5min, Self, Rng:1d4+20sq, Even whispers carry over most wall/barriers.
+ ALL      Partner Cooperations          2 Post Yappy Camp Dog    4 pts                          Roll:5min, Dur:8hr, AoE:5sq Radius, Stk:1.
+
+ ALL      Watch/Scry                    2 Create Magical Glow    2 pts                          Roll:1min, Dur:EOY, 1 item, Stk:9, Detect Magic = Magic!, # of Aspects?=0.
+ ALL      Fragility                     2                        4 pts
+ ALL      Class Specialty               2 Ventriloquism          4 pts                          Rng:4sq/Tier, Generic sound = +30 to Save,
+
+ ALL      Class Specialty               2 Fire Starter           4 pts                          Rng:6sq, AoE:1 Target, Mundane Fire,
+ ALL      Class Specialty               2 Convincing Another     4 pts                          Roll:5min, Dur:2 days, Rng:hearing,
+ ALL      Food And Drink                2 Increase Non-Mgc Food  4 pts                          Roll:10min, Rng:2sqs, Up to 21 meals,
+
+ ALL      Creations                     2 Duplicate Common Item  2 pts                          Rng:3sq, 1 low value item,
+ ALL      Communication                 2 Hot Conversations      4 pts                          Roll:2rds, Dur:20min, Rng:PMP, AoE:2 fires
+ ALL      Find or Reveal                2                        4 pts
+
+ ALL      Nae'Ems                       2                        4 pts
+ ALL      Shape Change                  2 Deer Shape(Move:24/36) 4 pts                          Roll:2min, Dur:2hr, Hear/Smell, AC:26/18,
+ ALL      Fences and Shelters           2 Create LeanTo Shelter  3 pts                          Roll:1min, Dur:12hrs, AoE:1x2sqs. Stk:3
+
+ ALL      Mechanicals                   2 Create Impedance Trap  12 pts                         Roll:5min, AoE:1x2sq, Kit helps.
+ ALL      Healing and Rest              2 Triggered Healing      8 pts                          Roll:30min, Touch, 1 Trgt, Dur:Til Dmg,
+ ALL      Battle Offense                2 Force Push             4 pts                          Range:10sq, AoE:1sq (1 Target), Push:1sq, Dmg:1d6+ACU. BRU Save to hold ground.
+
+ ALL      Natural Environment           2 Remove Plant Disease   4 pts                          Roll:10min, Rng:4sq, AoE:4x4sq. SKL Save required to remove disease from plants.
+ ALL      Class Specialty               2 Silent Movements       4 pts                          Dur:20min, Self, SKL Save required,
+ ALL      Battle Offense                2 Rain Of Hail           4 pts                          Range:8sqs, AoE:1sq Lobbable, No ToHIT,
+
+ ALL      Battle Offense                2 Flame Bolt             4 pts                          Range:10sqs,  AoE:1 Target, AGL Save to dodge, Direct fire dmg 2d10+ACU.
+ ALL      Battle Offense                2 Electric Zap           4 pts                          Range:10sqs, AoE:1sq, Direct attack, Damage 1d8+ACU (non-Adamnt +2).
+ ALL      Natural Environment           2 Plant Growth           4 pts                          Roll:1hr, AoE:4x4sq / Tier. Promotes fast plant development/growth.
+
+ ALL      Healing and Rest              2 Healing Flames         4 pts                          Touch, 1 Target, Roll 1d4/Tier, Painful,
+ ALL      Class Specialty               2 Basic Disguise         4 pts                          Roll:30min, Dur:12hrs, Self,
+ ALL      Battle Offense                3                        6 pts
+
+
+
+ ALL      Battle Actions/Prep           3 Take Point             4 pts                          Roll:1min, Dur:24hrs.   Scout 6sqs ahead.
+ ALL      Class Specialty               3 Improve Resist/SKL     4 pts                          Roll:6min, Dur:2hrs, Self, Focus needed,
+
+ ALL      Traveling (PMP)               3 Astral Beast of Burden 4 pts                          Roll:20min, Dur:1mo, STM+2 riders. HP=25,
+ ALL      Battle Defense                3 Prot FTR vs Rngd/Thrwn 4 pts                          Dur:4hrs/Battle, Range:8sqs, 1 per recip.
+ ALL      Class Specialty               3 Mental Alarm Clock     4 pts                          Roll:10min, Dur:24hrs, Self, 1rd to clear head.  Wake w/in duration on time.
+
+ ALL      Battle Offense                3 Heat Metal Armor       4 pts                          Dur:4rds, Rng:12sqs, 1 Trgt, Stk:3. Each rnd Init, AC, ToHIT drop by 1. No lobbing
+ ALL      Planar                        3                        4 pts
+ ALL      Battle Reaction               3 Blunder Reroll         4 pts                          INTERRUPT: After Blunder roll,
+
+ ALL      Battle Reaction               3 Draw Attention         4 pts                          Just 1: 1 attk, SNS Comparison Save.
+ ALL      Light and Darkness            3 Darkness               4 pts                          Dur:4hrs, AoE:5sq Diameter around caster.
+ ALL      Creations                     3 Cats Eye Marble        4 pts                          Roll:1min, Dur:2hrs, Rng:PMP,
+
+ ALL      Battle Offense                3 Conjure Native Beetles 4 pts                          Rng:10, Stk:2. Attk:1, HIT:+4, AC:12, Dmg:1d6, HP=15, SKL Save for HP=25.
+ ALL      Commune                       3 Converse w/ Ancestor   4 pts                          Roll:10min@dawn, Dur:10min, Self, Stk:1,
+ ALL      Class Specialty               3 Hot Rocks              4 pts                          Roll:2min, Dur:12hrs, AoE:9 stones, Stk:3,
+
+ ALL      Fragility                     3                        4 pts
+ ALL      Battle Offense                3 Shield Bash (Odd Rds)  4 pts                          EXTRA: Sm/Med/Lg shield needed. ToHIT+4, Damage:Shield AC+Tier. Previous Target.
+ ALL      Light and Darkness            3 Shadow of the Magi     4 pts                          Dur:Conc+4rds, AoE:3sq Dia around caster.
+
+ ALL      Battle Reaction               3 Dodge AoO Attacks      4 pts                          EXTRA: AGL Comparison Save to dodge,
+ ALL      Battle Defense                3 Disengage w/ 1 Attack  6 pts                          JUST 1: Self.  Enemy AoO possible. Move 2x, 1 attack @ -4 ToHIT.
+ ALL      Creations                     3 False Glow             4 pts                          Roll:2min, Dur:1hr/Tier, Rng:4sqs, 1 Item.
+
+ ALL      Natural Environment           3 Water To Steam (Rev)   4 pts                          Rng:2sq/Tier, AoE:1sq/Tier. Reversible. Steam dmg=1/Tier.
+ ALL      Communication                 3 TIRO:Signal Flares     15% Max                        Dur:1min, AoE:1 flare, Stk:1,
+ ALL      Find or Reveal                3 Reveal Value           4 pts                          Roll:10rds, Rng:Touch, AoE:1 Item.
+
+ ALL      Partner Cooperations          3 Invoke Temp Imp        4 pts                          Roll:1hr, Dur:1day/Tier, Casters Image,
+ ALL      Illusions                     3 TIRO:2 Rope Image      10% Max                        Roll:1min, Dur:2hr, AoE:1 Rope. Ribbon-like rope cut then is full again!
+ ALL      Battle Offense                3 Rogues Charge          4 pts                          EXTRA: Attacks:1, AC:-4, Init/ToHIT/Dmg +8. Move:x2 (Min 4sq),   May pivot!
+
+ ALL      Summon or Send                3 TIRO:Have Your Item    30% Max                        Rng:4sq, AoE:Small item in sight.
+ ALL      Battle Offense                3 TIRO:Quick Push!       40% Max                        Rng:4sqs, A direct and colorful force pushes 1 target 1-4 sqs away.
+ ALL      Shape Change                  3 Plant Shape            4 pts                          Dur:4hr, AoE:1x2sq, AC=8/8, HP=Caster.
+
+ ALL      Partner Cooperations          3 Direct Rodent          4 pts                          Roll:1min, Dur:30min, AoE:20sq, Stk:5.
+ ALL      Partner Cooperations          3 Waterproof A LeanTo    4 pts                          After LeanTo set, Roll:10min, Dur:12hr,
+ ALL      Creations                     3 Visible Sign Post      4 pts                          Roll:1min, Dur:2hrs, Rng:15sqs, AoE:1 post
+
+ ALL      Natural Environment           3 Calm Animal            4 pts                          Roll:20min, Dur:2hr, Rng:2sq, Stk:3.
+ ALL      Natural Environment           3 Hunt, Fish, Gather     4 pts                          Roll:9hr, Self, AoE:20x20sq, Stk:1, 1/day.
+ ALL      Mechanicals                   3 Acid Etching           4 SP                           Roll:30min, Touch, AoE:1x1sq max. May need a Save due to surface or magic.
+
+ ALL      Class Specialty               3                        -2 pts
+ ALL      Communication                 3 Hunters Marks          4 pts                          Roll:1min, Dur:1month, AoE:1sq,
+ ALL      Battle Defense                3 TIRO:Armor of Light    30% Max                        Roll:1min, Dur:4hrs, Self, Bright/Sparkly.
+
+ ALL      Nae'Ems                       3                        4 pts
+ ALL      Battle Defense                3 Wind Wall for HNT      4 pts                          Dur:4, Range:4sqs/Tier.   AC+2 vs Ranged and Thrown. (Not Melee)
+ ALL      Utility or Misc               4 TIRO:Tasty Gruel       25% Max                        Dur:1hr, Touch, AoE:1d12 meals.  Flashy way to make gruel taste better.
+
+ ALL      Creations                     4 Triggered Message      4 pts                          Roll:30, Dur:Triggered, Stk:3,
+ ALL      Traveling (PMP)               4 Strumos Run            4 pts                          Roll:5min, Dur:8hr, Self, Caster runs at the speed of a standard horse.
+ ALL      Partner Cooperations          4 Summon Feline Familiar 8 pts                          Roll:2days, Rng:1/2mile, Common. AC=15, Attk=x1x1, Init/HIT+6, Dmg:1d6, Move=15.
+
+ ALL      Healing and Rest              4 Final Rites            4 pts                          Roll:30min, 1 corpse, (not un/living dead)
+ ALL      Communication                 4 Arcane Translation     4 pts                          Roll:20min, Dur:20, Touch, SKL Save.
+ ALL      Summon or Send                4                        4 pts
+
+ ALL      Find or Reveal                4 Search The Area        4 pts                          Roll:10min, Dur:2hrs, Touch, AoE:2sq cube.
+ ALL      Food And Drink                4 Preserve Food          12 pts                         Roll:2hrs, Rnd:4sq, Up to 150 Meals,
+ ALL      Shape Change                  4 Shape Of A Familiar    8 pts                          Roll:6min, Dur:4hr, Cat:Infrared/Silence, Dog:Hear/Smell, Horse:Burst Speed=24.
+
+ ALL      Healing and Rest              4 Send Dead On           4 pts                          Roll:30min, 1 corpse, (not un/living dead)
+ ALL      Find or Reveal                4 Know About You         4 pts                          Roll:5rds, Rng:8sq, AoE:1 Trgt, Learn…
+ ALL      Nae'Ems                       4 TIRO:Sloppy Spying     25% Max                        Dur:5min, Rng:12sq, AoE:3x3x3sq, Flashing color above caster.
+
+ ALL      Light and Darkness            4 TIRO:Aural Spark       10% Max                        Dur:1d20min, Rng:10sq, AoE:2x2sq,
+ ALL      Battle Offense                4 TIRO:Quick Flash Fire  30% Max                        Range:12sqs, AoE:1 Trgt, 1d12 fire damage, AGL Save for 1/2 Damagel.
+ ALL      Light and Darkness            4 Profiled In Fire       4 pts                          Dur:2hrs, Rng:12sq, AoE:Recip, Stk:3.
+
+ ALL      Partner Cooperations          4 Invoke Imp Partner     4 pts                          Roll:24hr, Dur:EOY, Rng:30sq, DOK's image.
+ ALL      Light and Darkness            4 Capture/Release Light  4 pts                          Roll:2min, Dur:2hr, Rng:12sq. Can capture or release light from mundane source.
+ ALL      Chants                        4 Chant:Marker Location  4 pts                          Roll:2rds, Rng:PMP, Dur:Instant, Stk:9,
+
+ ALL      Planar                        4 Veil Of Shadows        4 pts                          Roll:6min, Dur:12hr, AoE:4x4sq, Stk:1.
+ ALL      Find or Reveal                4 Aspect Counts by Type  4 pts                          Roll:30min, AoE:1 Item, Show count of:
+ ALL      Natural Environment           4 Water To Ice (Rev)     4 pts                          Rng:2sq/Tier, AoE:1sq/Tier. Reversible.
+
+
+
+ ALL      Food And Drink                4 Improve Food           4 pts                          Roll:10min, Dur:1hr, Up to 21 meals.
+ ALL      Find or Reveal                4 Divine Aspects         4 pts                          Roll:30min, AoE:1 Item, 1 Aspect/Tier.
+
+ ALL      Nae'Ems                       4 Speak w/ Animals       4 pts                          Roll:5min, Dur:4hr, 1 Animal. SKL Save for non-domestic. May still be timid.
+ ALL      Natural Environment           4 Predict Weather        4 pts                          Roll:1hr, Dur:1wk, AoE:Up to 5 marks.
+ ALL      Battle Defense                4 Resist The Push        4 pt                           INSTANT: Dur:Battle, Self, Stk:1.
+
+ ALL      Healing and Rest              4 Slow Healing           10 pts                         Roll:4hrs, Rng:2sq, 1 crtr, Stk:3.
+ ALL      Creations                     4 Create Revive Salve    12 pts                         Roll:4hr, 1d3 Salves, +HP & wake up,
+ ALL      Find or Reveal                4 TIRO:Tracking (Messy)  30% Max                        Dur:4hr, Leaves bright signpost for 2 days
+
+ ALL      Battle Offense                4 Surprise Throw         4 pts                          JUST 1: Pre-battle, Rng:3sq/Tier. ToHIT+3/Tier, Damage=Crit Roll.
+ ALL      Battle Offense                4 Hunters Charge         4 pts                          EXTRA: Attacks:1, AC:-4, ToHIT & Dmg +8. Move:x2 (Min 4sq, No pivot).
+ ALL      Battle Offense                4 Accurate Ranged Shots  4 pts                          Range:Weapon, Applies to all ranged wpns,
+
+ ALL      Find or Reveal                4 Dispel Magic           8 pts                          Roll:2rds, Rng:4sq, AoE:1 Target,
+ ALL      Class Specialty               4 Sleight Of Hand        4 pts                          Aoe:arms length, SKL Save required,
+ ALL      Battle Actions/Prep           4 Disengage Another      4 pts                          Recip= Behind FTR w/AC+4, No attkng, Stk:1
+
+ ALL      Class Specialty               4 Stituational Awareness 4 pts                          Roll:4min, Dur:1hr/Tier, FTR=HIT & AC -2,
+ ALL      Communication                 4 Mimic Soft Nat Sounds  4 pts                          Dur:20min, AoE:6x6 area, Rng:Self,
+ ALL      Class Specialty               5 Freehand Climb         8 pts
+
+ ALL      Healing and Rest              5 Repair A Dead Body     2 pts                          Roll:30min, Rng:1sq, 1 corpse, Stk:1.
+ ALL      Partner Cooperations          5 Summon Canine Familiar 16 pts                         Roll:1day, Rng:1/4mile, Common, HP=40, SP=0, Attkx1x1, Init/HIT+8, Dmg=1d6,Mv=12.
+ ALL      Battle Defense                5 Shield Block vs Melee  8 pts                          EXTRA: Brute Save to block shot, else shield unusable. After ToHIT, before Dmg.
+
+ ALL      Find or Reveal                5 Detect Magic           8 pts                          Roll:5min, Rng:2sq, Items:1-5.Mgc=Candle, Mundane=none, Epic=Blinded/SKL Save.
+ ALL      Battle Offense                5 Xbow:Long Dist Shots   8 pts                          Dur:4rds, AoE:1 Trgt, Stk:1, Requires crossbow, Distance gains +16 sqs.
+ ALL      Shrines                       5 Obsure Magic Aura      8 pts                          Roll:5min, Dur:Perm, 1 magic item.
+
+ ALL      Illusions                     5                        8 pts
+ ALL      Animal Ken                    5 Convoke Ribbon Horse   16 pts                         Roll:4min, Dur:8hrs, Stk:1/Tier, Must stay within 3sqs of the caster.
+ ALL      Food And Drink                5 Draw Out Rain Water    8 pts                          Roll:1min, Up To 1 cubic sq of water,
+
+ ALL      Fragility                     5                        8 pts
+ ALL      Find or Reveal                5 Divinging Water        8 pts                          Roll:30min, Rng:1/4 Mark, 15sq deep.
+ ALL      Planar                        5 Arlo's Astral Storage  8 pts                          Roll:2min, AoE:1sq. AoE:10 medium items.
+
+ ALL      Shrines                       5 Arcane Reading (1 pg)  8 pts                          Roll:10, Dur:1hr, Touch, AoE:1page/200char
+ ALL      Planar                        5 Quick Dimension Portal 8 pts                          Roll:30min, Dur:2rd, AoE:1x2sq, Stk:1.
+ ALL      Ionic Markers                 5 Create Ionic Marker    8 pts                          Roll:1day, Touch, 1 simple common item.
+
+ ALL      Ionic Markers                 5                        48 pts
+ ALL      Planar                        5 Reveal Origin Plane    8 pts                          Roll:20min, Rng:2sq, 1 item/person.
+ ALL      Mechanicals                   5 Create Damage Trap     40 pts                         Roll:2hr, AoE:1sq, Kit helps.
+
+ ALL      Healing and Rest              5                        8 pts
+ ALL      Battle Actions/Prep           5 Patient and Watchful   8 pts                          Roll:4rds, Dur:4hrs, AoE:2x2sqs.  AC Flank = Front. Hyperawarness.
+ ALL      Class Specialty               5 Repair Armor/Weapons   8 pts                          Roll:4hrs, AoE:1 Wpn/Amor pc, Not broken,
+
+ ALL      Battle Actions/Prep           5 Mundane Fire Immunity  8 pts                          Roll:5rds, Dur:1hr. No dmg if less than forge. Target has candle light glow. Stk:1
+ ALL      Shrines                       5 Scry [To any 'Em]      10 pts                         Roll:2min, Dur:1hr, AoE:PMP. Scry to… Nae/Vae/Cae/Ae/Tae 'Em connected to caster
+ ALL      Battle Actions/Prep           5 Entangle               8 pts                          Roll:1min, Dur:4hr, Rng:2sqs, AoE:2x2sqs, Stk:3.  BRU Save to move 1 sq.
+
+ ALL      Battle Actions/Prep           5 Point Position         8 pts                          Roll:10min, Dur:24hrs.  HNT= 16sqs ahead.
+ ALL      Partner Cooperations          5 Summon Nisse Spirit    16 pts                         Roll:10, AoE:1/2 Mark, Timid. HP=12, SP=4, AC=18/14, Heal caster 1d6 2/day.
+ ALL      Battle Offense                5                        8 pts
+
+ ALL      Shrines                       5 Sky Scrying            8 pts                          Roll:6min, Dur:30min/Tier, Rng:5marks, AoE:10sq Rad, Must be outdoors.
+ ALL      Battle Reaction               5 Disrupt Concentration  8 pts                          EXTRA: Dur:2rds, Rng:8sqs, AoE:1 Trgt,
+ ALL      Battle Defense                5 Dodge Flank Attacks    8 pts                          Dur:3rds, Self, Avoid each front attack with an AGL Save. Front= 3 sqs, not side.
+
+ ALL      Shape Change                  5 Shape Of A Dolphin     8 pts                          Roll:1min, Dur:24hr, Swim:12. Init/HIT+10
+ ALL      Battle Offense                5 Separate Ranged Shots  8 pts                          INSTANT: Attacks-1 (Min=1).  All bow shots called out when needed (Instant).
+ ALL      Nae'Ems                       5                        8 pts
+
+ ALL      Battle Offense                5 Penetrating Shots      8 pts                          Dur:2rds, Range/AoE by weapon,
+ ALL      Ionic Markers                 5 Locate Ionic Marker    8 pts                          Roll:1hr, Rng:PMP, AoE:Ionic Marker.
+ ALL      Battle Actions/Prep           6 Coordinate Initiatives 8 pts                          Dur:Battle.  Distribute Init bonus by class:  +8, +4, +0, -4.
+
+ ALL      Battle Defense                6 Shield vs Ranged       8 pts                          Dur:2rds, Self, SKL Save to block an attk.
+ ALL      Battle Actions/Prep           6 Vines Of Force         8 pts                          Dur:4rds, Range:4sq, AoE:4x4, Stk:3.
+ ALL      Planar                        6                        8 pts
+
+ ALL      Shrines                       6 Create A Home Pad      8 pts                          Roll:1hr, Dur:12hr, AoE:1sq, Stk:1,
+ ALL      Battle Defense                6 Protect Strumos        8 pts                          EXTRA: Range:1sq. Strumos= AC+6, Near FTR.
+ ALL      Natural Environment           6 Animal Healing         6 pts                          Roll:1min, Rng:4sq. Heal 2d8+4.
+
+ ALL      Battle Offense                6 Shoot Through Party    8 pts                          Through up to 3 ranks.  Init+2 per Tier.
+ ALL      Communication                 6 Overhear Conversation  8 pts                          Roll:5min, Dur:1hr, Rng:12, AoE:1 convo,
+ ALL      Fences and Shelters           6 Force Platform         8 pts                          Roll:2min, Dur:4hrs, Rng:16sq, AoE:2x2sq
+
+
+
+ ALL      Healing and Rest              6                        8 pts
+ ALL      Healing and Rest              6                        8 pts
+
+ ALL      Natural Environment           6 Grow Plant Canopy      8 pts                          Roll:5min, Dur:12hr, Rng:12sq, AoE:3x3sq.
+ ALL      Shrines                       6 Shrine:Written Word    10 pts                         Roll:8min, Dur:1hr, AoE:3sq Rad, All can read/write standard lang. Must speak words
+ ALL      Healing and Rest              6 Common Healing         6 pts                          Rng:8, 1 living creature,
+
+ ALL      Creations                     6 Release Arcane Script  8 pts                          Roll:10min, Dur:1hr, Touch, Enacts Magic
+ ALL      Planar                        6 Langstrum Rupture      8 pts                          Roll:30min, Dur:1min, AoE:1x1 portal.
+ ALL      Fences and Shelters           6 Hunters Hut (10 ppl)   10 pts                         Roll:20min, Dur:2days, AoE:2x3sqs, Stk:3,
+
+ ALL      Partner Cooperations          6 Summon Equine Familiar 20 pts                         Roll:1d4day, Rng:2marks, HP=80, AC=15, Attkx1x1, Init/HIT+8, Dmg=1d4, Mv=18/30.
+ ALL      Summon or Send                6 Conjure Arcan Beetles  8 pts                          Rng:8sq, AoE:1sq, Swarm= HP:30, Attk:x2x2,
+ ALL      Shrines                       6 Shrine of Mechanics    10 pts                         Roll:2min, Dur:10min, AoE:3sq Rad, Must speak words, ROG can disarm magic trap.
+
+ ALL      Battle Actions/Prep           6 Increase Fighter Move  8 pts                          Dur:6hrs, Range:2sqs to a FTR, Stk:1.
+ ALL      Battle Offense                6 Held Throw             8 pts                          ToHIT & Dmg +5 per held attack (Max +20), Move @ 1/2.
+ ALL      Battle Defense                6 Provide Protection     8 pts                          Dur:2rds, 1 Crtr, Range:3sqs.  Recip=+4 AC.  FTR=Init & HIT -2, Move @ 1/2.
+
+ ALL      Battle Reaction               6 AoO on Melee Entry     4 pts                          EXTRA: Melee weapon range/response.  Targets attackers entering the fray.
+ ALL      Communication                 6 Speak with Dead        8 pts                          Dur:20min, Touch, AoE:1 Target, Stk:1,
+ ALL      Find or Reveal                6 Dispel Magic           8 pts                          Roll:2rds, Rng:4sq, AoE:1 Target,
+
+ ALL      Nae'Ems                       6 Create Animal Ae'Em    12 pts                         Roll:4hr, Dur:EOY, Rng:2sq, Stk:3.
+ ALL      Battle Reaction               6 Shadow to Shadow       8 pts                          Dur:Instant, Range:24sqs & shadow in sight. Deep shadows = random spot.
+ ALL      Battle Reaction               6 2nd Attempt To Grab    8 pts                          INTERRUPT: Self, Touch.  Allows 2nd try to grab a small unattached item.
+
+ ALL      Nae'Ems                       6 Create Vae'Em          8 pts                          Roll:4hr, AoE:1sq,
+ ALL      Planar                        6 Personal Hideaway.     6 pts                          Dur:2hr, AoE:1w x2h x3d, Dead end area.
+ ALL      Battle Defense                6 Avoid Missiles         8 pts                          Dur:3rds, Self, AC +2/Tier vs Missiles (Ranged Attacks).
+
+ ALL      Battle Defense                6 Bob and Weave          8 pts                          Dur:1rd.  Dodge 1 AoO per Tier and allows diagonaly moves between enemies.
+ ALL      Communication                 7 High Flares            8 pts                          Roll:10min, Dur:20min,  16sq sphere blast,
+ ALL      Battle Reaction               7 Blunder Change Up      8 pts                          INTERRUPTION: After blunder % is rolled…
+
+ ALL      Partner Cooperations          7 Call Corvus            8 pts                          Roll:20min, Dur:2hr, AoE:1mark, HP=15, AC=22, Attkx1x1, Dmg=1d6, Move=18/24.
+ ALL      Nae'Ems                       7 View Animal w/Ae'Em    8 pts                          Roll:5min, Dur:1hr, Rng:PMP, Topdown view.
+ ALL      Battle Offense                7 Hold Civ Creature      8 pts                          Dur:5rds, Range:12sq, AoE:1 Crtr, Stk:3.
+
+ ALL      Battle Offense                7 Flame Strike           8 pts                          Range:12sq, No ToHIT, Lobbable. 4d10+ACU Magic fire damage.   AGL Save: 1/2 dmg.
+ ALL      Summon or Send                7                        24 pts
+ ALL      Battle Offense                7 Party vs 1 Enemy       8 pts                          Dur:5rds, AoE:1 Trgt, Stk:1. FTR=AC-1, INIT+40, Attk-1. Grp=(min 3), Init&HIT+2/Tier,
+
+ ALL      Fences and Shelters           7                        8 pts
+ ALL      Natural Environment           7 Water Breathing        8 pts                          Roll:1min, Dur:1day, No pollution protect.
+ ALL      Battle Reaction               7 Join With Ancestors    24 pts                         Self, Dur:Perm.  Focus Heirloom required.
+
+ ALL      Battle Offense                7 Held Shot              8 pts                          ToHIT & Dmg +6 per held attack (Max +24), Move @ 1/2.
+ ALL      Creations                     7 Create Repellent Oil   12 pts                         Roll:4hrs, 1d3 bottles, repell insects,
+ ALL      Battle Reaction               7 AoO On Kill            8 pts                          EXTRA: No movement or flank attacks, ToHIT+6 to new target.
+
+ ALL      Battle Actions/Prep           7 UnEntangle             8 pts                          Roll:3rds, Dur:10min, Range:8sqs, AoE:2x4.
+ ALL      Fences and Shelters           7 Hidden Shelter (5ppl)  12 pts                         Roll:4hrs, Dur:1day/Tier, AoE:3x3, Stk:3.
+ ALL      Shape Change                  7 Wolf Shape             8 pts                          Roll:1min, Dur:4hr, AC=22/20, Move=15/18,
+
+ ALL      Fences and Shelters           7 Strumos Waystation     8 pts                          Roll:1min, Dur:12hrs, AoE:3x3sqs, Stk:1.
+ ALL      Nae'Ems                       7 Portal to Nae'Em       12 pts                         Roll:4min, Dur:5min, Rng:PMP, AoE:Self+1.
+ ALL      Nae'Ems                       7 Create Nae'Em          16 pts                         Roll:4days, Rng:1sq.
+
+ ALL      Nae'Ems                       7                        8 pts
+ ALL      Hide or Obscure               7 Slow Alteration        8 pts                          Roll:4rds, Dur:4hr, Self. Slowly morph into the image of an Ancestor Spirit.
+ ALL      Planar                        7 Vae'Em Portal          8 pts                          Roll:4hr, Dur:2hr, Caster 1st.
+
+ ALL      Battle Defense                7 Half Wall of Force     8 pts                          Roll:2rds, Dur:5min, Stk:6.
+ ALL      Planar                        7 View Dimension         8 pts                          Roll:4min, Dur:6hrs, AoE:2x2sq, Stk:1.
+ ALL      Planar                        7                        8 pts
+
+ ALL      Battle Reaction               7 Critical Roll Adds     8 pts                          INTERRUPTION: Stk:1, Before Crit % roll…
+ ALL      Nae'Ems                       8 Fighter Strength +1    8 pts                          Roll:2min, Dur:1hr, Touch, Stk:2.
+ ALL      Fences and Shelters           8 Circle:Prot vs Undead  8 pts                          Dur:5rds, Rng:6sqs, AoE:3sq Rad. Stk:1.
+
+ ALL      Natural Environment           8 Coastal Net Fishing    8 pts                          Roll:16hrs, AoE:Ocean.  NOT A SOLO SKILL.
+ ALL      Battle Offense                8 Critical Shot @ 19-20  8 pts                          Dur:4hrs, Stk:1, 1 Selected weapon,
+ ALL      Find or Reveal                8 Dispel Magic           8 pts                          Roll:2rds, Rng:4sq, AoE:1 Target,
+
+ ALL      Commune                       8 Request Ancestor Delve 12 pts                         Roll:10min@dawn, Dur:1-6hrs,
+ ALL      Shrines                       8 Shrine:Privacy         8 pts                          Roll:4min, Dur:2hr/Tier, AoE:3sq Rad.
+ ALL      Summon or Send                8                        20 pts
+
+ ALL      Creations                     8                        16 pts
+ ALL      Battle Offense                8 Whirling Mardra        8 pts                          JUST 1:   Rng:ALL Adjacent Sqs,
+ ALL      Partner Cooperations          8 View Imp Spy           6 pts                          Roll:1min, Dur:4hr, Rng:100sq, AoE:PMP.
+
+
+
+ ALL      Chants                        8 Chant:Rogues Grace     10 pts                         Roll:10min, Dur:4hr, Rng:6sq, Stk:3,
+ ALL      Battle Offense                8 Static Bolt            8 pts                          Range:15sqs, AOE:Direct line, 1 ToHIT for 3 targets, Dmg:2d6+ACU (not Admnt+1d6)
+
+ ALL      Battle Reaction               8 Brace For Onslaught    8 pts                          EXTRA: 1 Attk, Dur:2rds, BRU/AGL Save+40,
+ ALL      Creations                     8                        8 pts
+ ALL      Creations                     8 Chant:Weapon Speed     8 pts                          Roll:30min, Dur:Battle, Touch, AoE:1 wpn,
+
+ ALL      Battle Offense                8                        8 pts
+ ALL      Battle Actions/Prep           8 Circle:Prot vs Magic   8 pts                          Roll:8min, Dur:4hrs, AoE:3sq Rad, All Magic spell Save +40 for those inside.
+ ALL      Battle Reaction               8 Critical Hit Choices   8 pts                          INTERRUPT: Fighter rolls a 2nd % and chooses between original % and 2nd %.
+
+ ALL      Shrines                       8 Shrine:Portal Detect   8 pts                          Roll:4min, Dur:4hrs. AoE:1 Mark Radius.
+ ALL      Fences and Shelters           8 Walls Of Force         8 pts                          Roll:5min, Dur:4hrs, Rng:12sq, Stk:3
+ ALL      Creations                     8 Constrain Arcane       8 pts
+
+ ALL      Battle Offense                8 Hail Stones Attack     8 pts                          Range:12sqs, AoE:2x2, Lobbable, Dmg: 3d6 +ACU (heat based+4), Resist Save for 1/2.
+ ALL      Fragility                     8                        8 pts
+ ALL      Partner Cooperations          8 Aid HNT vs Missiles    8 pts                          Roll:2rd, Dur:2hr, Rng:12sq, Stk:3.
+
+ ALL      Shrines                       8 Obscure Magical Depth  8 pts                          Roll:5min, Dur:EOY, 1 Item. Hides all aspects beyond the 3rd aspect.
+ ALL      Partner Cooperations          8 Wolverine Defender     8 pts                          Roll:1min, Dur:2hr, Rng:w/in 6sqs. HP=50, AC=18/15, x2x2 Init/HIT+6 Dmg=1d8 Move=12.
+ ALL      Shape Change                  8 Shape Of A Tree        8 pts                          Roll:10min, Dur:4hr, Camo, HP=Caster,
+
+ ALL      Battle Actions/Prep           8 Pull Aggro             8 pts                          Dur:3rnds, AoE:8sq rad, Stk:1.  Grp= Init & AC +2. FTR=Attks-1 (Min 1), AC-4.
+ ALL      Battle Defense                9 Triggered Shield       12 pts                         Roll:10min, Dur:Battle/24hrs, Stk:1.
+ ALL      Shape Change                  9 Shape Of A Bear        12 pts                         Roll:5min, Dur:2hr, Hear/Smell, AC=25/22,
+
+ ALL      Planar                        9 Dimensional Enclosure  12 pts                         Roll:10min, Dur:4hr, AoE:3sq Rad, Stk:1.
+ ALL      Shrines                       9 Detect 'Ems            36 pts                         Roll:20min, Rng:12sq, AoE:3sq Rad. Often used to find True Names.
+ ALL      Traveling (PMP)               9 1000 Yard Stare        12 pts                         Roll:10min, Dur:20hr, Self, Max:3days.
+
+ ALL      Partner Cooperations          9 Call Wolf Protector    12 pts                         Roll:1min, Dur:2hr, Rng:16sqs. AC=19/18, HP=80, x2x2 Init/HIT+8 Dmg=1d10, Move=15.
+ ALL      Traveling (PMP)               9 Cover Trail            12 pts                         Roll:12hr, Touch, AoE:1 mark. 1/2 speed,
+ ALL      Urban Environment             9 Urban Tracking         12 pts                         Roll:3d8min, Dur:4hr, AoE:Urban/Subtrrn,
+
+ ALL      Fragility                     9                        12 pts
+ ALL      Summon or Send                9                        24 pts
+ ALL      Light-                        9 Corner Throw           12 pts                         Range:Min 4 sqs.  ToHIT -4.
+
+ ALL      Communication                 9 Speak w/ Resting Dead  12 pts                         Roll:15min, Dur:5min, Rng:6sq, AoE:1 trgt,
+ ALL      Partner Cooperations          9 Nae'Em Rogue Image     12 pts                         Roll:3min, Dur:2hr, Uses 'current' image.
+ ALL      Fences and Shelters           9 Charged Fencing        12 pts                         Dur:4hr, Rng:6sq, AoE:2-9sq w/corner.
+
+ ALL      Battle Offense                9 Force Clap             12 pts                         Range:10sq, AoE:1sq (1 Target), Daze:1d2 rds, Dmg:2d6+ACU. BRU Save for 1/2 Dmg.
+ ALL      Shrines                       9 Bond Spirit-Status     12 pts                         Roll:30min, Dur:30days, Caster can now use the Cae'Em to watch via the statue.
+ ALL      Battle Offense                9 Desperation Attack     12 pts                         Roll four d20-8 as bonuses to AC, Init, ToHITs, and Damages.
+
+ ALL      Healing and Rest              9 Extra Healing          8 pts                          Rng:8, 1 living creature,
+ ALL      Battle Offense                9 1 Creature Focus       12 pts                         Dur:Battle, Focus on 1 creature, ToHIT+12.
+ ALL      Planar                        9 Dimension Portal       12 pts                         Roll:1hr, Dur:2min, Caster 1st.
+
+ ALL      Battle Defense               10 Tornado Wall           12 pts                         Roll:2rds, Dur:10min, AoE:3x3sq, Move w/ caster, AC+4, 1d4 dmg to adjacent sqs.
+ ALL      Natural Environment          10 Control Winds          12 pts                         Roll:10min, Dur:12hrs, Rng:18sq, AoE:5x20.
+ ALL      Shrines                      10 Un-Obscure Magic       12 pts                         Roll:24hr, Touch the item, Pass SKL to remove any Obscuring magic.
+
+ ALL      Class Specialty              10 Hone Melee Weapon      12 pts                         Roll:2hrs, Dur:Battle, No mgc weapons,
+ ALL      Traveling (PMP)              10 Ladders & Stairs       12 pts                         Roll:5rnd, Dur:1hr, 12sq high or long.
+ ALL      Battle Offense               10 Blunted Bow Shots      12 pts                         Dur:4rds, Crit rolls on Blunt col, Full dmg initially, after battle 1/2 remains.
+
+ ALL      Chants                       10 Sense Undead           12 pts                         Roll:10min, Dur:1rd, Rng:5sq/Tier,
+ ALL      Shrines                      10 Speak Language         12 pts                         Roll:3min, Dur:1day, Learn a non-Arcane language.
+ ALL      Battle Defense               10 Minor Defense Bubble   12 pts                         Dur:Battle/24hrs, AoE:5sq Rad, Stk:1, Self
+
+ ALL      Planar                       10 Astral Mental Shield   12 pts                         Roll:2min, Dur:4hr, AoE:1 Crtr.
+ ALL      Creations                    10 Creatte Maidens Breath 18 pts                         Roll:4hrs, 1d3 packets, Out of stun/daze.
+ ALL      Battle Offense               10 Brutal Push Forward    12 pts                         Push enemy back 1sq, Comparison BRU Save,
+
+ ALL      Urban Environment            10 Lose A Tail            12 pts                         Roll:3d8min, Dur:4hr, AoE:Urban/Subtrrn,
+ ALL      Battle Actions/Prep          10 Magic Fire Protection  12 pts                         Roll:2rnds, Dur:2hrs, Stk:1, Self.
+ ALL      Find or Reveal               10 Determine True Name    24 pts                         Roll:2hrs, Rng:4sq, NON Save used.
+
+ ALL      Shrines                      10 Shrine:Block Scrying   12 pts                         SKL Save to block. Dur:1hr, AoE:6sq rad, Stk:1
+ ALL      Watch/Scry                   10 Astral Image(No spells)12 pts                         Roll:20min, Dur:4hr, AoE:PMP, Rng:30sqs.
+ ALL      Healing and Rest             11                        12 pts
+
+ ALL      Watch/Scry                   11 Nae'Em Eavesdrop       12 pts                         Roll:5rd, Dur:5hr/Tier, Rng:20sq, SKL Save
+ ALL      Creations                    11                        12 pts
+ ALL      Creations                    11 Triggered Announcement 12 pts                         Roll:3days, Touch, AoE:Up To 2sqs, Stk:3.
+
+ ALL      Commune                      11 Use Ancestor Skill     5% Max                         Roll:1hr, Dur:6hrs, Self, Stk:1, An Ancestor skill, no overcast/mastercraft.
+ ALL      Creations                    11 Create Java Meal Spice 24 pts                         Roll:4hr,  1d3 servings, All day awake.
+ ALL      Battle Offense               11 Fire Power Attack      18 pts                         Range:10sq, AoE:1 Trgt, SKL Save for 1/2,
+
+
+
+ ALL      Battle Offense               11 Adrenaline Rush        12 pts                         Narrative required from player.
+ ALL      Battle Offense               11 Last Ditch Effort      12 pts                         Dur:Battle, 30 HP or less. Heal x1/2, Binding: no effect.  Death@ 30 more HP.
+
+ ALL      Hide or Obscure              11                        12 pts
+ ALL      Battle Actions/Prep          11 Catch Small Incoming   12 pts                         Dur:5rds, 1 handed items thrown or shot.
+ ALL      Shape Change                 11 Shape Of A Hawk        12 pts                         Roll:4min, Dur:4hr, Sight,AC=32/27, x1x1, Fly=20, Dive=30, HP=25, Dmg=1d8.
+
+ ALL      Battle Offense               11 Power Attack Duel      2 pts                          INTERRUPT: Rng:10sq, AoE:1 Trgt,
+ ALL      Nae'Ems                      11 Connect to Focus Item  36 pts                         Roll:4days, Touch, Must not have a current focus item.
+ ALL      Light-                       11 Remove Arcane Focus    36 pts                         Roll:20 Min, Dur:Permanent, Touch.
+
+ ALL      Healing and Rest             11 Summon Life From Death 42 pts                         Roll:12hrs, Touch, 1 corpse, Dead<25 hrs.
+ ALL      Fences and Shelters          11 Force Wall             12 pts                         Roll:20min, Dur:8hr, AoE:6x2sqs, Stk:3.
+ ALL      Creations                    11 Create Aelenes Tea     16 pts                         Roll:4hrs, 1d3 bags,  Aids Sleep,
+
+ ALL      Healing and Rest             11 Revive Life w/ A ZAP!  36 pts                         Roll:4hrs, Touch, Corpse dead <25 hrs.
+ ALL      Battle Offense               11 Mounted Melee Attack   12 pts                         Dur:Battle, AoE:Trained Mount, Single handed wpns, Sm shld/Buckler, 2 attks max.
+ ALL      Battle Actions/Prep          11 Sphere:Prot vs Animals 12 pts                         Dur:1hr, AoE:3x3x3sqs sphere, Stk:1.
+
+ ALL      Healing and Rest             11                        12 pts
+ ALL      Planar                       11 Astral Projection      12 pts                         Roll:4hr, Dur:3days, AoE:1 person/Tier.
+ ALL      Healing and Rest             12 Ranged Forced Heal     12 pts                         Rng:15sq, 1 living crtr, Random 2d8+2.
+
+ ALL      Battle Offense               12                        18 pts
+ ALL      Battle Offense               12 Force Power Attack     18 pts                         Range:10sq, AoE:1 Trgt, SKL Save for 1/2,
+ ALL      Class Specialty              12 Wake To Battle         12 pts                         EXTRA: Self,  Instant wakening.
+
+ ALL      Battle Offense               12 Whirling Mordra        12 pts                         JUST 1:   Rng:ALL Adjacent Sqs,
+ ALL      Fences and Shelters          12 Tree House             12 pts                         Roll:30min, Dur:12hr, Sleeps 10, Stk:3.
+ ALL      Battle Offense               12 Ice Power Attack       18 pts                         Range:10sq, AoE:1 Trgt, SKL Save for 1/2,
+
+ ALL      Class Specialty              12 Impersonate A Person   12 pts                         Roll:10min+, Dur:12hrs, Self, Kit needed,
+ ALL      Battle Offense               12 Electric Power Attack  18 pts                         Range:12sq, AoE:1 Trgt, SKL Save for 1/2,
+ ALL      Planar                       12 Portal To Nae'Em       12 pts                         Roll:30min, Dur:2min, AoE:caster OR Nae'Em
+
+ ALL      Healing and Rest             12 Great Healing          12 pts                         Rng:8sq, 1 living creatures.
+ ALL      Fences and Shelters          12 Astral Shed            12 pts                         Roll:1min, Dur:8hr, AoE:1x1x2, Stk:1.
+ ALL      Battle Offense               12 Moving Target Shot     12 pts                         Bow/Crossbow needed.
+
+ ALL      Summon or Send               12                        12 pts
+ ALL      Planar                       12                        12 pts
+ ALL      Shrines                      12 Spiritual Expulsion    12 pts                         Roll:1hr, Dur:24hr, Rng:12sq, AoE:3sq Rad
+
+ ALL      Traveling (PMP)              12 Find Wilderness Trail  12 pts                         Roll:12hr, Touch, AoE:1 mark. 1/2 speed,
+ ALL      Healing and Rest             12 Deep Doze Sleep        12 pts                         Roll:10min, Dur:4hr, Rng:4sq/Tier, Stk:5.
+ ALL      Battle Offense               13 Ranged Sucker Shots    16 pts                         AoE:Unaware Target, Bow Required, Attks@1/2, Init/ToHIT,Dmg +12.
+
+ ALL      Battle Reaction              13 Feign Death            16 pts                         INTERRUPT: Dur:Min 2rds, Self, AC=3/3,
+ ALL      Shape Change                 13 Satyr Shape (Move:15)  16 pts                         Roll:5min, Dur:4hr,Hear/Smell, Init/HIT+8,
+ ALL      Summon or Send               13 Summon Item            16 pts                         Rng:PMP, AoE:Item w/ Tae'Em.
+
+ ALL      Planar                       13 Dimensional Expulsion  16 pts                         Roll:2rd, Dur:1rd, AoE:2x2sq, Stk:5.
+ ALL      Battle Offense               13 Ice Spear              16 pts                         Range:10sq, AoE:1 Trgt, Lobbable,
+ ALL      Fences and Shelters          13 Circle of Containment  16 pts                         Roll:10min, Dur:4hr, AoE:3sq Radius.
+
+ ALL      Battle Offense               13                        16 pts
+ ALL      Planar                       13 Astral Expulsion       16 pts                         Roll:10min, Dur:4hrs, AoE:3sq Rad, Stk:1.
+ ALL      Battle Actions/Prep          13 Enchantment:Returning  32 pts                         Roll:5min, Dur:1 Battle, AoE:1 hand Throwing weapon.
+
+ ALL      Planar                       13                        16 pts
+ ALL      Healing and Rest             14 Major Healing          15 pts                         Rng:8sq, 1 living creature.
+ ALL      Nae'Ems                      14 Bestow House Authority 48 pts                         Roll:1wk, Rng:Recipient. Creates a House connection that senses loyalty levels.
+
+ ALL      Shrines                      14 Establish A House      48 pts                         Roll:1mo, Perm.    Creates a House that others can join/follow.
+ ALL      Battle Actions/Prep          14 Call Attack Bear       16 pts                         Roll:1m, Dur:2hrs, Stk:2. Bear=HP:200, AC:16, Attk:2, HIT+12, Dmg:2d10, Move:15
+ ALL      Shrines                      14 Shrine:Privacy         16 pts                         Roll:4min, Dur:2hr/Tier,AoE:5sq Rad, Stk:1
+
+ ALL      Battle Offense               14 Dokour Flame Attack    16 pts                         Range:12sqs, Direct Mgc Fire dmg 5d8+ACU,
+ ALL      Shrines                      14 Ironic Marker          16 pts                         Roll:10min, Dur:EOY, AoE:5sq Rad, Moveable
+ ALL      Battle Offense               15 Unstable Shooting      16 pts                         Concentration required. Dist:@ 1/2.
+
+ ALL      Battle Offense               15 Surprise Death Blow    16 pts                         EXTRA: Target=Surprised/Dazed/Held/Sleep,
+ ALL      Battle Offense               15 Surprise Killing Blow  16 pts                         JUST 1:Roll:3min, Surprise, Shortswrd+, ToHIT+10, Dmg:Crit Result x2.
+ ALL      Commune                      15 Possessed by Ancestor  25% Max                        Roll:4hrs, Dur:24hrs, Use 1 Ancestor skill
+
+ ALL      Healing and Rest             15                        16 pts
+ ALL      Food And Drink               15 Create Lg Family Meal  16 pts                         Roll:5min, Touch, Stk:3,
+ ALL      Natural Environment          15 Control Water Currents 16 pts                         Roll:10min, Dur:4hrs, AoE:4x4x4sq.
+
+ ALL      Healing and Rest             15 Held In Stasis         16 pts                         Roll:1min, Dur:1mo/Tier, Touch, Stk:1.
+ ALL      Fences and Shelters          15 Magma Moat             16 pts                         Roll:30m, Dur:6hr, AoE:3x3sq Islnd, Stk:1.
+ ALL      Shape Change                 15 Centaur Shape (HP+20)  16 pts                         Roll:8min, Dur:6hr, Move:18/24, Attk:x1x1,
+
+
+
+ ALL      Planar                       15 Vae'Em Portal          16 pts                         Roll:10min, Dur:1min, AoE:1w x2h, Travel=2hrs. No recreation shortcut.
+ ALL      Healing and Rest             16 Major Bolt of Health   16 pts                         Rng:15sq, 1 living creature.
+
+ ALL      Battle Offense               16 Water Blast            16 pts                         Dur:3rds, Rng:8sq, AoE:1sq, Stk:3, No arc,
+ ALL      Battle Offense               16 Lightening Bolt        16 pts                         Range:15sq, Aoe:4 Targets lined w/o Adam.
+ ALL      Battle Offense               16 Fire Bombardment       20 pts                         Range:12sqs, AoE:Row of 1sq/Tier, Lobbed,
+
+ ALL      Battle Actions/Prep          16 Quick Ranged Shot      16 pts                         Roll:Pre-Battle, AoE:1 Creature. Starts battle.JUST 1 attk. Init+15, HIT & Dmg +5.
+ ALL      Partner Cooperations         16                        16 pts
+ ALL      Shape Change                 16 Mer Person Shape (Swim)16 pts                         Roll:20min, Dur:8hr, Fishing, Init/HIT+8,
+
+ ALL      Creations                    16 Create Leather Colem   16 pts                         Roll:6hrs, Dur:1day/Tier. Move:6 HP:120,
+ ALL      Healing and Rest             17 Group Heal             20 pts                         Roll:20min, Rng:6sq, AoE:3sq Rad.
+ ALL      Class Specialty              17 Impersonate A Person   20 pts                         Roll:10min+, Dur:3hrs, Kit needed,
+
+ ALL      Battle Offense               17 Force Cage             20 pts                         Roll:3rds, Dur:3min, Rng:12sq, AoE:1sq.
+ ALL      Creations                    17                        20 pts
+ ALL      Creations                    17 Create Wood Golem      20 pts                         Roll:8hrs, Dur:1day/Tier. Move:8 HP:160,
+
+ ALL      Battle Offense               17 Hammering Force        20 pts                         Range:12sq, AoE:2sq, Direct attk: 3d8+ACU.
+ ALL      Class Specialty              18 Arcane Removal:Open    60 pts                         Roll:6hrs, AoE:1 Trgt, 1st of 3 castings,
+ ALL      Class Specialty              18 Arcane Removal:Close   60 pts                         Roll:6hrs, AoE:1 Trgt, 3rd of 3 castings,
+
+ ALL      Class Specialty              18 Arcane Removal:Burn    60 pts                         Roll:6hrs, AoE:1 Trgt, 2nd of 3 castings,
+ ALL      Shape Change                 18 Harpy Shape(Fly:18/24) 20 pts                         Roll:8min, Dur:2hr, AC=12/9, Spellsx1x1,
+ ALL      Find or Reveal               18 Divine All Aspects     30 pts                         Roll:6hr (Conc), Touch, 1 Object, Finds…
+
+ ALL      Creations                    19 Create Stone Golem     20 pts                         Roll:8hrs, Dur:1month, Move:10 HP:200,
+ ALL      Communication                19 Dead Conclave Convo    60 pts                         Roll:10m, Dur:30min, AoE:4x4, Prsnl tokens
+ ALL      Fences and Shelters          19 Fort of Thorns         20 pts                         Roll:30min, Dur:12hr, AoE:10x10, Stk:1.
+
+ ALL      Partner Cooperations         20 Raise The Dead         40 pts                         Roll:8hr, Touch, 1 corpse, Dead<20 years.
+ ALL      Summon or Send               20                        50 pts
+ ALL      Nae'Ems                      20 Landmark Vae           20 pts                         Roll:4hrs, Rng:PMP, AoE:3x3sq.
+
+ ALL      Illusions                    20 Mirror A Person        20 pts                         Roll:2rds, Dur:20min, Rng:15sqs, Stk:1,

@@ -1,0 +1,784 @@
+
+ARC     Battle Offense               5   Separate Ranged Shots          8      pts    INSTANT: Attacks-1 (Min=1).  All bow shots called out when needed (Instant).
+ARC     Battle Offense               5                                  8      pts
+
+ARC     Battle Offense               6   Shoot Through Party            8      pts    Through up to 3 ranks.  Init+2 per Tier.
+ARC     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+DEV     Battle Defense               1   Shield Expertise               4      pts    Dur:4rds. Sm/Med only.  Add Shield AC +2 to Front AC for duration.
+
+DEV     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+DEV     Shrines                      14  Establish A House              48     pts    Roll:1mo. Perm. Creates a House that others can join/follow.
+DEY     Battle Actions/Prep          1   Avoid Rngd/Thrown              4      pts    Self.  Dur:1hr or Battle. Stk:1. +2 AC / Tier vs Ranged&Thrown attacks from front.
+
+DEY     Battle Actions/Prep          5   Patient and Watchful           8      pts    Roll:4rds. Dur:4hrs. AoE:2x2sqs.  AC Flank = Front. Hyperawarness.
+DEY     Battle Actions/Prep          11  Catch Small Incoming           12     pts    Dur:5rds. 1 handed items thrown or shot.
+DEY     Battle Defense               5   Dodge Flank Attacks            8      pts    Dur:3rds. Self, Avoid each front attack with an AGL Save. Front= 3 sqs. not side.
+
+DEY     Battle Defense               6   Avoid Missiles                 8      pts    Dur:3rds. Self. AC +2/Tier vs Missiles (Ranged Attacks).
+DEY     Battle Defense               6   Bob and Weave                  8      pts    Dur:1rd.  Dodge 1 AoO/Tier & allows diagonaly moves between enemies. AGL to avoid.
+DEY     Battle Offense               15  Surprise Killing Blow          16     pts    JUST 1:Roll:3min. Surprise. Shortswrd+. ToHIT+10. Dmg:Crit Result x2. AGL=1/2 Dmg.
+
+DEY     Class Specialty              5   Freehand Climb                 8      pts
+DEY     Class Specialty              17  Impersonate A Person           20     pts    Roll:10min+. Dur:3hrs. Kit needed. AGL Save adjust by complexity & more.
+DEY     Light-                       1
+
+DEY     Light-                       9   Corner Throw                   12     pts    Range:Min 4 sqs.  ToHIT -4.
+DEY     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+DOK     Battle Actions/Prep          5   Mundane Fire Immunity          8      pts    Roll:5rds. Dur:1hr. No dmg if less than forge. Target has candle light glow. Stk:1
+
+DOK     Battle Actions/Prep          10  Magic Fire Protection          12     pts    Roll:2rnds. Dur:2hrs. Stk:1. Self. Only 1 HP/rd.  No help vs mundane.
+DOK     Battle Defense               1   Heat Wave Wall                 4      pts    Dur:4rds. Self. Stk:1/Tier. Rsst Mgc 1/2. 2d3+ACU Dmg. Ranged/Thrown not affected.
+DOK     Battle Offense               1   Flash Of Fire!                 4      pts    Range:12sqs. Dur:2rds. Pass the AGL Save to damage a create with 1d6+ACU in fire.
+
+DOK     Battle Offense               2   Flame Bolt                     4      pts    Range:10sqs.  AoE:1 Target. AGL Save to dodge. Direct fire dmg 2d10+ACU.
+DOK     Battle Offense               3   Heat Metal Armor               4      pts    Dur:4rds. Rng:12sqs. 1 Trgt. Stk:3. Each rnd Init/ AC/ToHIT drop by 1. No lobbing
+DOK     Battle Offense               7   Flame Strike                   8      pts    Range:12sq. No ToHIT. Lobbable. 4d10+ACU Magic fire damage. AGL Save: 1/2 dmg.
+
+DOK     Battle Offense               11  Fire Power Attack              18     pts    Range:10sq. AoE:1 Trgt. SKL Save for 1/2. Dmg:6d10+ACU (Focus= Dmg:+1d10).
+DOK     Battle Offense               11  Power Attack Duel              2      pts    INTERRUPT: Rng:10sq. AoE:1 Trgt. Forces a magical duel.
+DOK     Battle Offense               14  Dokour Flame Attack            16     pts    Range:12sqs. Direct Mgc Fire dmg 5d8+ACU. Mgc Resist Save for 1/2 Damage.
+
+DOK     Battle Offense               16  Fire Bombardment               20     pts    Range:12sqs. AoE:Row of 1sq/Tier. Lobbed. Mgc Fire 5d10+ACU.  AGL Save for 1/2.
+DOK     Battle Reaction              6   Shadow to Shadow               8      pts    Dur:Instant. Range:24sqs & shadow in sight. Deep shadows = random spot.
+DOK     Class Specialty              2   Fire Starter                   4      pts    Rng:6sq. AoE:1 Target. Mundane Fire. Dmg:1d1.  No Save for dry kindling.
+
+DOK     Class Specialty              3   Hot Rocks                      4      pts    Roll:2min. Dur:12hrs. AoE:9 stones. Stk:3. Up=Hot. down=No heat.
+DOK     Class Specialty              18  Arcane Removal:Burn            60     pts    Roll:6hrs. AoE:1 Trgt. 2 of 3 spells. Perm removal of all SP in that class. Rsst Mgc.
+DOK     Communication                2   Hot Conversations              4      pts    Roll:2rds. Dur:20min. Rng:PMP. AoE:2 fires. Fire face appears and talks.
+
+DOK     Fences and Shelters          13  Circle of Containment          16     pts    Roll:10min. Dur:4hr. AoE:3sq Radius. Enter easy. Exit w/ BRU Save.
+DOK     Fences and Shelters          15  Magma Moat                     16     pts    Roll:30m. Dur:6hr. AoE:3x3sq Islnd. Stk:1. Magma= 1sq wide. Dmg:8d6. AGL for 1/2 Dmg.
+DOK     Find or Reveal               5   Detect Magic                   8      pts    Roll:5min. Rng:2sq. Items:1-5. Mgc=Candle. Mundane=none. Epic=Blinded/SKL Save.
+
+DOK     Find or Reveal               8   Dispel Magic                   8      pts    Roll:2rds. Rng:4sq. AoE:1 Trgt.  Complete list in Full Report. SKL Save.
+DOK     Find or Reveal               10  Determine True Name            24     pts    Roll:2hr. Rng:4sq. NON Save used. Try to find a True name with item. Non-Save.
+DOK     Fragility                    2   Burn To Health                 4      pts    Currently working on the Fragility system.
+
+DOK     Healing and Rest             1   Heal Fire Damage               4      pts    Touch. 1 living target. Pain free. Heals 2d8 Fire dmg.  Only to Fire damage.
+DOK     Healing and Rest             2   Healing Flames                 4      pts    Touch. 1 Target. Roll 1d4/Tier. Painful. Damage x2. & Heal x3. Non Living=no effect
+DOK     Healing and Rest             6   Cleansing Fire                 8      pts    Currently working on Fragility System
+
+DOK     Light and Darkness           1   Red Light                      4      pts    Dur:6hrs. Red candle light above head. Focus Item can brighten or dim.
+DOK     Light and Darkness           1   Shadow Cover                   4      pts    Dur:1hr. Shaded area over caster. Night=AC+2.  Day=AC+1. Might be obvious.
+DOK     Light and Darkness           3   Darkness                       4      pts    Dur:4hrs. AoE:5sq Diameter around caster. Darkness hides all that is within.
+
+DOK     Light and Darkness           4   Duplicate                      4      pts
+DOK     Light and Darkness           4   Profiled In Fire               4      pts    Dur:2hrs. Rng:12sq. AoE:Recip. Stk:3. Shrouds recipients w/ flame. No damage.
+DOK     Nae'Ems                      11  Connect to Focus Item          36     pts    Roll:4day. Touch. Must not have a current focus item. Rsst Mgc Save.
+
+DOK     Partner Cooperations         3   Invoke Temp Imp                4      pts    Roll:1hr. Dur:1day/Tier. Casters Image. HP=12. SP=0. Attks=x1x1. Dmg=1d2. SKL.
+DOK     Partner Cooperations         4   Invoke Imp Partner             4      pts    Roll:24hr. Dur:EOY. Rng:30sq. DOK's image. HP=22. SP=0. Attkx1x1. Dmg:1d2+2. Move=6.
+DOK     Partner Cooperations         8   View Imp Spy                   6      pts    Roll:1min. Dur:4hr. Rng:100sq. AoE:PMP. View from 2sq above the Imp.
+
+DOK     Planar                       4   Veil Of Shadows                4      pts    Roll:6min. Dur:12hr. AoE:4x4sq. Stk:1. Muffles sound & hides ppl. Day= SNS Save.
+DOK     Planar                       5   Quick Dimension Portal         8      pts    Roll:30min. Dur:2rd. AoE:1x2sq. Stk:1. Caster & 2 guests. 2d3 or 2d4 fire dmg.
+DOK     Planar                       6   Personal Hideaway.             6      pts    Dur:2hr. AoE:1w x2h x3d. Dead end area. Caster + 2 guests.  1d4 fire dmg.
+
+DOK     Planar                       7   View Dimension                 8      pts    Roll:4min. Dur:6hrs. AoE:2x2sq. Stk:1. Sight Distance= Day:20sq. Night 2sq.
+DOK     Planar                       9   Dimensional Enclosure          12     pts    Roll:10min. Dur:4hr. AoE:3sq Rad. Stk:1. Dim crtrs pass Resist Save to enter/exit.
+DOK     Planar                       9   Dimension Portal               12     pts    Roll:1hr. Dur:2min. Caster 1st. Into Dim=2d4 dmg.  Out of Dim=2d6 dmg.
+
+DOK     Planar                       13  Dimensional Expulsion          16     pts    Roll:2rd. Dur:1rd. AoE:2x2sq. Stk:5. Up to 5 Dimensional crtrs forced to Dim.
+DOK     Summon or Send               6   Conjure Arcan Beetles          8      pts    Rng:8sq. AoE:1sq. Swarm= HP:30. Attk:x2x2. AC:15. Move:4sq. HIT+6. Dmg:1d8. Stk:3. SKL.
+DOK     Utility or Misc              11  Remove Arcane Focus            36     pts    Roll:20 Min. Dur:Permanent. Touch.
+
+
+
+EOL     Battle Offense               3   Conjure Native Beetles         4      pts    Rng:10sq. Stk:2. Attk:1. HIT:+4. AC:12. Dmg:1d6. HP=15. SKL Save for HP=25.
+EOL     Battle Offense               3   Phage Mist                     6      pts    Currently working on Fragility system.
+
+EOL     Battle Offense               8   Phage Rain                     8      pts    Currently working on Fragility system.
+EOL     Battle Offense               13  Phage Blobs                    16     pts    Currently working on Fragility system.
+EOL     Fences and Shelters          7   Circle: Prot vs Phage          8      pts    Currently working on Fragility system.
+
+EOL     Fences and Shelters          13  Circle of Containment          16     pts    Roll:10min. Dur:4hr. AoE:3sq Radius. Enter easy. Exit w/ BRU Save.
+EOL     Find or Reveal               4   Aspect Counts by Type          4      pts    Roll:30min. AoE:1 Item. Show count of: Info. Battle. Spell. Intelligence.
+EOL     Find or Reveal               4   Dispel Magic                   8      pts    Roll:2rd. Rng:4sq. AoE:1 Target. Complete list in Full Report. SKL Save.
+
+EOL     Find or Reveal               4   Know About You                 4      pts    Roll:5rd. Rng:8sq. AoE:1 Trgt. Learn…
+EOL     Find or Reveal               4   Divine Aspects                 4      pts    Roll:30min. AoE:1 Item. 1 Aspect/Tier. Repeating doesn't show more & just same.
+EOL     Find or Reveal               10  Determine True Name            24     pts    Roll:2hr. Rng:4sq. NON Save used. Try to find a True name with item. Non-Save.
+
+EOL     Find or Reveal               18  Divine All Aspects             30     pts    Roll:6hr (Conc). Touch. 1 Object. Finds… Info & Battle & Spells & Intelligence.
+EOL     Healing and Rest             11  End Dmg Over Time              12     pts    Currently working on Fragility system.
+EOL     Hide or Obscure              7   Slow Alteration                8      pts    Roll:4rd. Dur:4hr. Self. Slowly morph into the image of an Ancestor Spirit.
+
+EOL     Hide or Obscure              11                                 12     pts
+EOL     Ionic Markers                5                                  48     pts
+EOL     Light-                       10
+
+EOL     Light and Darkness           3   Shadow of the Magi             4      pts    Dur:Conc+4rd. AoE:3sq Dia around caster. Darkness hides all that is within.
+EOL     Mechanicals                  3   Acid Etching                   4      SP     Roll:30min. Touch. AoE:1x1sq max. May need a Save due to surface or magic.
+EOL     Nae'Ems                      7   Portal to Nae'Em               12     pts    Roll:4min. Dur:5min. Rng:PMP. AoE:Self+1. Caster & guest can portal to a Nae'Em.
+
+EOL     Nae'Ems                      7   Create Nae'Em                  16     pts    Roll:4day. Rng:1sq. Re-make: @location 1hr. if not the 2 days.
+EOL     Nae'Ems                      7                                  8      pts
+EOL     Nae'Ems                      11  Connect to Focus Item          36     pts    Roll:4day. Touch. Must not have a current focus item. Rsst Mgc Save.
+
+EOL     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+EOL     Partner Cooperations         9   Nae'Em Rogue Image             12     pts    Roll:3min. Dur:2hr. Uses 'current' image. Image revealed if touched & NON Save lost.
+EOL     Partner Cooperations         16                                 16     pts
+
+EOL     Planar                       3                                  4      pts
+EOL     Planar                       5   Reveal Origin Plane            8      pts    Roll:20min. Rng:2sq. 1 item/person. Reveals Plane of origin. Rsst Mgc.
+EOL     Planar                       7                                  8      pts
+
+EOL     Planar                       12  Portal To Nae'Em               12     pts    Roll:30min. Dur:2min. AoE:caster OR Nae'Em. Both must agree and one can travel.
+EOL     Planar                       15  Vae'Em Portal                  16     pts    Roll:10min. Dur:1min. AoE:1w x2h. Travel=2hrs. No recreation shortcut.
+EOL     Summon or Send               6   Conjure Arcan Beetles          8      pts    Rng:8sq. AoE:1sq. Swarm= HP:30. Attk:x2x2. AC:15. Move:4sq. HIT+6. Dmg:1d8. Stk:3. SKL.
+
+EOL     Traveling (PMP)              10  Ladders & Stairs               12     pts    Roll:5rnd. Dur:1hr. 12sq high or long.
+EOL     Utility or Misc              11  Remove Arcane Focus            36     pts    Roll:20 Min. Dur:Permanent. Touch.
+FTR     Battle Actions/Prep          1   Melee Wpn Expertise            2      pts    Roll:1min. Dur:24hr or Battle. Stk:1. 1 selected weapon.  FTR +1 ToHIT/Tier.
+
+FTR     Battle Actions/Prep          4   Disengage Another              4      pts    Recip= Behind FTR w/AC+4. No attkng. Stk:1. FTR= -2 AC. -1 Attack (Min 1).
+FTR     Battle Actions/Prep          6   Coordinate Initiatives         8      pts    Dur:Battle.  Distribute Init bonus by class:  +8 & +4 & +0 & -4.
+FTR     Battle Actions/Prep          8   Pull Aggro                     8      pts    Dur:3rnd. AoE:8sq rad. Stk:1.  Grp=Init/AC +2. FTR=Attks-1 (Min 1). AC-4. SKL.
+
+FTR     Battle Defense               1   Set For Charge                 4      pts    EXTRA: AC+6 vs charge attacks. Defndr: Lngsword+ and may pivot.
+FTR     Battle Defense               1   Shield Expertise               4      pts    Dur:4rds. Sm/Med only.  Add Shield AC +2 to Front AC for duration.
+FTR     Battle Defense               2   Withdraw & No Attacks          4      pts    Dur:2rds. Move:1/2. No AoO poss. Self.  AC+2/Tier and +1 AC per adjacent FTR.
+
+FTR     Battle Defense               3   Disengage w/ 1 Attack          6      pts    JUST 1: Self. Enemy AoO possible. Move 2x. 1 attack @ -4 ToHIT.
+FTR     Battle Defense               4   Resist The Push                4      pt     INSTANT: Dur:Battle. Self. Stk:1. BRU+10/Tier vs Push Saves.
+FTR     Battle Defense               5   Shield Block vs Melee          8      pts    EXTRA: Brute Save to block shot; else shield unusable. After ToHIT. before Dmg.
+
+FTR     Battle Defense               6   Provide Protection             8      pts    Dur:2rds. 1 Crtr. Range:3sqs.  Recip=+4 AC. FTR=Init & HIT -2. Move @ 1/2.
+FTR     Battle Defense               6   Protect Strumos                8      pts    EXTRA: Range:1sq. Strumos= AC+6. Near FTR. FTR= Init & ToHIT -1. Move @ 1/2.
+FTR     Battle Defense               6   Shield vs Ranged               8      pts    Dur:2rd. Self. SKL Save to block an attk. Blocks 1 attack per Tier per round.
+
+FTR     Battle Offense               1   Subdual Hammer Strike          4      pts    Blunt hammer attack.  Damage fades. after 30min reduce dmg from the hammer by 1/2.
+FTR     Battle Offense               2   Fighters Charge                4      pts    EXTRA: Attacks:2. AC:-4. ToHIT & Dmg +8. Move:x2 (Min 4sq; No pivot).
+FTR     Battle Offense               3   Shield Bash (Odd Rds)          4      pts    EXTRA: Sm/Med/Lg shield needed. ToHIT+4. Damage: Shield AC+Tier. Current target only.
+
+FTR     Battle Offense               7   Party vs 1 Enemy               8      pts    Dur:5rds. AoE:1 Trgt. Stk:1. FTR=AC-1. INIT+40. Attk-1. Grp=(min 3). Init&HIT+2/Tier.
+FTR     Battle Offense               9   1 Creature Focus               12     pts    Dur:Battle. Focus on 1 creature. ToHIT+12. After crtr gone 2 rnds of NO BONUSES.
+FTR     Battle Offense               9   Desperation Attack             12     pts    Roll four d20-8 as bonuses to AC. Init. ToHITs. and Damages.
+
+FTR     Battle Offense               10  Brutal Push Forward            12     pts    Push enemy back 1sq. Comparison BRU Save. Attk -1(Min=0). AC-2. Init+4. ToHIT+2.
+FTR     Battle Offense               11  Last Ditch Effort              12     pts    Dur:Battle. 30 HP or less. Heal x1/2. Binding: no effect.  Death@ 30 more HP.
+FTR     Battle Offense               11  Adrenaline Rush                12     pts    Narrative required from player. Init+10. ToHIT+10. Damage+6.
+
+FTR     Battle Offense               11  Mounted Melee Attack           12     pts    Dur:Battle. AoE:Trained Mount. Single handed wpns. Sm shld/Buckler. 2 attks max.
+FTR     Battle Offense               12  Whirling Mordra                12     pts    JUST 1:   Rng:ALL Adjacent Sqs. 1 attack with ToHIT +6 & Dmg +6.
+FTR     Battle Offense               15  Surprise Death Blow            16     pts    EXTRA: Target=Surprised/Dazed/Held/Sleep. FTR=ToHIT+15. Dmg:Crit+15 HP. Longswd +
+
+FTR     Battle Reaction              2   AoO On Enter Or Exit           1      pts    EXTRA: Rng:1sq.  1 more attack to the offender.
+FTR     Battle Reaction              5   Disrupt Concentration          8      pts    EXTRA: Dur:2rds. Rng:8sqs. AoE:1 Trgt. SNS Comparison Save to Disrupt.
+FTR     Battle Reaction              7   Critical Roll Adds             8      pts    INTERRUPTION: Stk:1. Before Crit % roll… Call out then +Level & +ToHIT. >100 = 99.
+
+
+
+FTR     Battle Reaction              7   AoO On Kill                    8      pts    EXTRA: No movement or flank attacks. ToHIT+6 to new target.
+FTR     Battle Reaction              8   Critical Hit Choices           8      pts    INTERRUPT: Fighter rolls a 2nd % and chooses between original % and 2nd %.
+
+FTR     Battle Reaction              8   Brace For Onslaught            8      pts    EXTRA: 1 Attk. Dur:2rds. BRU/AGL Save+40. Front AC+4. Back AC = Front AC.
+FTR     Class Specialty              3   Mental Alarm Clock             4      pts    Roll:10min. Dur:24hrs. Self. 1rd to clear head. Wake w/in duration on time.
+FTR     Class Specialty              4   Stituational Awareness         4      pts    Roll:4min. Dur:1hr/Tier. FTR=HIT & AC -2. Group= Init+2. No surprise.
+
+FTR     Class Specialty              5   Repair Armor/Weapons           8      pts    Roll:4hrs. AoE:1 Wpn/Amor pc. Not broken. Repaired = Imperfect. but usable.
+FTR     Class Specialty              10  Hone Melee Weapon              12     pts    Roll:2hrs. Dur:Battle. No mgc weapons. +1 Damage until end of Battle.
+FTR     Class Specialty              12  Wake To Battle                 12     pts    EXTRA: Self.  Instant wakening.
+
+FTR     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+HNT     Battle Actions/Prep          1   Ranged Wpn Expertise           4      pts    Roll:1min. Dur:24hr or Battle, Stk:1. 1 selected  weapon.  HNT +1 ToHIT/Tier.
+HNT     Battle Actions/Prep          5   Point Position                 8      pts    Roll:10min. Dur:24hrs.  HNT= 16sqs ahead. Party= No suprize. Init+2 in 1st Round.
+
+HNT     Battle Actions/Prep          16  Quick Ranged Shot              16     pts    JUST 1: Roll:Pre-Battle. AoE:1 Creature. Starts battle. Init+15. HIT & Dmg +5.
+HNT     Battle Offense               4   Hunters Charge                 4      pts    EXTRA: Attacks:1. AC:-4. ToHIT & Dmg +8. Move:x2 (Min 4sq & No pivot).
+HNT     Battle Offense               4   Accurate Ranged Shots          4      pts    Range:Weapon. Applies to all ranged wpns. ToHIT and Damage +2 per Tier.
+
+HNT     Battle Offense               5   Xbow:Long Dist Shots           8      pts    Dur:4rds. AoE:1 Trgt. Stk:1. Requires crossbow. Distance gains +16 sqs.
+HNT     Battle Offense               5   Penetrating Shots              8      pts    Dur:2rds. Range/AoE by weapon. ToHIT -2. Damage +4 per Tier.
+HNT     Battle Offense               7   Held Shot                      8      pts    ToHIT & Dmg +6 per held attack (Max +24). Move @ 1/2.
+
+HNT     Battle Offense               8   Critical Shot @ 19-20          8      pts    Dur:4hrs. Stk:1. 1 Selected weapon. Natural 19 & 20 are criticals.
+HNT     Battle Offense               10  Blunted Bow Shots              12     pts    Dur:4rds. Crit rolls on Blunt col. Full dmg initially. after battle 1/2 remains.
+HNT     Battle Offense               11  Mounted Melee Attack           12     pts    Dur:Battle. AoE:Trained Mount. Single handed wpns. Sm shld/Buckler. 2 attks max.
+
+HNT     Battle Offense               12  Moving Target Shot             12     pts    Bow/Crossbow needed.  This removes penalties to hit moving trgt
+HNT     Battle Offense               13  Ranged Sucker Shots            16     pts    AoE:Unaware Target. Bow Required. Attks@1/2. Init/ToHIT. Dmg +12.
+HNT     Battle Offense               15  Unstable Shooting              16     pts    Concentration required. Dist:@ 1/2. This removes penalties for unstable shots.
+
+HNT     Battle Reaction              5   Disrupt Concentration          8      pts    EXTRA: Dur:2rds. Rng:8sqs. AoE:1 Trgt. SNS Comparison Save to Disrupt.
+HNT     Battle Reaction              6   AoO on Melee Entry             4      pts    EXTRA: Melee weapon range/response.  Targets attackers entering the fray.
+HNT     Class Specialty              1   Skinning A Hide                4      pts    Roll:12hr. Kit & Campfire needed. Size/Tier= 1st:2x4 & 3rd:3x6 & 5th:6x6.
+
+HNT     Class Specialty              1   Create:Field Bandage           12     pts    Roll:4hr. AoE:1d3. Kit & Campfire needed. 1d3 created. Stops bleeding. HNT=+2 HP.
+HNT     Class Specialty              2   Make Fire with Sticks          4      pts    Roll:10min.  Dry kindling needed. SKL Save needed in cold/wet situations.
+HNT     Class Specialty              3   Mental Alarm Clock             4      pts    Roll:10min. Dur:24hrs. Self. 1rd to clear head. Wake w/in duration on time.
+
+HNT     Communication                3   Hunters Marks                  4      pts    Roll:1min. Dur:1month. AoE:1sq. Leave basic message in symbols.
+HNT     Communication                4   Mimic Soft Nat Sounds          4      pts    Dur:20min. AoE:6x6 area. Rng:Self. Create low volume soft natural sounds.
+HNT     Creations                    1   Create Signers Salve           12     pts    Roll:4hrs. 1d3 Salves. DOT healing.  HNT=2 hp/cycle.  Other=1 hp/cycle.
+
+HNT     Creations                    1   Create/Repair Arrows           6      pts    Roll:4hr. 24 arrows created based on Tier. 1st=Crude. 2nd=Standard. 3rd=Flight.
+HNT     Creations                    2   Create Sunrise Potion          12     pts    Roll:4hrs. 1d3 Potns. @sunrise aids HP gain. HNT=+4 hp.   Others=+2 hp.
+HNT     Creations                    4   Create Revive Salve            12     pts    Roll:4hr. 1d3 Salves. +HP & wake up. HNT=+2 hp & wake 4hr. Other=+1 & wake 2hr.
+
+HNT     Creations                    7   Create Repellent Oil           12     pts    Roll:4hrs. 1d3 bottles. repell insects. HNT= Dur 4hrs.   Other= Dur 2hrs.
+HNT     Creations                    8   Fragility Poultice             16     pts    Currently working on Fragility system.
+HNT     Creations                    10  Creatte Maidens Breath         18     pts    Roll:4hrs. 1d3 packets. Out of stun/daze. HNT= Dur ends.  Other= Dur 1/2.
+
+HNT     Creations                    11  Create Java Meal Spice         24     pts    Roll:4hr.  1d3 servings. All day awake. HNT= 48 hrs awake.   Other=24 hrs awake.
+HNT     Creations                    11  Create Aelenes Tea             16     pts    Roll:4hrs. 1d3 bags.  Aids Sleep. HNT= sleep +4 SP.   Other= sleep +1 SP.
+HNT     Fences and Shelters          2   Perimeter Safety               4      pts    Roll:30min. Dur:8hrs. AoE:5x5sq. Snap/break/crack when crossed.
+
+HNT     Fences and Shelters          2   Create LeanTo Shelter          3      pts    Roll:1min. Dur:12hrs. AoE:1x2sqs. Stk:3. Fits 2 ppl.  Destroyed in rough weather.
+HNT     Fences and Shelters          6   Hunters Hut (10 ppl)           10     pts    Roll:20min. Dur:2days. AoE:2x3sqs. Stk:3. If attended to... Fragility -1 / day.
+HNT     Fences and Shelters          7   Hidden Shelter (5ppl)          12     pts    Roll:4hrs. Dur:1day/Tier. AoE:3x3. Stk:3. Casual by-passers do not see it.
+
+HNT     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+HNT     Natural Environment          1   Find North                     4      pts    Dur:1hr. Hunter reviews area and knows which direction is north.
+HNT     Natural Environment          2   Benigh Approach                4      pts    Roll:5min. Dur:1hr. Rng:10sq. Hunter calms & moves 'closer' than normal. Save?
+
+HNT     Natural Environment          3   Hunt, Fish, Gather             4      pts    Roll:9hr. Self. AoE:20x20sq. Stk:1. 1/day. Each day: 1d6/Tier +6 meals. Maybe SKL.
+HNT     Natural Environment          3   Calm Animal                    4      pts    Roll:20min. Dur:2hr. Rng:2sq. Stk:3. Non-domestic need Comparitive SKL Save.
+HNT     Natural Environment          8   Coastal Net Fishing            8      pts    Roll:16hrs. AoE:Ocean.  NOT A SOLO SKILL. Direct helpers.  Yield:5d20+5/helper.
+
+HNT     Traveling (PMP)              1   No Road Needed                 4      pts    Roll:10min. Dur:8hr. AoE:Traversable land. Can navigate path in normal terrain.
+HNT     Traveling (PMP)              9   Cover Trail                    12     pts    Roll:12hr. Touch. AoE:1 mark. 1/2 speed. Covers up to 8 person trail.
+HNT     Traveling (PMP)              9   1000 Yard Stare                12     pts    Roll:10min. Dur:20hr. Self. Max:3days. Encntr unlikely & Surprise likely.
+
+HNT     Traveling (PMP)              12  Find Wilderness Trail          12     pts    Roll:12hr. Touch. AoE:1 mark. 1/2 speed. SKL uncovers up to 8 person trail.
+HOL     Battle Reaction              7   Join With Ancestors            24     pts    Self. Dur:Perm.  Focus Heirloom required.
+HOL     Class Specialty              1                                  4      pts
+
+HOL     Class Specialty              1                                  4      pts
+HOL     Class Specialty              1                                  4      pts
+HOL     Class Specialty              1                                  4      pts
+
+HOL     Class Specialty              1                                  4     1
+HOL     Class Specialty              1                                  4      pts
+HOL     Class Specialty              1                                  4      pts
+
+
+
+HOL     Class Specialty              1                                  4      pts
+HOL     Class Specialty              1                                         pts
+
+HOL     Hide or Obscure              1                                  4      pts
+HOL     Mechanicals                  1                                  4     pts
+HOL     Mechanicals                  1                                  4      pts
+
+HOL     Mechanicals                  1                                  4      pts
+HOL     Mechanicals                  1                                  4      pts
+HOL     Mechanicals                  1                                  4     pts
+
+HOL     Mechanicals                  1                                  4      pts
+HOL     Natural Environment          1                                  4      pts
+HOL     Planar                       1                                  4      pts
+
+NEC     Battle Reaction              6   Shadow to Shadow               8      pts    Dur:Instant. Range:24sqs & shadow in sight. Deep shadows = random spot.
+NEC     Battle Reaction              7   Join With Ancestors            24     pts    Self. Dur:Perm.  Focus Heirloom required.
+NEC     Class Specialty              3                                  -2     pts
+
+NEC     Communication                6   Speak with Dead                8      pts    Dur:20min. Touch. AoE:1 Target. Stk:1.
+NEC     Find or Reveal               8   Dispel Magic                   8      pts    Roll:2rds. Rng:4sq. AoE:1 Trgt.  Complete list in Full Report. SKL Save.
+NEC     Healing and Rest             4   Send Dead On                   4      pts    Roll:30min. 1 corpse. (not un/living dead) Remove all connections to all PMPs.
+
+NEC     Healing and Rest             11  Summon Life From Death         42     pts    Roll:12hrs. Touch. 1 corpse. Dead<25 hrs. SKL Save: Curr HP=5. Max HP -5.
+NEC     Light and Darkness           1   Shadow Cover                   4      pts    Dur:1hr. Shaded area over caster. Night=AC+2.  Day=AC+1. Might be obvious.
+NEC     Light and Darkness           3   Darkness                       4      pts    Dur:4hrs. AoE:5sq Diameter around caster. Darkness hides all that is within.
+
+NEC     Summon or Send               7   Invoke Skeleton/Drifter        24     pts    NEC
+NEC     Summon or Send               8   Create Zombie/Skeleton         20     pts    NEC
+NEC     Summon or Send               9   Create Plague Bearer           24     pts    NEC
+
+NEC     Summon or Send               20  Invoke Wraith                  50     pts    NEC
+ORX     Animal Ken                   5   Convoke Ribbon Horse           16     pts    Roll:4min. Dur:8hrs. Stk:1/Tier. Must stay within 3sqs of the caster.
+ORX     Battle Actions/Prep          8   Circle:Prot vs Magic           8      pts    Roll:8min. Dur:4hrs. AoE:3sq Rad. All Resist Mgc Save +40 for those inside.
+
+ORX     Battle Actions/Prep          13  Enchantment:Returning          32     pts    Roll:5min. Dur:1 Battle. AoE:1 hand Throwing weapon.
+ORX     Battle Defense               9   Triggered Shield               12     pts    Roll:10min. Dur:Battle/24hrs. Stk:1. Once Dmg taken AC+2 vs Mgc attaks begins
+ORX     Battle Defense               10  Minor Defense Bubble           12     pts    Dur:Battle/24hrs. AoE:5sq Rad. Stk:1. Self. Allies gain +2 front AC vs non-magic.
+
+ORX     Battle Offense               3   Conjure Native Beetles         4      pts    Rng:10sq. Stk:2. Attk:1. HIT:+4. AC:12. Dmg:1d6. HP=15. SKL Save for HP=25.
+ORX     Battle Offense               7   Hold Civ Creature              8      pts    Dur:5rds. Range:12sq. AoE:1 Crtr. Stk:3. Fail Health Save and be held.
+ORX     Class Specialty              3   Improve Resist/SKL             4      pts    Roll:6min. Dur:2hrs. Self. Focus needed.
+
+ORX     Class Specialty              18  Arcane Removal:Open            60     pts    Roll:6hrs. AoE:1 Trgt. 1 of 3 Spells. Perm removal of all SP for that class. Rsst Mgc.
+ORX     Communication                4   Arcane Translation             4      pts    Roll:20min. Dur:20. Touch. SKL Save.
+ORX     Communication                7   High Flares                    8      pts    Roll:10min. Dur:20min. 16sq sphere blast:
+
+ORX     Creations                    2   Duplicate Common Item          2      pts    Rng:3sq. 1 low value item. Example: simple tool. basic ring… etc.
+ORX     Creations                    3   False Glow                     4      pts    Roll:2min. Dur:1hr/Tier. Rng:4sq. 1 Item.
+ORX     Creations                    3   Visible Sign Post              4      pts    Roll:1min. Dur:2hrs. Rng:15sqs. AoE:1 post
+
+ORX     Creations                    3   Cats Eye Marble                4      pts    Roll:1min. Dur:2hrs. Rng:PMP. Provides normal sight & not infra red
+ORX     Creations                    4   Triggered Message              4      pts    Roll:30. Dur:Triggered. Stk:3. Preset a message to be spoken.
+ORX     Creations                    6   Release Arcane Script          8      pts    Roll:10min. Dur:1hr. Touch. Enacts Magic
+
+ORX     Creations                    8   Constrain Arcane               8      pts
+ORX     Creations                    8                                  8      pts
+ORX     Creations                    11  Triggered Announcement         12     pts    Roll:3days. Touch. AoE:Up To 2sqs. Stk:3. Recorded message to be replayed 9 times.
+
+ORX     Creations                    11                                 12     pts
+ORX     Creations                    16  Create Leather Colem           16     pts    Roll:6hrs. Dur:1day/Tier. Move:6. HP:120. AC:16/10. ToHIT+2. Dmg:2d10. x1x1.
+ORX     Creations                    17  Create Wood Golem              20     pts    Roll:8hrs. Dur:1day/Tier. Mv:8. HP:160. AC:19/13. ToHIT+4. Dmg:3d8. x2x2. SKL Save.
+
+ORX     Creations                    17                                 20     pts
+ORX     Creations                    19  Create Stone Golem             20     pts    Roll:8hr. Dur:1month. Move:10. HP:200. AC:22/19. ToHIT+8. Dmg:3d10. x2x3.
+ORX     Fences and Shelters          13  Circle of Containment          16     pts    Roll:10min. Dur:4hr. AoE:3sq Radius. Enter easy. Exit w/ BRU Save.
+
+ORX     Find or Reveal               2                                  4      pts
+ORX     Find or Reveal               4   Dispel Magic                   8      pts    Roll:2rd. Rng:4sq. AoE:1 Target. Complete list in Full Report. SKL Save.
+ORX     Find or Reveal               10  Determine True Name            24     pts    Roll:2hr. Rng:4sq. NON Save used. Try to find a True name with item. Non-Save.
+
+ORX     Food And Drink               1   Draw Up Ground Water           4      pts    Roll:10min. Touch. Quantity per region. Temp/Tropic=2 skins/Tier & Arc/Arid=2 skins
+ORX     Healing and Rest             1   Basic Force Heal               4      pts    Rng:1sq. 1 Target. Random 1d4 per Tier. Apply as damage. then x2 as healing.
+ORX     Healing and Rest             2   Triggered Healing              8      pts    Roll:30min. Touch. 1 Trgt. Dur:Til Dmg. Random 2d8.  Dmg x1 & Heal x2. Stk:9
+
+ORX     Healing and Rest             5                                  8      pts
+ORX     Healing and Rest             6                                  8      pts
+ORX     Healing and Rest             15  Held In Stasis                 16     pts    Roll:1min. Dur:1mo/Tier. Touch. Stk:1. Creature placed into a coma. SKL Save.
+
+ORX     Illusions                    5   Ribbon Goblin Lookout          8      pts    ORX
+ORX     Illusions                    20  Mirror A Person                20     pts    Roll:2rds. Dur:20min. Rng:15sqs. Stk:1. Image= HP:20. AC:8/8. Move:10.
+ORX     Ionic Markers                5   Locate Ionic Marker            8      pts    Roll:1hr. Rng:PMP. AoE:Ionic Marker. Receive N NE E SE S SW W NW.  SKL-20
+
+
+
+ORX     Ionic Markers                5   Create Ionic Marker            8      pts    Roll:1day. Touch. 1 simple common item. The unworked item is scry-able.
+ORX     Light-                       10
+
+ORX     Light and Darkness           1   Violet Light                   4      pts    Dur:4hrs. Violet candle light above head. Focus Item can brighten or dim.
+ORX     Light and Darkness           3   Shadow of the Magi             4      pts    Dur:Conc+4rd. AoE:3sq Dia around caster. Darkness hides all that is within.
+ORX     Light and Darkness           4   Duplicate                      4      pts
+
+ORX     Light and Darkness           4   Capture/Release Light          4      pts    Roll:2min. Dur:2hr. Rng:12sq. Can capture or release light from mundane source.
+ORX     Nae'Ems                      1   Send Item to A Vae'Em          4      pts    ORIX
+ORX     Nae'Ems                      3   Call Bonded Person             4      pts    ORIX
+
+ORX     Nae'Ems                      5                                  8      pts
+ORX     Nae'Ems                      7   Portal to Nae'Em               12     pts    Roll:4min. Dur:5min. Rng:PMP. AoE:Self+1. Caster & guest can portal to a Nae'Em.
+ORX     Nae'Ems                      11  Connect to Focus Item          36     pts    Roll:4day. Touch. Must not have a current focus item. Rsst Mgc Save.
+
+ORX     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+ORX     Planar                       1   Langstrom Location             4      pts    ORX
+ORX     Planar                       2   Langstrom Pockets              4      pts    ORX
+
+ORX     Planar                       5   Reveal Origin Plane            8      pts    Roll:20min. Rng:2sq. 1 item/person. Reveals Plane of origin. Rsst Mgc.
+ORX     Planar                       6   Langstrom Portal               8      pts    ORX
+ORX     Planar                       6   Langstrum Rupture              8      pts    Roll:30min. Dur:1min. AoE:1x1 portal. Create a random connection to/from the PMP
+
+ORX     Planar                       12  Portal To Nae'Em               12     pts    Roll:30min. Dur:2min. AoE:caster OR Nae'Em. Both must agree and one can travel.
+ORX     Planar                       12  Langstrom Expulsion            12     pts    ORX
+ORX     Planar                       13  Find Langstrom Portal          16     pts    ORX
+
+ORX     Planar                       15  Vae'Em Portal                  16     pts    Roll:10min. Dur:1min. AoE:1w x2h. Travel=2hrs. No recreation shortcut.
+ORX     Shrines                      5   Scry [To any 'Em]              10     pts    Roll:2min. Dur:1hr. AoE:PMP. Scry to…  Nae/Vae/Cae/Ae/Tae 'Em connected to caster
+ORX     Shrines                      5   Obsure Magic Aura              8      pts    Roll:5min. Dur:Perm. 1 mgc item. SKL.  Hides Powerful/Epic magic as common magic.
+
+ORX     Shrines                      8   Obscure Magical Depth          8      pts    Roll:5min. Dur:EOY. 1 Item. Hides all aspects beyond the 3rd aspect.
+ORX     Shrines                      9   Bond Spirit-Status             12     pts    Roll:30min. Dur:30days. Caster can now use the Cae'Em to watch via the statue.
+ORX     Shrines                      9   Detect 'Ems                    36     pts    Roll:20min. Rng:12sq. AoE:3sq Rad. Often used to find True Names.
+
+ORX     Shrines                      10  Un-Obscure Magic               12     pts    Roll:24hr. Touch the item. Pass SKL to remove any Obscuring magic.
+ORX     Shrines                      14  Shrine:Privacy                 16     pts    Roll:4min. Dur:2hr/Tier. AoE:5sq Rad. Stk:1. Blocks all external Nae'Ems.
+ORX     Summon or Send               4   Call That Item                 4      pts    ORX
+
+ORX     Summon or Send               12  Servant: Pucoe Gree            12     pts    ORX
+ORX     Traveling (PMP)              10  Ladders & Stairs               12     pts    Roll:5rnd. Dur:1hr. 12sq high or long.
+ORX     Utility or Misc              11  Remove Arcane Focus            36     pts    Roll:20 Min. Dur:Permanent. Touch.
+
+ORX     Watch/Scry                   11  Nae'Em Eavesdrop               12     pts    Roll:5rd. Dur:5hr/Tier. Rng:20sq. SKL Save. Go blind to hear a private convo.
+ROG     Battle Actions/Prep          1   Avoid Rngd/Thrown              4      pts    Self.  Dur:1hr or End of Battle. Stk:1. +2 AC vs Ranged/Thrown attacks from front.
+ROG     Battle Actions/Prep          2   Thrown Wpn Expertise           4      pts    Roll:1min. Dur:24hr or Battle. Stk:1. 1 selected weapon. ROG +1 ToHIT/Tier.
+
+ROG     Battle Actions/Prep          3   Melee Wpn Speed                4      pts    Roll:2rd. Dur:24hr or Battle. Stk:1. 1 selected weapon. ROG 1 attack/Tier.
+ROG     Battle Actions/Prep          4   Take Point                     4      pts    Roll:1min. Dur:24hrs. Scout 6sqs ahead. Group= No surprize. Init+4 for 1st round.
+ROG     Battle Actions/Prep          5   Patient and Watchful           8      pts    Roll:4rds. Dur:4hrs. AoE:2x2sqs.  AC Flank = Front. Hyperawarness.
+
+ROG     Battle Offense               2   Melee Backstab                 4      pts    EXTRA: Range:1sq. AoE:1 Trgt. Flank only. ToHIT+4 /Tier & weapon damage +4 / Tier.
+ROG     Battle Offense               4   Rogues Charge                  4      pts    EXTRA: Attacks:1. AC:-4. Init/ToHIT/Dmg +8. Move:x2 (Min 4sq).   May pivot!
+ROG     Battle Offense               4   Surprise Throw                 4      pts    JUST 1: Pre-battle. Rng:3sq/Tier. ToHIT+3/Tier. Damage=Crit Roll.
+
+ROG     Battle Offense               6   Held Throw                     8      pts    ToHIT & Dmg +5 per held attack (Max +20). Move @ 1/2.
+ROG     Battle Offense               8   Whirling Mardra                8      pts    JUST 1: Rng:ALL Adjacent Sqs. 1 attack with ToHIT +4 & Dmg +4.
+ROG     Battle Offense               11  Mounted Melee Attack           12     pts    Dur:Battle. AoE:Trained Mount. Single handed wpns. Sm shld/Buckler. 2 attks max.
+
+ROG     Battle Reaction              3   Draw Attention                 4      pts    Just 1: 1 attk. SNS Comparison Save.  Character draws all attention their way.
+ROG     Battle Reaction              3   Blunder Reroll                 4      pts    INTERRUPT: After Blunder roll. Remove current resulst and reroll.
+ROG     Battle Reaction              3   Dodge AoO Attacks              4      pts    EXTRA: AGL Comparison Save to dodge. Number of Dodges = class Tier.
+
+ROG     Battle Reaction              5   Disrupt Concentration          8      pts    EXTRA: Dur:2rds. Rng:8sqs. AoE:1 Trgt. SNS Comparison Save to Disrupt.
+ROG     Battle Reaction              6   2nd Attempt To Grab            8      pts    INTERRUPT: Self. Touch.  Allows 2nd try to grab a small unattached item.
+ROG     Battle Reaction              7   Blunder Change Up              8      pts    INTERRUPTION: After blunder % is rolled… Rogue selects column of blunder.
+
+ROG     Battle Reaction              13  Feign Death                    16     pts    INTERRUPT: Dur:Min 2rds. Self. AC=3/3. Comparision SKL Save may be needed.
+ROG     Class Specialty              1   Rogue To Rogue Signals         4      pts    Dur:30min. Rng:Sight. Stk:3. SKL Save. 1 simple statement per round.
+ROG     Class Specialty              1   Climbing                       4      pts    Dur:5min, Climb=Walk. AGL Save is adjusted by ease/difficulty.
+
+ROG     Class Specialty              2   Basic Disguise                 4      pts    Roll:30min. Dur:12hrs. Self. Change w/in physical limits. Kit helps. SKL Save.
+ROG     Class Specialty              2   Ventriloquism                  4      pts    Rng:4sq/Tier. SKL Save required.  Generic sound = +30 to Save. Complex sound= -30.
+ROG     Class Specialty              2   Silent Movements               4      pts    Dur:20min. Self. SKL Save required. Adj for load/speed/noise/light etc.
+
+ROG     Class Specialty              2   Convincing Another             4      pts    Roll:5min. Dur:2 days. Rng:hearing. Adj'd for complex/simple.  SKL required.
+ROG     Class Specialty              4   Sleight Of Hand                4      pts    Aoe:arms length. SKL Save required. Adj by Noise & distraction etc.
+ROG     Class Specialty              12  Impersonate A Person           12     pts    Roll:10min+. Dur:12hrs. Self. Kit needed. SKL Save adjusted by complexity.
+
+ROG     Communication                6   Overhear Conversation          8      pts    Roll:5min. Dur:1hr. Rng:12. AoE:1 convo. w/in sight & Range hear as if within 1sq.
+ROG     Find or Reveal               1   Find Entrance/Gate             4      pts    Urban or Dungeon. Become aware of a landmark and N NE E SE S SW W & NW.
+ROG     Find or Reveal               1   Search For Item                4      pts    Roll:1min. Touch. AoE:Person/Small area. Search for 'anything strange': SKL +30.
+
+
+
+ROG     Find or Reveal               3   Reveal Value                   4      pts    Roll:10rds. Rng:Touch. AoE:1 Item. <100gp value Cost is 0. >100gp SKL Save.
+ROG     Find or Reveal               4   Search The Area                4      pts    Roll:10min. Dur:2hrs. Touch. AoE:2sq cube. General area search (oddities/hints). SKL.
+
+ROG     Mechanicals                  1   Dis/Arm Locks or Traps         8      pts    Roll:10min. Touch, Kit assists. Complete description in Full Report. SKL.
+ROG     Mechanicals                  2   Create Message Trap            20     pts    Roll:20min. AoE:1sq. Kit helps. GM/Player set up a trigger & message w/SKL.
+ROG     Mechanicals                  3   Create Impedance Trap          12     pts    Roll:5min. AoE:1x2sq. Kit helps. GM/Player set up a trigger and camo.
+
+ROG     Mechanicals                  5   Create Damage Trap             40     pts    Roll:2hr. AoE:1sq. Kit helps. GM/Player set up a trigger. Dmg=2d6. SKL Save.
+ROG     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+ROG     Urban Environment            9   Urban Tracking                 12     pts    Roll:3d8min. Dur:4hr. AoE:Urban/Subtrrn. Move:1/2. Attks=1. Compare SKL Save.
+
+ROG     Urban Environment            10  Lose A Tail                    12     pts    Roll:3d8min. Dur:4hr. AoE:Urban/Subtrrn. Move:1/2. Attks=1. Compare SKL Save.
+Rules   Communication                1                                  4      pts
+Rules   z - Basic Skills To All      1                                  4      pts
+
+Rules   z - Basic Skills To All      1   Riding Horses                  0      pts    ALL
+Rules   z - Basic Skills To All      1                                  0      pts
+Rules   z - Basic Skills To All      1   Swimming, Beginning            0      pts    ALL
+
+STM     Battle Actions/Prep          6   Increase Fighter Move          8      pts    Dur:6hr. Range:2sqs to a FTR. Stk:1. Travel= +0.5.  Battle= +2 (Walk/Flight).
+STM     Battle Defense               3   Prot FTR vs Rngd/Thrwn         4      pts    Dur:4hrs/Battle. Range:8sqs. 1 per recip. AC+2 vs Ranged or Thrown. No Melee.
+STM     Battle Offense               1   Blinding Flashes               4      pts    Dur:1rd/Tier. Rng:10sqs. AoE:2x2. Stk:99. Failed Resist Save= AC & ToHIT -2.
+
+STM     Battle Offense               2   Electric Zap                   4      pts    Range:10sqs. AoE:1sq. Direct attack. Damage 1d8+ACU (non-Adamnt +2).
+STM     Battle Offense               8   Static Bolt                    8      pts    Range:15sqs. AOE:Direct line. 1 ToHIT for 3 targets. Dmg:2d6+ACU (not Admnt+1d6)
+STM     Battle Offense               11  Power Attack Duel              2      pts    INTERRUPT: Rng:10sq. AoE:1 Trgt. Forces a magical duel.
+
+STM     Battle Offense               12  Electric Power Attack          18     pts    Range:12sq. AoE:1 Trgt. SKL Save for 1/2. Dmg: 4d10+ACU (Focus= Dmg:+1d10).
+STM     Battle Offense               16  Lightening Bolt                16     pts    Range:15sq. Aoe:4 Targets lined w/o Adam. Dmg: 2d6+ACU.  AGL Save for 1/2.
+STM     Class Specialty              18  Arcane Removal:Close           60     pts    Roll:6hrs. AoE:1 Trgt. 3rd of 3 castings. Perm removal of all SP for that class.
+
+STM     Communication                9   Speak w/ Resting Dead          12     pts    Roll:15min. Dur:5min. Rng:6sq. AoE:1 trgt. Requires undisturbed & marked remains.
+STM     Fences and Shelters          1   Camp Shock Perimeter           4      pts    Roll:2min. Dur:8hrs. AoE:3x3sq. Crossing= Zap of 1d3+3 Dmg. Save for 1/2
+STM     Fences and Shelters          7   Strumos Waystation             8      pts    Roll:1min. Dur:12hr. AoE:3x3sqs. Stk:1. Protected from non-extreme weather.
+
+STM     Fences and Shelters          8   Circle:Prot vs Undead          8      pts    Dur:5rd. Rng:6sq. AoE:3sq Rad. Stk:1. Undead= Blocked. LivingDead= SKL Save.
+STM     Fences and Shelters          9   Charged Fencing                12     pts    Dur:4hr. Rng:6sq. AoE:2-9sq w/corner. 1sq high. Touch= 3d6 Elect dmg. Resist 1/2.
+STM     Fences and Shelters          12  Astral Shed                    12     pts    Roll:1min. Dur:8hr. AoE:1x1x2. Stk:1. Inside: 8 bedrooms & common, stocked.
+
+STM     Fences and Shelters          13  Circle of Containment          16     pts    Roll:10min. Dur:4hr. AoE:3sq Radius. Enter easy. Exit w/ BRU Save.
+STM     Find or Reveal               5   Detect Magic                   8      pts    Roll:5min. Rng:2sq. Items:1-5. Mgc=Candle. Mundane=none. Epic=Blinded/SKL Save.
+STM     Find or Reveal               6   Dispel Magic                   8      pts    Roll:2rd. Rng:4sq. AoE:1 Target. Complete list in Full Report. SKL Save.
+
+STM     Find or Reveal               10  Determine True Name            24     pts    Roll:2hr. Rng:4sq. NON Save used. Try to find a True name with item. Non-Save.
+STM     Food And Drink               1   Draw Up Ground Water           4      pts    Roll:10min. Touch. Quantity per region. Temp/Tropic=2 skins/Tier & Arc/Arid=2 skins
+STM     Food And Drink               4   Improve Food                   4      pts    Roll:10min. Dur:1hr. Up to 21 meals. Taste & Nutrition improve.
+
+STM     Food And Drink               15  Create Lg Family Meal          16     pts    Roll:5min. Touch. Stk:3. 2d12+10 meals with 3 skins of water.
+STM     Fragility                    1   Cause Illness                  8      pts    Currently working on the Fragility system.
+STM     Fragility                    3   Detoxify                       4      pts    Currently working on the Fragility system.
+
+STM     Fragility                    5   Quarantine Isolation           8      pts    Currently working on the Fragility system.
+STM     Fragility                    8   Electric Cleanse               8      pts    Currently working on the Fragility system.
+STM     Fragility                    9   Cure Disease                   12     pts    Currently working on the Fragility system.
+
+STM     Healing and Rest             1   Basic Healing                  4      pts    Rng:8sq. 1 Target. Living only. 1d8+ACU pain free healing.
+STM     Healing and Rest             2   Feather Bed                    4      pts    Roll:2min. Dur:12hr. w/blankets & Pillow. 1 shift equal to full night.
+STM     Healing and Rest             2   Light Nap (Sleep)              4      pts    Roll:1min. Dur:1d6hr. Rng:8sq. 1 Target. Target:SNS Save. Fail=Sleep. Easy to wake.
+
+STM     Healing and Rest             2   Triggered Healing              8      pts    Roll:30min. Touch. 1 Trgt. Dur:Til Dmg. Random 2d8.  Dmg x1 & Heal x2. Stk:9
+STM     Healing and Rest             4   Final Rites                    4      pts    Roll:30min. 1 corpse. (not un/living dead) Remove all connections to all PMPs.
+STM     Healing and Rest             4   Slow Healing                   10     pts    Roll:4hr. Rng:2sq. 1 crtr. Stk:3. SKL Save each hour to heal 10 pts.
+
+STM     Healing and Rest             5   Repair A Dead Body             2      pts    Roll:30min. Rng:1sq. 1 corpse. Stk:1. Body cleaned & presentable for burial.
+STM     Healing and Rest             6   Common Healing                 6      pts    Rng:8sq. 1 living creature. Heal 2d8 + ACU.
+STM     Healing and Rest             9   Extra Healing                  8      pts    Rng:8sq. 1 living creature. Heal 3d8 + ACU.
+
+STM     Healing and Rest             11  Revive Life w/ A ZAP!          36     pts    Roll:4hr. Touch. Corpse dead <25 hrs. SKL Save: Curr HP=20. Max HP -5.
+STM     Healing and Rest             12  Great Healing                  12     pts    Rng:8sq. 1 living creatures. Heal 5d8 + ACU
+STM     Healing and Rest             12  Deep Doze Sleep                12     pts    Roll:10min. Dur:4hr. Rng:4sq/Tier. Stk:5. Fail SNS Save=Sleep. 2nd attempt-40.
+
+STM     Healing and Rest             14  Major Healing                  15     pts    Rng:8sq. 1 living creature. Heal 5d10 + 4 ACU.
+STM     Healing and Rest             15                                 16     pts
+STM     Healing and Rest             16  Major Bolt of Health           16     pts    Rng:15sq. 1 living creature.  Heal 6d12 +6 +ACU. May dodge w/ AGL save.
+
+STM     Healing and Rest             17  Group Heal                     20     pts    Roll:20min. Rng:6sq. AoE:3sq Rad. 3 crtr min. 200 HP divided equally.
+STM     Light-                       10
+STM     Light and Darkness           1   Yellow Light                   4      pts    Dur:12hr. Yellow candle light above self. Focus Item can brighten or dim.
+
+STM     Light and Darkness           3   Shadow of the Magi             4      pts    Dur:Conc+4rd. AoE:3sq Dia around caster. Darkness hides all that is within.
+STM     Nae'Ems                      6   Create Vae'Em                  8      pts    Roll:4hr. AoE:1sq. Re-make: @location 1hr. if not the 2 days.
+STM     Nae'Ems                      7   Create Nae'Em                  16     pts    Roll:4day. Rng:1sq. Re-make: @location 1hr. if not the 2 days.
+
+
+
+STM     Nae'Ems                      7   Portal to Nae'Em               12     pts    Roll:4min. Dur:5min. Rng:PMP. AoE:Self+1. Caster & guest can portal to a Nae'Em.
+STM     Nae'Ems                      8   Fighter Strength +1            8      pts    Roll:2min. Dur:1hr. Touch. Stk:2. One spell per recipient.
+
+STM     Nae'Ems                      11  Connect to Focus Item          36     pts    Roll:4day. Touch. Must not have a current focus item. Rsst Mgc Save.
+STM     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+STM     Partner Cooperations         5   Summon Nisse Spirit            16     pts    Roll:10min. AoE:1/2 Mark. Timid. HP=12. SP=4. AC=18/14. Heal caster 1d6 2/day. SKL.
+
+STM     Partner Cooperations         20  Raise The Dead                 40     pts    Roll:8hr. Touch. 1 corpse. Dead<20 years. Revived w/ current 5 HP. Max HP -15. SKL.
+STM     Planar                       5   Arlo's Astral Storage          8      pts    Roll:2min. AoE:1sq. AoE:10 medium items. No magic or crystals or living things. NON.
+STM     Planar                       7   Vae'Em Portal                  8      pts    Roll:4hr. Dur:2hr. Caster 1st. Reset: @site=4min. if not then 2 hrs. SKL.
+
+STM     Planar                       10  Astral Mental Shield           12     pts    Roll:2min. Dur:4hr. AoE:1 Crtr. Astral attk:SKL Save+40.  AC+2 vs Astral.
+STM     Planar                       11  Astral Projection              12     pts    Roll:4hr. Dur:3day. AoE:1 person/Tier. List of benefits in the FULL Report.
+STM     Planar                       13  Astral Expulsion               16     pts    Roll:10min. Dur:4hr. AoE:3sq Rad. Stk:1. Up to 9 Astral crtrs forced to Astral. SKL.
+
+STM     Summon or Send               13  Summon Item                    16     pts    Rng:PMP. AoE:Item w/ Tae'Em. Item appears in casters hand instantly.
+STM     Traveling (PMP)              3   Astral Beast of Burden         4      pts    Roll:20min. Dur:1mo. STM+2 riders. HP=25. AC:17/15. x0x1. Dmg:1d8. Move:12. 2 marks
+STM     Traveling (PMP)              4   Strumos Run                    4      pts    Roll:5min. Dur:8hr. Self. Caster runs at the speed of a standard horse.
+
+STM     Utility or Misc              11  Remove Arcane Focus            36     pts    Roll:20 Min. Dur:Permanent. Touch.
+SYL     Battle Actions/Prep          5   Entangle                       8      pts    Roll:1min. Dur:4hr. Rng:2sqs. AoE:2x2sq. Stk:3. BRU Save to move 1 sq.
+SYL     Battle Actions/Prep          7   UnEntangle                     8      pts    Roll:3rd. Dur:10min. Range:8sq. AoE:2x4. Needs to be placed on an Entangled AoE.
+
+SYL     Battle Actions/Prep          11  Sphere:Prot vs Animals         12     pts    Dur:1hr. AoE:3x3x3sq sphere. Stk:1. Animal Save vs Unskilled to enter/exit.
+SYL     Battle Actions/Prep          14  Call Attack Bear               16     pts    Roll:1m. Dur:2hrs. Stk:2. Bear=HP:200. AC:16. Attk:2. HIT+12. Dmg:2d10. Move:15.
+SYL     Battle Defense               1   Wind Wall                      4      pts    Dur:4rnd. +4 AC vs Ranged/Thrown. Moves with creature. Rsst Mgc Save.
+
+SYL     Battle Defense               3   Wind Wall for HNT              4      pts    Dur:4rd. Range:4sqs/Tier.  AC+2 vs Ranged and Thrown. (Not Melee)
+SYL     Battle Defense               10  Tornado Wall                   12     pts    Roll:2rd. Dur:10min. AoE:3x3sq. Self. AC+4. 1d4 dmg to adjacent sqs. Rsst Mgc Save.
+SYL     Battle Offense               1   Rose Thorns                    4      pts    Range:10sq. AoE:1 Target.  Lobbable damage of 2d6 per Tier.
+
+SYL     Battle Offense               2   Rain Of Hail                   4      pts    Range:8sq. AoE:1sq Lobbable. No ToHIT. Dmg:2d4+ACU. Resist Mgc Save for 1/2.
+SYL     Battle Offense               3   Conjure Native Beetles         4      pts    Rng:10sq. Stk:2. Attk:1. HIT:+4. AC:12. Dmg:1d6. HP=15. SKL Save for HP=25.
+SYL     Battle Offense               8   Hail Stones Attack             8      pts    Range:12sq. AoE:2x2. Lobbable. Dmg: 3d6 +ACU (heat based+4). Resist Save for 1/2.
+
+SYL     Battle Offense               11  Power Attack Duel              2      pts    INTERRUPT: Rng:10sq. AoE:1 Trgt. Forces a magical duel.
+SYL     Battle Offense               12  Ice Power Attack               18     pts    Range:10sq. AoE:1 Trgt. SKL Save for 1/2. Dmg: 5d10+ACU.    Duel is possible.
+SYL     Battle Offense               13  Ice Spear                      16     pts    Range:10sq. AoE:1 Trgt. Lobbable. Dmg:3d8+ACU.  AGL Save for 1/2.
+
+SYL     Battle Offense               16  Water Blast                    16     pts    Dur:3rd. Rng:8sq. AoE:1sq. Stk:3. No arc. Dmg: 5d8+ACU w/conc. AGL Save for 1/2.
+SYL     Fences and Shelters          12  Tree House                     12     pts    Roll:30min. Dur:12hr. Sleeps 10. Stk:3. Tree created w/ House= 60hp & ladder.
+SYL     Fences and Shelters          13  Circle of Containment          16     pts    Roll:10min. Dur:4hr. AoE:3sq Radius. Enter easy. Exit w/ BRU Save.
+
+SYL     Fences and Shelters          19  Fort of Thorns                 20     pts    Roll:30min. Dur:12hr. AoE:10x10. Stk:1. Wall=1x2 high. No roof. AC:8. HP:50/sq.
+SYL     Find or Reveal               5   Detect Magic                   8      pts    Roll:5min. Rng:2sq. Items:1-5. Mgc=Candle. Mundane=none. Epic=Blinded/SKL Save.
+SYL     Find or Reveal               5   Divinging Water                8      pts    Roll:30min. Rng:1/4 Mark. 15sq deep. Arc/Tropic+20. Temp+0. Arid-40. SKL Save.
+
+SYL     Find or Reveal               6   Dispel Magic                   8      pts    Roll:2rd. Rng:4sq. AoE:1 Target. Complete list in Full Report. SKL Save.
+SYL     Find or Reveal               10  Determine True Name            24     pts    Roll:2hr. Rng:4sq. NON Save used. Try to find a True name with item. Non-Save.
+SYL     Food And Drink               1   Draw Up Ground Water           4      pts    Roll:10min. Touch. Quantity per region. Temp/Tropic=2 skins/Tier & Arc/Arid=2 skins
+
+SYL     Food And Drink               2   Increase Non-Mgc Food          4      pts    Roll:10min. Rng:2sqs. Up to 21 meals. Duplicate AND original become magcial.
+SYL     Food And Drink               4   Improve Food                   4      pts    Roll:10min. Dur:1hr. Up to 21 meals. Taste & Nutrition improve.
+SYL     Food And Drink               4   Preserve Food                  12     pts    Roll:2hr. Rnd:4sq. Up to 150 Meals. Requires food to be put in containers.
+
+SYL     Food And Drink               5   Draw Out Rain Water            8      pts    Roll:1min. Up To 1 cubic sq of water. Must have containers ready.
+SYL     Healing and Rest             1   Basic Force Heal               4      pts    Rng:1sq. 1 Target. Random 1d4 per Tier. Apply as damage. then x2 as healing.
+SYL     Healing and Rest             1   Basic Forced Healing           4      pts    Touch. 1 living creature.  Random 1d6. Damage x1 then Heal x2.
+
+SYL     Healing and Rest             2   Triggered Healing              8      pts    Roll:30min. Touch. 1 Trgt. Dur:Til Dmg. Random 2d8.  Dmg x1 & Heal x2. Stk:9
+SYL     Healing and Rest             12  Ranged Forced Heal             12     pts    Rng:15sq. 1 living crtr. Random 2d8+2. Damage x1 then Heal x2
+SYL     Light-                       10
+
+SYL     Light and Darkness           1   Swamp Lights                   4      pts    Dur:2hrs. Green hued candle lights. Stays about casters head.
+SYL     Light and Darkness           3   Shadow of the Magi             4      pts    Dur:Conc+4rd. AoE:3sq Dia around caster. Darkness hides all that is within.
+SYL     Nae'Ems                      2                                  4      pts
+
+SYL     Nae'Ems                      4   Speak w/ Animals               4      pts    Roll:5min. Dur:4hr. 1 Animal. SKL Save for non-domestic. May still be timid.
+SYL     Nae'Ems                      6   Create Animal Ae'Em            12     pts    Roll:4hr. Dur:EOY. Rng:2sq. Stk:3. SKL-20 Save required.
+SYL     Nae'Ems                      7   View Animal w/Ae'Em            8      pts    Roll:5min. Dur:1hr. Rng:PMP. Topdown view. Moves with animal.
+
+SYL     Nae'Ems                      7   Create Nae'Em                  16     pts    Roll:4day. Rng:1sq. Re-make: @location 1hr. if not the 2 days.
+SYL     Nae'Ems                      7   Portal to Nae'Em               12     pts    Roll:4min. Dur:5min. Rng:PMP. AoE:Self+1. Caster & guest can portal to a Nae'Em.
+SYL     Nae'Ems                      11  Connect to Focus Item          36     pts    Roll:4day. Touch. Must not have a current focus item. Rsst Mgc Save.
+
+SYL     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+SYL     Nae'Ems                      20  Landmark Vae                   20     pts    Roll:4hr. Rng:PMP. AoE:3x3sq. Creates a Vae'Em with a natural landmark.
+SYL     Natural Environment          2   Remove Plant Disease           4      pts    Roll:10min. Rng:4sq. AoE:4x4sq. SKL Save required to remove disease from plants.
+
+SYL     Natural Environment          2   Plant Growth                   4      pts    Roll:1hr. AoE:4x4sq / Tier. Promotes fast plant development/growth.
+SYL     Natural Environment          3   Water To Steam (Rev)           4      pts    Rng:2sq/Tier. AoE:1sq/Tier. Reversible. Steam dmg=1/Tier.
+SYL     Natural Environment          4   Predict Weather                4      pts    Roll:1hr. Dur:1wk. AoE:Up to 5 marks. SYL obtains forcast for the area. SKL Save.
+
+
+
+SYL     Natural Environment          4   Water To Ice (Rev)             4      pts    Rng:2sq/Tier, AoE:1sq/Tier. Reversible. Ice dmg=1/Tier.
+SYL     Natural Environment          6   Animal Healing                 6      pts    Roll:1min. Rng:4sq. Heal 2d8+4. Non-Domesticated need SKL Save.
+
+SYL     Natural Environment          6   Grow Plant Canopy              8      pts    Roll:5min. Dur:12hr. Rng:12sq. AoE:3x3sq. Can protect 4 from rain or sun.  Stk:3
+SYL     Natural Environment          7   Water Breathing                8      pts    Roll:1min. Dur:1day. No pollution protect. Can breath fresh or sea water and talk.
+SYL     Natural Environment          10  Control Winds                  12     pts    Roll:10min. Dur:12hr. Rng:18sq. AoE:5x20. Speed:1/4-x2. Dir:N NE E SE S SW W or NW. SKL.
+
+SYL     Natural Environment          15  Control Water Currents         16     pts    Roll:10min. Dur:4hr. AoE:4x4x4sq. Speed:1/4-x2. Dir:N NE E SE S SW W or NW. SKL Save.
+SYL     Partner Cooperations         1                                  1      pt
+SYL     Partner Cooperations         2   Post Yappy Camp Dog            4      pts    Roll:5min. Dur:8hr. AoE:5sq Rad. Stk:1. HP=15. AC=13. Attkx1x1. Dmg:1d4. Move=6.
+
+SYL     Partner Cooperations         3   Direct Rodent                  4      pts    Roll:1min. Dur:30min. AoE:20sq. Stk:5. Rodent=HP 6. AC 19/19. Dmg:1d4. Nae'Em.
+SYL     Partner Cooperations         3   Waterproof A LeanTo            4      pts    After LeanTo set. Roll:10min. Dur:12hr. LeanTo is dryer & Stronger. set for +2 ppl.
+SYL     Partner Cooperations         4   Summon Feline Familiar         8      pts    Roll:2days. Rng:1/2mi. Common. AC=15. Attk=x1x1. Init/HIT+6. Dmg:1d6. Move=15.
+
+SYL     Partner Cooperations         5   Summon Canine Familiar         16     pts    Roll:1da., Rng:1/4mi. Common. HP=40. SP=0. Attk x1x1. Init/HIT+8. Dmg=1d6. Mv=12. SKL.
+SYL     Partner Cooperations         6   Summon Equine Familiar         20     pts    Roll:1d4day. Rng:2marks. HP=80. AC=15. Attk x1x1. Init/HIT+8. Dmg=1d4. Mv=18/30. SKL.
+SYL     Partner Cooperations         7   Call Corvus                    8      pts    Roll:20min. Dur:2hr. AoE:1mark. HP=15. AC=22. Attk x1x1. Dmg=1d6. Move=18/24.
+
+SYL     Partner Cooperations         8   Aid HNT vs Missiles            8      pts    Roll:2rd. Dur:2hr. Rng:12sq. Stk:3. Hunter gains +2 to AC vs Missiles.
+SYL     Partner Cooperations         8   Wolverine Defender             8      pts    Roll:1min. Dur:2hr. Rng:w/in 6sq. HP=50. AC=18/15. x2x2. Init/HIT+6. Dmg=1d8. Mv=12.
+SYL     Partner Cooperations         9   Call Wolf Protector            12     pts    Roll:1min. Dur:2hr. Rng:16sq. AC=19/18. HP=80.  x2x2. Init/HIT+8. Dmg=1d10. Mv=15.
+
+SYL     Shape Change                 1   Shape Of A Dog (20hp)          4      pts    Roll:2min. Dur:8hr. Hearing&Smell. Move:18. AC:20/18. Attkx2x2. Init/HIT+8. Dmg:1d8.
+SYL     Shape Change                 2   Deer Shape(Move:24/36)         4      pts    Roll:2min. Dur:2hr. Hear/Smell. AC:26/18. Attkx1x1. Dmg=1d6. HP=30. Init+12.
+SYL     Shape Change                 3   Plant Shape                    4      pts    Dur:4hr. AoE:1x2sq. AC=8/8. HP=Caster. Can: Hear/Feel.  Cannot:See/Speak/Cast.
+
+SYL     Shape Change                 4   Shape Of A Familiar            8      pts    Roll:6min. Dur:4hr Cat:Infrared/Silence. Dog: Hear/Smell. Horse:Burst Speed=24.
+SYL     Shape Change                 5   Shape Of A Dolphin             8      pts    Roll:1min. Dur:24hr. Swim:12. Init/HIT+10. HP=40. AC=25/22. x1x1. Dmg=2d6. Move:15
+SYL     Shape Change                 7   Wolf Shape                     8      pts    Roll:1min. Dur:4hr. AC=22/20. Move=15/18. HP=50. Attkx2x2. Init/HIT+8. Dmg=2d6.
+
+SYL     Shape Change                 8   Shape Of A Tree                8      pts    Roll:10min. Dur:4hr. Camo. HP=Caster. AC=8. Tree=Caster + 1 guest/Tier.
+SYL     Shape Change                 9   Shape Of A Bear                12     pts    Roll:5min. Dur:2hr. Hear/Smell. AC=25/22. HP=70. x2x3. Init/HIT+8. Dmg=2d8. Move=15.
+SYL     Shape Change                 11  Shape Of A Hawk                12     pts    Roll:4min. Dur:4hr. Sight. AC=32/27. x1x1. Fly=20. Dive=30. HP=25. Dmg=1d8.
+
+SYL     Shape Change                 13  Satyr Shape (Move:15)          16     pts    Roll:5min. Dur:4hr. Hear/Smell. Init/HIT+8. HP+10. AC:14/9. x2x2. Dmg:2d6. Spells.
+SYL     Shape Change                 15  Centaur Shape (HP+20)          16     pts    Roll:8min. Dur:6hr. Move:18/24. Attk:x1x1.  Init/HIT+8. AC:16/14. Spells:x1x2.
+SYL     Shape Change                 16  Mer Person Shape (Swim)        16     pts    Roll:20min. Dur:8hr. Fishing. Init/HIT+8. HP+20. AC:18/14. x1x2. Dmg:2d8. Spells.
+
+SYL     Shape Change                 18  Harpy Shape(Fly:18/24)         20     pts    Roll:8min. Dur:2hr. AC=12/9. Spellsx1x1. Attkx1x1. Dmg:1d6+6. Dive Dmg+1d10. HP+30.
+SYL     Utility or Misc              11  Remove Arcane Focus            36     pts    Roll:20 Min. Dur:Permanent. Touch.
+TRO     Battle Defense               3   TIRO:Armor of Light            30    %       Roll:1min. Dur:4hr. Self. Bright/Sparkly. AC Front/Back = 16.
+
+TRO     Battle Offense               1   TIRO:Pie Fight!                20    %       Range:4sqs. Target AGL Save to avoid or Target blind for 1 round.  AC & HIT-4.
+TRO     Battle Offense               2   TIRO:Fire Crack!               20    %       Range:6sq. AoE:1 Target. ToHIT for 1d3 fire dmg.  AGL Save to not loose 1 attk.
+TRO     Battle Offense               3   TIRO:Quick Push!               40    %       Rng:4sq. A direct and colorful force pushes 1 target 1-4 sqs away.
+
+TRO     Battle Offense               4   TIRO:Quick Flash Fire          30    %       Range:12sq. AoE:1 Trgt. 1d12 fire dmg. AGL Save for 1/2 Damage.
+TRO     Class Specialty              1                                  4     pts
+TRO     Communication                3   TIRO:Signal Flares             15    %       Dur:1min. AoE:1 flare. Stk:1. Random color of flare.
+
+TRO     Fences and Shelters          2   TIRO:Garish Pup Tent           20    %       Roll:1min. Dur:8hr. Rng:8sq. AoE:1x2sq. 2 person tent. Brightly colored.
+TRO     Find or Reveal               4   TIRO:Tracking (Messy)          30    %       Dur:4hr. Leaves bright signpost for 2 days. SNS Save to located Trail.
+TRO     Healing and Rest             1   TIRO:Healing Bolus             30    %       Touch. 1 Target. Bright and colorful. 1d12 HP healing to only living creatures.
+
+TRO     Illusions                    1   TIRO:Beauty Contestant         5     %       Roll:5min. Dur:12hr. Self. Become more attractive (based on race).
+TRO     Illusions                    2   TIRO:Random Friendship         40    %       Dur:2rd. Rng:10sq. AoE:random creature. Temporary friendship created.
+TRO     Illusions                    3   TIRO:2 Rope Image              10    %       Roll:1min. Dur:2hr. AoE:1 Rope. Ribbon-like rope cut then is full again!
+
+TRO     Light and Darkness           4   TIRO:Aural Spark               10    %       Dur:1d20min. Rng:10sq. AoE:2x2sq. Random colorful sparks.  No damage.
+TRO     Nae'Ems                      4   TIRO:Sloppy Spying             25    %       Dur:5min. Rng:12sq. AoE:3x3x3sq. Flashing color above caster.
+TRO     Summon or Send               3   TIRO:Have Your Item            30    %       Rng:4sq. AoE:Small item in sight. Flashy magic grabs a loose item. Rsst Mgc.
+
+TRO     Traveling (PMP)              1   TIRO:Quick Jump                20    %       Rng:1d6sq. Self. Flashy mini personal teleport.
+TRO     Utility or Misc              1   TIRO:Water From Plant          20    %       Dur:10min. AoE:1 plant. Stk:3. Flashy way to get 1/2 skin of water.
+TRO     Utility or Misc              2   TIRO:Amplify Speech            20    %       Dur:5min. Self. Rng:1d4+20sq. Even whispers carry over most wall/barriers.
+
+TRO     Utility or Misc              4   TIRO:Tasty Gruel               25    %       Dur:1hr. Touch. AoE:1d12 meals.  Flashy way to make gruel taste better.
+VEN     Battle Actions/Prep          6   Vines Of Force                 8      pts    Dur:4rd. Range:4sq. AoE:4x4. Stk:3. Move=1 (0 w/ Focus). BRU Save for Move+1.
+VEN     Battle Defense               7   Half Wall of Force             8      pts    Roll:2rd. Dur:5min. Stk:6. 1/2sq x 1-4sq long. May have a corner.
+
+VEN     Battle Offense               1   Phage                          4      pts    Currently working on Fragility system.
+VEN     Battle Offense               1   Force Pinch                    4      pts    Range:12sq. 1 Target. Dmg:1d4+ACU.
+VEN     Battle Offense               2   Force Push                     4      pts    Range:10sq. AoE:1sq (1 Target). Push:1sq. Dmg: 1d6+ACU. BRU Save to hold ground.
+
+VEN     Battle Offense               3   Phage Mist                     6      pts    Currently working on Fragility system.
+VEN     Battle Offense               3   Conjure Native Beetles         4      pts    Rng:10sq. Stk:2. Attk:1. HIT:+4. AC:12. Dmg:1d6. HP=15. SKL Save for HP=25.
+VEN     Battle Offense               8   Phage Rain                     8      pts    Currently working on Fragility system.
+
+VEN     Battle Offense               9   Force Clap                     12     pts    Range:10sq. AoE:1sq (1 Target). Daze:1d2 rds. Dmg: 2d6+ACU. BRU Save for 1/2 Dmg.
+VEN     Battle Offense               11  Power Attack Duel              2      pts    INTERRUPT: Rng:10sq. AoE:1 Trgt. Forces a magical duel.
+VEN     Battle Offense               12  Force Power Attack             18     pts    Range:10sq. AoE:1 Trgt. SKL Save for 1/2. Dmg: 4d10+ACU (Focus= Dmg:+1d10).
+
+
+
+VEN     Battle Offense               12  Phage Power Attack             18     pts    Currently working on Fragility system.
+VEN     Battle Offense               13  Phage Blobs                    16     pts    Currently working on Fragility system.
+
+VEN     Battle Offense               17  Force Cage                     20     pts    Roll:3rd. Dur:3min. Rng:12sq. AoE:1sq. Stk:1. Touch= 3d6+ACU. Bars=120 HP. BRU=2d10 dmg.
+VEN     Battle Offense               17  Hammering Force                20     pts    Range:12sq. AoE:2sq. Direct attk: 3d8+ACU.
+VEN     Chants                       1   Chant:Protection               6      pts    Roll:1min. Dur:10min. AoE:1 Trgt. Rng:12sq. Stk:3. AC+1 per Venerator Tier.
+
+VEN     Chants                       4   Chant:Marker Location          4      pts    Roll:2rd. Rng:PMP. Dur:Instant. Stk:9. Provides N NE E SE S SW W or NW direction.
+VEN     Chants                       8   Chant:Rogues Grace             10     pts    Roll:10min. Dur:4hr. Rng:6sq. Stk:3. Grace +1 per VEN Tier.
+VEN     Chants                       10  Sense Undead                   12     pts    Roll:10min. Dur:1rd. Rng:5sq/Tier.  Direction of N NE E SE S SW W or NW given.
+
+VEN     Commune                      1   Seek Ancestor Spirit           20     pts    Roll:2-4 day. Focus Heirloom required. Find a new Ancestor Spirit Guide.
+VEN     Commune                      3   Converse w/ Ancestor           4      pts    Roll:10min@dawn. Dur:10min. Self. Stk:1. Ask Ancestor RE:specific topic. SKL Save.
+VEN     Commune                      8   Request Ancestor Delve         12     pts    Roll:10min@dawn. Dur:1-6hrs. Ask for info beyond Ancestor knowledge. SKL Save.
+
+VEN     Commune                      11  Use Ancestor Skill             5     %       Roll:1hr. Dur:6hr. Self. Stk:1. An Ancestor skill. no overcast/mastercraft.
+VEN     Commune                      15  Possessed by Ancestor          25    %       Roll:4hr. Dur:24hr. Use 1 Ancestor skill. High quality. no overcasting/mastercraft.
+VEN     Communication                6   Speak with Dead                8      pts    Dur:20min. Touch. AoE:1 Target. Stk:1.
+
+VEN     Communication                19  Dead Conclave Convo            60     pts    Roll:10min. Dur:30min. AoE:4x4. Prsnl tokens 2-6 Ancients forced to speak. SKL Save.
+VEN     Creations                    8   Chant:Weapon Speed             8      pts    Roll:30min. Dur:Battle. Touch. AoE:1 wpn. Weilder gains 1 attack on even rounds.
+VEN     Fences and Shelters          6   Force Platform                 8      pts    Roll:2min. Dur:4hr. Rng:16sq. AoE:2x2sq. Levitates up to 16 square above ground.
+
+VEN     Fences and Shelters          7   Circle: Prot vs Phage          8      pts    Currently working on Fragility system.
+VEN     Fences and Shelters          8   Walls Of Force                 8      pts    Roll:5min. Dur:4hr. Rng:12sq. Stk:3. Ea wall: 2h x 1w sq. HP=30. AC=15.
+VEN     Fences and Shelters          8   Circle:Prot vs Undead          8      pts    Dur:5rd. Rng:6sq. AoE:3sq Rad. Stk:1. Undead= Blocked. LivingDead= SKL Save.
+
+VEN     Fences and Shelters          11  Force Wall                     12     pts    Roll:20min. Dur:8hr. AoE:6x2sqs. Stk:3. Wall= AC:15. HP:50. Invisible.
+VEN     Find or Reveal               2   Whispers Of A Name             4      pts    Rng:20sq. AoE:1 Target. Learn local name. (use "Know About You" for more info)
+VEN     Find or Reveal               4   Aspect Counts by Type          4      pts    Roll:30min. AoE:1 Item. Show count of: Info. Battle. Spell. Intelligence.
+
+VEN     Find or Reveal               4   Dispel Magic                   8      pts    Roll:2rd. Rng:4sq. AoE:1 Target. Complete list in Full Report. SKL Save.
+VEN     Find or Reveal               4   Know About You                 4      pts    Roll:5rd. Rng:8sq. AoE:1 Trgt. Learn…
+VEN     Find or Reveal               4   Divine Aspects                 4      pts    Roll:30min. AoE:1 Item. 1 Aspect/Tier. Repeating doesn't show more & just same.
+
+VEN     Find or Reveal               5   Detect Magic                   8      pts    Roll:5min. Rng:2sq. Items:1-5. Mgc=Candle. Mundane=none. Epic=Blinded/SKL Save.
+VEN     Find or Reveal               10  Determine True Name            24     pts    Roll:2hr. Rng:4sq. NON Save used. Try to find a True name with item. Non-Save.
+VEN     Find or Reveal               18  Divine All Aspects             30     pts    Roll:6hr (Conc). Touch. 1 Object. Finds… Info & Battle & Spells & Intelligence.
+
+VEN     Food And Drink               1   Draw Up Ground Water           4      pts    Roll:10min. Touch. Quantity per region. Temp/Tropic=2 skins/Tier & Arc/Arid=2 skins
+VEN     Healing and Rest             2   Spirited Wound Repair          6      pts    Touch. 1 Recipient. roll 2d4. SKL Save. Damage x1 & Healing x2. Works w/ dead.
+VEN     Healing and Rest             2   Enter Spirit Realm             4      pts    Dur:5min/Tier. Caster & Guest. Remains as 'Ghosts' in PMP.  Can be exorcised.
+
+VEN     Healing and Rest             4   Final Rites                    4      pts    Roll:30min. 1 corpse. (not un/living dead) Remove all connections to all PMPs.
+VEN     Healing and Rest             4   Send Dead On                   4      pts    Roll:30min. 1 corpse. (not un/living dead) Remove all connections to all PMPs.
+VEN     Healing and Rest             11  Ectoplasmic Cast               12     pts    VEN
+
+VEN     Healing and Rest             11  End Dmg Over Time              12     pts    Currently working on Fragility system.
+VEN     Hide or Obscure              7   Slow Alteration                8      pts    Roll:4rd. Dur:4hr. Self. Slowly morph into the image of an Ancestor Spirit.
+VEN     Hide or Obscure              11                                 12     pts
+
+VEN     Ionic Markers                5                                  48     pts
+VEN     Mechanicals                  3   Acid Etching                   4      SP     Roll:30min. Touch. AoE:1x1sq max. May need a Save due to surface or magic.
+VEN     Nae'Ems                      1                                  4      pts
+
+VEN     Nae'Ems                      7   Create Nae'Em                  16     pts    Roll:4day. Rng:1sq. Re-make: @location 1hr. if not the 2 days.
+VEN     Nae'Ems                      7                                  8      pts
+VEN     Nae'Ems                      11  Connect to Focus Item          36     pts    Roll:4day. Touch. Must not have a current focus item. Rsst Mgc Save.
+
+VEN     Nae'Ems                      14  Bestow House Authority         48     pts    Roll:1wk. Rng:Recipient. Creates a House connection that senses loyalty levels.
+VEN     Partner Cooperations         2   Right Place & Time             4      pts    Dur:10hr. Rng:10sq. AoE:Rogue. Spiritual pushes/murmur to aid Rogue.
+VEN     Partner Cooperations         9   Nae'Em Rogue Image             12     pts    Roll:3min. Dur:2hr. Uses 'current' image. Image revealed if touched & NON Save lost.
+
+VEN     Partner Cooperations         16                                 16     pts
+VEN     Planar                       3                                  4      pts
+VEN     Planar                       5   Reveal Origin Plane            8      pts    Roll:20min. Rng:2sq. 1 item/person. Reveals Plane of origin. Rsst Mgc.
+
+VEN     Planar                       7                                  8      pts
+VEN     Shrines                      1   Shrine Of Healing              6      pts    Roll:4rd. Dur:4hr. Rng:6sq. AoE:3x3sq Rad. Must speak words. Heal:1d4/Tier. Stk:1
+VEN     Shrines                      1   Shrine Of Robustness           6      pts    Roll:10min. Dur:10min. Rng:6sq. AoE:2x2. Times DOT removed = Ven Tiers. Rsst Mgc.
+
+VEN     Shrines                      1   Shrine of Dead Light           4      pts    Dur:4hr.   Candlelight=AoE:8sq rad.  Undead w/in lit area movement @ 1/2.
+VEN     Shrines                      5   Arcane Reading (1 pg)          8      pts    Roll:10. Dur:1hr. Touch. AoE:1page/200char. Pass a Comparison Mgc Resist Save to read.
+VEN     Shrines                      5   Scry [To any 'Em]              10     pts    Roll:2min. Dur:1hr. AoE:PMP. Scry to…  Nae/Vae/Cae/Ae/Tae 'Em connected to caster
+
+VEN     Shrines                      5   Obsure Magic Aura              8      pts    Roll:5min. Dur:Perm. 1 mgc item. SKL.  Hides Powerful/Epic magic as common magic.
+VEN     Shrines                      5   Sky Scrying                    8      pts    Roll:6min. Dur:30min/Tier. Rng:5 marks. AoE:10sq Rad. Must be outdoors.
+VEN     Shrines                      6   Shrine of Mechanics            10     pts    Roll:2min. Dur:10min. AoE:3sq Rad. Must speak words. ROG can disarm magic trap. Rsst Mgc.
+
+VEN     Shrines                      6   Shrine:Written Word            10     pts    Roll:8min. Dur:1hr. AoE:3sq Rad. All can read/write basic lang. Must speak words. Rsst Mgc.
+VEN     Shrines                      6   Create A Home Pad              8      pts    Roll:1hr. Dur:12hr. AoE:1sq. Stk:1. Return spot for Ethereal Portals.
+VEN     Shrines                      8   Shrine of Privacy              8      pts    Roll:4min. Dur:2hr/Tier, AoE:3sq Rad. Blocks Nae/Vae/Tae/Ae/Cae for duration. SKL.
+
+
+
+VEN     Shrines                      8   Shrine:Portal Detect           8      pts    Roll:4min. Dur:4hr. AoE:1 Mark Rad. Reveals directions an to active portal.
+VEN     Shrines                      8   Obscure Magical Depth          8      pts    Roll:5min. Dur:EOY. 1 Item. Hides all aspects beyond the 3rd aspect.
+
+VEN     Shrines                      9   Detect 'Ems                    36     pts    Roll:20min. Rng:12sq. AoE:3sq Rad. Often used to find True Names.
+VEN     Shrines                      9   Bond Spirit-Status             12     pts    Roll:30min. Dur:30days. Caster can now use the Cae'Em to watch via the statue.
+VEN     Shrines                      10  Shrine:Block Scrying           12     pts    SKL Save to block. Dur:1hr. AoE:6sq rad. Stk:1.
+
+VEN     Shrines                      10  Speak Language                 12     pts    Roll:3min. Dur:1day. Learn a non-Arcane language.
+VEN     Shrines                      10  Un-Obscure Magic               12     pts    Roll:24hr. Touch the item. Pass SKL to remove any Obscuring magic.
+VEN     Shrines                      12  Spiritual Expulsion            12     pts    Roll:1hr. Dur:24hr. Rng:12sq. AoE:3sq Rad. Clears AoE of ghosts/spirits/ect. SKL Save.
+
+VEN     Shrines                      14  Establish A House              48     pts    Roll:1mo. Perm. Creates a House that others can join/follow.
+VEN     Shrines                      14  Ironic Marker                  16     pts    Roll:10min. Dur:EOY. AoE:5sq Rad. Moveable. Placed on IONIC this will curse the finder
+VEN     Summon or Send               6   Conjure Arcan Beetles          8      pts    Rng:8sq. AoE:1sq. Swarm= HP:30. Attk:x2x2. AC:15. Move:4sq. HIT+6. Dmg:1d8. Stk:3. SKL.
+
+VEN     Traveling (PMP)              10  Ladders & Stairs               12     pts    Roll:5rnd. Dur:1hr. 12sq high or long.
+VEN     Watch/Scry                   2   Create Magical Glow            2      pts    Roll:1min. Dur:EOY. 1 item. Stk:9. Detect Magic = Magic!. # of Aspects?=0.
+VEN     Watch/Scry                   10  Astral Image(No spells)        12     pts    Roll:20min. Dur:4hr. AoE:PMP. Rng:30sqs. Ghost-like. HP=1/2. AC=12. Move=12.
