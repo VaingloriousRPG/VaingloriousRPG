@@ -5,7 +5,7 @@
   --clr-fighter: rgba(189, 186, 186);
   --clr-fighterO: rgba(189, 186, 186, 0.705);
   --clr-rogue:  #b97a57;
-  --clr-rogueO: #b97957b2;
+  --clr-rogueO: #b97957c5;
   --clr-hunt:  rgba(115, 170, 142);
   --clr-huntO: rgba(115, 170, 142, 0.705);
   --clr-dokour: rgb(234, 84, 107);
@@ -132,7 +132,7 @@ body{
       background-image: url("images/RogPics.png"); background-position: 50% 60%;
      }            
      .btnR {
-          color:black; float: left; background-image: url("images/RogBack.png"); float: left; margin-left: 1vw;
+          color:black; float: left; background-color: var(--clr-rogue); float: left; margin-left: 1vw;
            }              
      .btnR2 {
           font-size: .8em; background-color: var(--clr-rogueO);
