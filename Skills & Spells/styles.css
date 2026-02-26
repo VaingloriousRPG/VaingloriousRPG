@@ -16,8 +16,8 @@
   --clr-strumosO:rgba(232, 247, 149, 0.705);
   --clr-sylvan: #05ee19;
   --clr-sylvanO: #05ee18c0;
-  --clr-orix: rgb(184, 128, 171);
-  --clr-orixO: rgb(184, 128, 171);
+  --clr-alq: rgb(184, 128, 171);
+  --clr-alqO: rgb(184, 128, 171);
   --clr-ven: rgb(199, 232, 247);
   --clr-venO: rgb(199, 232, 247, 0.705);  
   --clr-tiro: rgba(196, 197, 148, 0.705);
@@ -175,14 +175,14 @@ body{
      .btnSy2 {
         font-size: .8em; background-color: var(--clr-sylvanO);
              }
-.ori {
-      background-image: url("images/OriPics.png"); background-position: 50% 60%;
+.alq {
+      background-image: url("images/AlqPics.png"); background-position: 50% 60%;
       }                               
      .btnO {
-        color:rgb(244, 247, 244); background-color: var(--clr-orix); float: left; margin-left: 1vw;
+        color:rgb(244, 247, 244); background-color: var(--clr-alq); float: left; margin-left: 1vw;
       }                           
      .btnO2 {
-        font-size: .8em; background-color: var(--clr-orixO);
+        font-size: .8em; background-color: var(--clr-alqO);
             }
 .ven {
       background-image: url("images/EolPics.png"); background-position: 50% 60%;
@@ -306,7 +306,7 @@ body{
   #ten{
     grid-column:4;
     grid-row: 1;
-    background-image: url("images/OrixCard.png");
+    background-image: url("images/AlqCard.png");
     background-repeat: no-repeat; background-size: cover;
     cursor: pointer;
   }
