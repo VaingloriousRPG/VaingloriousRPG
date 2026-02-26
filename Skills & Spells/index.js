@@ -56,7 +56,7 @@ function openNav() {
 
                  <button id="nine" onclick="document.location='../../index.html'">All Skills</button>
             
-                 <button id="ten" onclick="document.location='skillPages/Alquin/ALQColumn.html'">Alquin</button>
+                 <button id="ten" onclick="document.location='../Alquin/ALQColumn.html'">Alquin</button>
             
                
             </span>
