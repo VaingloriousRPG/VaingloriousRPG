@@ -10,6 +10,8 @@
   --clr-huntO: rgba(115, 170, 142, 0.705);
   --clr-dokour: rgb(234, 84, 107);
   --clr-dokourO: rgba(234, 84, 107, 0.705);
+  --clr-dr: rgba(0,0,0,0);
+  --clr-dr0: rgb(49, 51, 51);
   --clr-eolas: rgba(237, 226, 192);
   --clr-eolasO: rgba(237, 226, 192, 0.705);
   --clr-strumos: rgb(232, 247, 149);
@@ -146,6 +148,15 @@ body{
                          
      .btnD2 {
         font-size: .8em; background-color: var(--clr-dokourO);
+            }
+dr { 
+      background-image: url("images/RogPics.png"); background-position: 50% 60%;
+     }            
+     .btnR {
+          color:black; float: left; background-color: var(--clr-dr); float: left; margin-left: 1vw;
+           }              
+     .btnR2 {
+          font-size: .8em; background-color: var(--clr-drO);
             }
 .eol { 
       background-image: url("images/EolPics.png"); background-position: 60% 70%;
